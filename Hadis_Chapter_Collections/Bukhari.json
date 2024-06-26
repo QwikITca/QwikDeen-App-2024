@@ -1,0 +1,881 @@
+
+
+
+[
+        {
+         "UnicId": "1693484172-1",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "1",
+         "bookname_english": "Revelation",
+         "bookname_arabic": "كتاب بدء الوحى",
+         "hadith_serial_start": "1",
+         "hadith_serial_end": "7"
+        },
+        {
+         "UnicId": "1693484172-2",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "2",
+         "bookname_english": "Belief",
+         "bookname_arabic": "كتاب الإيمان",
+         "hadith_serial_start": "8",
+         "hadith_serial_end": "58"
+        },
+        {
+         "UnicId": "1693484172-3",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "3",
+         "bookname_english": "Knowledge",
+         "bookname_arabic": "كتاب العلم",
+         "hadith_serial_start": "59",
+         "hadith_serial_end": "134"
+        },
+        {
+         "UnicId": "1693484172-4",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "4",
+         "bookname_english": "Ablutions (Wudu')",
+         "bookname_arabic": "كتاب الوضوء",
+         "hadith_serial_start": "135",
+         "hadith_serial_end": "247"
+        },
+        {
+         "UnicId": "1693484172-5",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "5",
+         "bookname_english": "Bathing (Ghusl)",
+         "bookname_arabic": "كتاب الغسل",
+         "hadith_serial_start": "248",
+         "hadith_serial_end": "293"
+        },
+        {
+         "UnicId": "1693484172-6",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "6",
+         "bookname_english": "Menstrual Periods",
+         "bookname_arabic": "كتاب الحيض",
+         "hadith_serial_start": "294",
+         "hadith_serial_end": "333"
+        },
+        {
+         "UnicId": "1693484172-7",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "7",
+         "bookname_english": "Rubbing hands and feet with dust (Tayammum)",
+         "bookname_arabic": "كتاب التيمم",
+         "hadith_serial_start": "334",
+         "hadith_serial_end": "348"
+        },
+        {
+         "UnicId": "1693484172-8",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "8",
+         "bookname_english": "Prayers (Salat)",
+         "bookname_arabic": "كتاب الصلاة",
+         "hadith_serial_start": "349",
+         "hadith_serial_end": "520"
+        },
+        {
+         "UnicId": "1693484172-9",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "9",
+         "bookname_english": "Times of the Prayers",
+         "bookname_arabic": "كتاب مواقيت الصلاة",
+         "hadith_serial_start": "521",
+         "hadith_serial_end": "602"
+        },
+        {
+         "UnicId": "1693484172-10",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "10",
+         "bookname_english": "Call to Prayers (Adhaan)",
+         "bookname_arabic": "كتاب الأذان",
+         "hadith_serial_start": "603",
+         "hadith_serial_end": "875"
+        },
+        {
+         "UnicId": "1693484172-11",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "11",
+         "bookname_english": "Friday Prayer",
+         "bookname_arabic": "كتاب الجمعة",
+         "hadith_serial_start": "876",
+         "hadith_serial_end": "941"
+        },
+        {
+         "UnicId": "1693484172-12",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "12",
+         "bookname_english": "Fear Prayer",
+         "bookname_arabic": "كتاب صلاة الخوف",
+         "hadith_serial_start": "942",
+         "hadith_serial_end": "947"
+        },
+        {
+         "UnicId": "1693484172-13",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "13",
+         "bookname_english": "The Two Festivals (Eids)",
+         "bookname_arabic": "كتاب العيدين",
+         "hadith_serial_start": "948",
+         "hadith_serial_end": "989"
+        },
+        {
+         "UnicId": "1693484172-14",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "14",
+         "bookname_english": "Witr Prayer",
+         "bookname_arabic": "كتاب الوتر",
+         "hadith_serial_start": "990",
+         "hadith_serial_end": "1004"
+        },
+        {
+         "UnicId": "1693484172-15",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "15",
+         "bookname_english": "Invoking Allah for Rain (Istisqaa)",
+         "bookname_arabic": "كتاب الاستسقاء",
+         "hadith_serial_start": "1005",
+         "hadith_serial_end": "1039"
+        },
+        {
+         "UnicId": "1693484172-16",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "16",
+         "bookname_english": "Eclipses",
+         "bookname_arabic": "كتاب الكسوف",
+         "hadith_serial_start": "1040",
+         "hadith_serial_end": "1065"
+        },
+        {
+         "UnicId": "1693484172-17",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "17",
+         "bookname_english": "Prostration During Recital of Qur'an",
+         "bookname_arabic": "كتاب سجود القرآن",
+         "hadith_serial_start": "1067",
+         "hadith_serial_end": "1079"
+        },
+        {
+         "UnicId": "1693484172-18",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "18",
+         "bookname_english": "Shortening the Prayers (At-Taqseer)",
+         "bookname_arabic": "كتاب التقصير",
+         "hadith_serial_start": "1080",
+         "hadith_serial_end": "1119"
+        },
+        {
+         "UnicId": "1693484172-19",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "19",
+         "bookname_english": "Prayer at Night (Tahajjud)",
+         "bookname_arabic": "كتاب التهجد",
+         "hadith_serial_start": "1120",
+         "hadith_serial_end": "1187"
+        },
+        {
+         "UnicId": "1693484172-20",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "20",
+         "bookname_english": "Virtues of Prayer at Masjid Makkah and Madinah",
+         "bookname_arabic": "كتاب فضل الصلاة فى مسجد مكة والمدينة",
+         "hadith_serial_start": "1188",
+         "hadith_serial_end": "1197"
+        },
+        {
+         "UnicId": "1693484172-21",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "21",
+         "bookname_english": "Actions while Praying",
+         "bookname_arabic": "كتاب العمل فى الصلاة",
+         "hadith_serial_start": "1198",
+         "hadith_serial_end": "1223"
+        },
+        {
+         "UnicId": "1693484172-22",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "22",
+         "bookname_english": "Forgetfulness in Prayer",
+         "bookname_arabic": "كتاب السهو",
+         "hadith_serial_start": "1224",
+         "hadith_serial_end": "1236"
+        },
+        {
+         "UnicId": "1693484172-23",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "23",
+         "bookname_english": "Funerals (Al-Janaa'iz)",
+         "bookname_arabic": "كتاب الجنائز",
+         "hadith_serial_start": "1237",
+         "hadith_serial_end": "1394"
+        },
+        {
+         "UnicId": "1693484172-24",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "24",
+         "bookname_english": "Obligatory Charity Tax (Zakat)",
+         "bookname_arabic": "كتاب الزكاة",
+         "hadith_serial_start": "1395",
+         "hadith_serial_end": "1512"
+        },
+        {
+         "UnicId": "1693484172-25",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "25",
+         "bookname_english": "Hajj (Pilgrimage)",
+         "bookname_arabic": "كتاب الحج",
+         "hadith_serial_start": "1513",
+         "hadith_serial_end": "1771"
+        },
+        {
+         "UnicId": "1693484172-26",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "26",
+         "bookname_english": "`Umrah (Minor pilgrimage)",
+         "bookname_arabic": "كتاب العمرة",
+         "hadith_serial_start": "1773",
+         "hadith_serial_end": "1805"
+        },
+        {
+         "UnicId": "1693484172-27",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "27",
+         "bookname_english": "Pilgrims Prevented from Completing the Pilgrimage",
+         "bookname_arabic": "كتاب المحصر",
+         "hadith_serial_start": "1806",
+         "hadith_serial_end": "1820"
+        },
+        {
+         "UnicId": "1693484172-28",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "28",
+         "bookname_english": "Penalty of Hunting while on Pilgrimage",
+         "bookname_arabic": "كتاب جزاء الصيد",
+         "hadith_serial_start": "1821",
+         "hadith_serial_end": "1866"
+        },
+        {
+         "UnicId": "1693484172-29",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "29",
+         "bookname_english": "Virtues of Madinah",
+         "bookname_arabic": "كتاب فضائل المدينة",
+         "hadith_serial_start": "1867",
+         "hadith_serial_end": "1890"
+        },
+        {
+         "UnicId": "1693484172-30",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "30",
+         "bookname_english": "Fasting",
+         "bookname_arabic": "كتاب الصوم",
+         "hadith_serial_start": "1891",
+         "hadith_serial_end": "2007"
+        },
+        {
+         "UnicId": "1693484172-31",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "31",
+         "bookname_english": "Praying at Night in Ramadaan (Taraweeh)",
+         "bookname_arabic": "كتاب صلاة التراويح",
+         "hadith_serial_start": "2008",
+         "hadith_serial_end": "2013"
+        },
+        {
+         "UnicId": "1693484172-32",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "32",
+         "bookname_english": "Virtues of the Night of Qadr",
+         "bookname_arabic": "كتاب فضل ليلة القدر",
+         "hadith_serial_start": "2014",
+         "hadith_serial_end": "2024"
+        },
+        {
+         "UnicId": "1693484172-33",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "33",
+         "bookname_english": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+         "bookname_arabic": "كتاب الاعتكاف",
+         "hadith_serial_start": "2025",
+         "hadith_serial_end": "2046"
+        },
+        {
+         "UnicId": "1693484172-34",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "34",
+         "bookname_english": "Sales and Trade",
+         "bookname_arabic": "كتاب البيوع",
+         "hadith_serial_start": "2047",
+         "hadith_serial_end": "2238"
+        },
+        {
+         "UnicId": "1693484172-35",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "35",
+         "bookname_english": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+         "bookname_arabic": "كتاب السلم",
+         "hadith_serial_start": "2239",
+         "hadith_serial_end": "2256"
+        },
+        {
+         "UnicId": "1693484172-36",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "36",
+         "bookname_english": "Shuf'a",
+         "bookname_arabic": "كتاب الشفعة",
+         "hadith_serial_start": "2257",
+         "hadith_serial_end": "2259"
+        },
+        {
+         "UnicId": "1693484172-37",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "37",
+         "bookname_english": "Hiring",
+         "bookname_arabic": "كتاب الإجارة",
+         "hadith_serial_start": "2260",
+         "hadith_serial_end": "2285"
+        },
+        {
+         "UnicId": "1693484172-38",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "38",
+         "bookname_english": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+         "bookname_arabic": "كتاب الحوالات",
+         "hadith_serial_start": "2287",
+         "hadith_serial_end": "2289"
+        },
+        {
+         "UnicId": "1693484172-39",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "39",
+         "bookname_english": "Kafalah",
+         "bookname_arabic": "كتاب الكفالة",
+         "hadith_serial_start": "2290",
+         "hadith_serial_end": "2298"
+        },
+        {
+         "UnicId": "1693484172-40",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "40",
+         "bookname_english": "Representation, Authorization, Business by Proxy",
+         "bookname_arabic": "كتاب الوكالة",
+         "hadith_serial_start": "2299",
+         "hadith_serial_end": "2319"
+        },
+        {
+         "UnicId": "1693484172-41",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "41",
+         "bookname_english": "Agriculture",
+         "bookname_arabic": "كتاب المزارعة",
+         "hadith_serial_start": "2320",
+         "hadith_serial_end": "2350"
+        },
+        {
+         "UnicId": "1693484172-42",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "42",
+         "bookname_english": "Distribution of Water",
+         "bookname_arabic": "كتاب المساقاة",
+         "hadith_serial_start": "2351",
+         "hadith_serial_end": "2383"
+        },
+        {
+         "UnicId": "1693484172-43",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "43",
+         "bookname_english": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+         "bookname_arabic": "كتاب فى الاستقراض",
+         "hadith_serial_start": "2385",
+         "hadith_serial_end": "2409"
+        },
+        {
+         "UnicId": "1693484172-44",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "44",
+         "bookname_english": "Khusoomaat",
+         "bookname_arabic": "كتاب الخصومات",
+         "hadith_serial_start": "2410",
+         "hadith_serial_end": "2425"
+        },
+        {
+         "UnicId": "1693484172-45",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "45",
+         "bookname_english": "Lost Things Picked up by Someone (Luqatah)",
+         "bookname_arabic": "كتاب فى اللقطة",
+         "hadith_serial_start": "2426",
+         "hadith_serial_end": "2439"
+        },
+        {
+         "UnicId": "1693484172-46",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "46",
+         "bookname_english": "Oppressions",
+         "bookname_arabic": "كتاب المظالم",
+         "hadith_serial_start": "2440",
+         "hadith_serial_end": "2482"
+        },
+        {
+         "UnicId": "1693484172-47",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "47",
+         "bookname_english": "Partnership",
+         "bookname_arabic": "كتاب الشركة",
+         "hadith_serial_start": "2483",
+         "hadith_serial_end": "2507"
+        },
+        {
+         "UnicId": "1693484172-48",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "48",
+         "bookname_english": "Mortgaging",
+         "bookname_arabic": "كتاب الرهن",
+         "hadith_serial_start": "2508",
+         "hadith_serial_end": "2515"
+        },
+        {
+         "UnicId": "1693484172-49",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "49",
+         "bookname_english": "Manumission of Slaves",
+         "bookname_arabic": "كتاب العتق",
+         "hadith_serial_start": "2517",
+         "hadith_serial_end": "2559"
+        },
+        {
+         "UnicId": "1693484172-50",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "50",
+         "bookname_english": "Makaatib",
+         "bookname_arabic": "كتاب المكاتب",
+         "hadith_serial_start": "2560",
+         "hadith_serial_end": "2565"
+        },
+        {
+         "UnicId": "1693484172-51",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "51",
+         "bookname_english": "Gifts",
+         "bookname_arabic": "كتاب الهبة وفضلها والتحريض عليها",
+         "hadith_serial_start": "2566",
+         "hadith_serial_end": "2636"
+        },
+        {
+         "UnicId": "1693484172-52",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "52",
+         "bookname_english": "Witnesses",
+         "bookname_arabic": "كتاب الشهادات",
+         "hadith_serial_start": "2637",
+         "hadith_serial_end": "2689"
+        },
+        {
+         "UnicId": "1693484172-53",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "53",
+         "bookname_english": "Peacemaking",
+         "bookname_arabic": "كتاب الصلح",
+         "hadith_serial_start": "2690",
+         "hadith_serial_end": "2710"
+        },
+        {
+         "UnicId": "1693484172-54",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "54",
+         "bookname_english": "Conditions",
+         "bookname_arabic": "كتاب الشروط",
+         "hadith_serial_start": "2711",
+         "hadith_serial_end": "2737"
+        },
+        {
+         "UnicId": "1693484172-55",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "55",
+         "bookname_english": "Wills and Testaments (Wasaayaa)",
+         "bookname_arabic": "كتاب الوصايا",
+         "hadith_serial_start": "2738",
+         "hadith_serial_end": "2781"
+        },
+        {
+         "UnicId": "1693484172-56",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "56",
+         "bookname_english": "Fighting for the Cause of Allah (Jihaad)",
+         "bookname_arabic": "كتاب الجهاد والسير",
+         "hadith_serial_start": "2782",
+         "hadith_serial_end": "3090"
+        },
+        {
+         "UnicId": "1693484172-57",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "57",
+         "bookname_english": "One-fifth of Booty to the Cause of Allah (Khumus)",
+         "bookname_arabic": "كتاب فرض الخمس",
+         "hadith_serial_start": "3091",
+         "hadith_serial_end": "3155"
+        },
+        {
+         "UnicId": "1693484172-58",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "58",
+         "bookname_english": "Jizyah and Mawaada'ah",
+         "bookname_arabic": "كتاب الجزية والموادعة",
+         "hadith_serial_start": "3156",
+         "hadith_serial_end": "3189"
+        },
+        {
+         "UnicId": "1693484172-59",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "59",
+         "bookname_english": "Beginning of Creation",
+         "bookname_arabic": "كتاب بدء الخلق",
+         "hadith_serial_start": "3190",
+         "hadith_serial_end": "3325"
+        },
+        {
+         "UnicId": "1693484172-60",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "60",
+         "bookname_english": "Prophets",
+         "bookname_arabic": "كتاب أحاديث الأنبياء",
+         "hadith_serial_start": "3326",
+         "hadith_serial_end": "3488"
+        },
+        {
+         "UnicId": "1693484172-61",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "61",
+         "bookname_english": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+         "bookname_arabic": "كتاب المناقب",
+         "hadith_serial_start": "3489",
+         "hadith_serial_end": "3648"
+        },
+        {
+         "UnicId": "1693484172-62",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "62",
+         "bookname_english": "Companions of the Prophet",
+         "bookname_arabic": "كتاب فضائل أصحاب النبى صلى الله عليه وسلم",
+         "hadith_serial_start": "3649",
+         "hadith_serial_end": "3775"
+        },
+        {
+         "UnicId": "1693484172-63",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "63",
+         "bookname_english": "Merits of the Helpers in Madinah (Ansaar)",
+         "bookname_arabic": "كتاب مناقب الأنصار",
+         "hadith_serial_start": "3776",
+         "hadith_serial_end": "3948"
+        },
+        {
+         "UnicId": "1693484172-64",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "64",
+         "bookname_english": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+         "bookname_arabic": "كتاب المغازى",
+         "hadith_serial_start": "3949",
+         "hadith_serial_end": "4473"
+        },
+        {
+         "UnicId": "1693484172-65",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "65",
+         "bookname_english": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+         "bookname_arabic": "كتاب التفسير",
+         "hadith_serial_start": "4474",
+         "hadith_serial_end": "4977"
+        },
+        {
+         "UnicId": "1693484172-66",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "66",
+         "bookname_english": "Virtues of the Qur'an",
+         "bookname_arabic": "كتاب فضائل القرآن",
+         "hadith_serial_start": "4978",
+         "hadith_serial_end": "5062"
+        },
+        {
+         "UnicId": "1693484172-67",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "67",
+         "bookname_english": "Wedlock, Marriage (Nikaah)",
+         "bookname_arabic": "كتاب النكاح",
+         "hadith_serial_start": "5063",
+         "hadith_serial_end": "5250"
+        },
+        {
+         "UnicId": "1693484172-68",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "68",
+         "bookname_english": "Divorce",
+         "bookname_arabic": "كتاب الطلاق",
+         "hadith_serial_start": "5251",
+         "hadith_serial_end": "5350"
+        },
+        {
+         "UnicId": "1693484172-69",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "69",
+         "bookname_english": "Supporting the Family",
+         "bookname_arabic": "كتاب النفقات",
+         "hadith_serial_start": "5351",
+         "hadith_serial_end": "5372"
+        },
+        {
+         "UnicId": "1693484172-70",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "70",
+         "bookname_english": "Food, Meals",
+         "bookname_arabic": "كتاب الأطعمة",
+         "hadith_serial_start": "5373",
+         "hadith_serial_end": "5466"
+        },
+        {
+         "UnicId": "1693484172-71",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "71",
+         "bookname_english": "Sacrifice on Occasion of Birth (`Aqiqa)",
+         "bookname_arabic": "كتاب العقيقة",
+         "hadith_serial_start": "5467",
+         "hadith_serial_end": "5474"
+        },
+        {
+         "UnicId": "1693484172-72",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "72",
+         "bookname_english": "Hunting, Slaughtering",
+         "bookname_arabic": "كتاب الذبائح والصيد",
+         "hadith_serial_start": "5475",
+         "hadith_serial_end": "5544"
+        },
+        {
+         "UnicId": "1693484172-73",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "73",
+         "bookname_english": "Al-Adha Festival Sacrifice (Adaahi)",
+         "bookname_arabic": "كتاب الأضاحي",
+         "hadith_serial_start": "5545",
+         "hadith_serial_end": "5574"
+        },
+        {
+         "UnicId": "1693484172-74",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "74",
+         "bookname_english": "Drinks",
+         "bookname_arabic": "كتاب الأشربة",
+         "hadith_serial_start": "5575",
+         "hadith_serial_end": "5639"
+        },
+        {
+         "UnicId": "1693484172-75",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "75",
+         "bookname_english": "Patients",
+         "bookname_arabic": "كتاب المرضى",
+         "hadith_serial_start": "5640",
+         "hadith_serial_end": "5677"
+        },
+        {
+         "UnicId": "1693484172-76",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "76",
+         "bookname_english": "Medicine",
+         "bookname_arabic": "كتاب الطب",
+         "hadith_serial_start": "5678",
+         "hadith_serial_end": "5782"
+        },
+        {
+         "UnicId": "1693484172-77",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "77",
+         "bookname_english": "Dress",
+         "bookname_arabic": "كتاب اللباس",
+         "hadith_serial_start": "5783",
+         "hadith_serial_end": "5969"
+        },
+        {
+         "UnicId": "1693484172-78",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "78",
+         "bookname_english": "Good Manners and Form (Al-Adab)",
+         "bookname_arabic": "كتاب الأدب",
+         "hadith_serial_start": "5970",
+         "hadith_serial_end": "6226"
+        },
+        {
+         "UnicId": "1693484172-79",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "79",
+         "bookname_english": "Asking Permission",
+         "bookname_arabic": "كتاب الاستئذان",
+         "hadith_serial_start": "6227",
+         "hadith_serial_end": "6303"
+        },
+        {
+         "UnicId": "1693484172-80",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "80",
+         "bookname_english": "Invocations",
+         "bookname_arabic": "كتاب الدعوات",
+         "hadith_serial_start": "6304",
+         "hadith_serial_end": "6411"
+        },
+        {
+         "UnicId": "1693484172-81",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "81",
+         "bookname_english": "To make the Heart Tender (Ar-Riqaq)",
+         "bookname_arabic": "كتاب الرقاق",
+         "hadith_serial_start": "6412",
+         "hadith_serial_end": "6593"
+        },
+        {
+         "UnicId": "1693484172-82",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "82",
+         "bookname_english": "Divine Will (Al-Qadar)",
+         "bookname_arabic": "كتاب القدر",
+         "hadith_serial_start": "6594",
+         "hadith_serial_end": "6620"
+        },
+        {
+         "UnicId": "1693484172-83",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "83",
+         "bookname_english": "Oaths and Vows",
+         "bookname_arabic": "كتاب الأيمان والنذور",
+         "hadith_serial_start": "6621",
+         "hadith_serial_end": "6707"
+        },
+        {
+         "UnicId": "1693484172-84",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "84",
+         "bookname_english": "Expiation for Unfulfilled Oaths",
+         "bookname_arabic": "كتاب كفارات الأيمان",
+         "hadith_serial_start": "6708",
+         "hadith_serial_end": "6722"
+        },
+        {
+         "UnicId": "1693484172-85",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "85",
+         "bookname_english": "Laws of Inheritance (Al-Faraa'id)",
+         "bookname_arabic": "كتاب الفرائض",
+         "hadith_serial_start": "6723",
+         "hadith_serial_end": "6771"
+        },
+        {
+         "UnicId": "1693484172-86",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "86",
+         "bookname_english": "Limits and Punishments set by Allah (Hudood)",
+         "bookname_arabic": "كتاب الحدود",
+         "hadith_serial_start": "6772",
+         "hadith_serial_end": "6859"
+        },
+        {
+         "UnicId": "1693484172-87",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "87",
+         "bookname_english": "Blood Money (Ad-Diyat)",
+         "bookname_arabic": "كتاب الديات",
+         "hadith_serial_start": "6861",
+         "hadith_serial_end": "6917"
+        },
+        {
+         "UnicId": "1693484172-88",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "88",
+         "bookname_english": "Apostates",
+         "bookname_arabic": "كتاب استتابة المرتدين والمعاندين وقتالهم",
+         "hadith_serial_start": "6918",
+         "hadith_serial_end": "6939"
+        },
+        {
+         "UnicId": "1693484172-89",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "89",
+         "bookname_english": "(Statements made under) Coercion",
+         "bookname_arabic": "كتاب الإكراه",
+         "hadith_serial_start": "6940",
+         "hadith_serial_end": "6952"
+        },
+        {
+         "UnicId": "1693484172-90",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "90",
+         "bookname_english": "Tricks",
+         "bookname_arabic": "كتاب الحيل",
+         "hadith_serial_start": "6953",
+         "hadith_serial_end": "6981"
+        },
+        {
+         "UnicId": "1693484172-91",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "91",
+         "bookname_english": "Interpretation of Dreams",
+         "bookname_arabic": "كتاب التعبير",
+         "hadith_serial_start": "6982",
+         "hadith_serial_end": "7047"
+        },
+        {
+         "UnicId": "1693484172-92",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "92",
+         "bookname_english": "Afflictions and the End of the World",
+         "bookname_arabic": "كتاب الفتن",
+         "hadith_serial_start": "7048",
+         "hadith_serial_end": "7136"
+        },
+        {
+         "UnicId": "1693484172-93",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "93",
+         "bookname_english": "Judgments (Ahkaam)",
+         "bookname_arabic": "كتاب الأحكام",
+         "hadith_serial_start": "7137",
+         "hadith_serial_end": "7225"
+        },
+        {
+         "UnicId": "1693484172-94",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "94",
+         "bookname_english": "Wishes",
+         "bookname_arabic": "كتاب التمنى",
+         "hadith_serial_start": "7226",
+         "hadith_serial_end": "7245"
+        },
+        {
+         "UnicId": "1693484172-95",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "95",
+         "bookname_english": "Accepting Information Given by a Truthful Person",
+         "bookname_arabic": "كتاب أخبار الآحاد",
+         "hadith_serial_start": "7246",
+         "hadith_serial_end": "7267"
+        },
+        {
+         "UnicId": "1693484172-96",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "96",
+         "bookname_english": "Holding Fast to the Qur'an and Sunnah",
+         "bookname_arabic": "كتاب الاعتصام بالكتاب والسنة",
+         "hadith_serial_start": "7268",
+         "hadith_serial_end": "7370"
+        },
+        {
+         "UnicId": "1693484172-97",
+         "web-scraper-start-url": "https:\/\/sunnah.com\/bukhari",
+         "serial_no": "97",
+         "bookname_english": "Oneness, Uniqueness of Allah (Tawheed)",
+         "bookname_arabic": "كتاب التوحيد",
+         "hadith_serial_start": "7371",
+         "hadith_serial_end": "7563"
+        }
+        
+       ]
+
+
