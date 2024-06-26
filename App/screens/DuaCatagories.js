@@ -30,7 +30,7 @@ const DuaCatagories = () => {
       name: "Evening Dhikr",
       image: require("../assets/moon.png"),
     },
-    // Add more categories as needed
+    // Add more categories as neededgi
   ];
 
   const renderCategory = ({ item }) => (
