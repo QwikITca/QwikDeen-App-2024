@@ -14,6 +14,11 @@ import SurahDetailScreen from "../App/screens/SurahDetailScreen";
 import IslamicName from "../App/screens/IslamicName";
 import DuaList from "../App/screens/DuaList";
 import DuaCatagories from "../App/screens/DuaCatagories";
+import Calendar from "../App/screens/Calendar";
+import IslamicHistory from "../App/screens/IslamicHistory";
+import HistoryDetails from "../App/screens/HistoryDetails";
+import MiraclesQuran from "../App/screens/MiraclesQuran";
+import MiracleDetails from "../App/screens/MiraclesDetails";
 const Stack = createNativeStackNavigator();
 
 const RootStack = () => {
@@ -32,9 +37,14 @@ const RootStack = () => {
         <Stack.Screen name="IslamicName" component={IslamicName} />
         <Stack.Screen name="SurahDetailScreen" component={SurahDetailScreen} />
         <Stack.Screen name="Hadith_Chapter" component={Hadith_Chapter} />
+        <Stack.Screen name="Calendar" component={Calendar} />
         <Stack.Screen name="Chapter_Details" component={Chapeter_Details} />
         <Stack.Screen name="DuaCatagories" component={DuaCatagories} />
         <Stack.Screen name="DuaList" component={DuaList} />
+        <Stack.Screen name="IslamicHistory" component={IslamicHistory} />
+        <Stack.Screen name="HistoryDetails" component={HistoryDetails} />
+        <Stack.Screen name="MiraclesQuran" component={MiraclesQuran} />
+        <Stack.Screen name="MiracleDetails" component={MiracleDetails} />
         <Stack.Screen name="Bookmark" component={BookMark} />
         <Stack.Screen name="Settings" component={Settings} />
       </Stack.Navigator>

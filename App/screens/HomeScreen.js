@@ -1,3 +1,4 @@
+// HomeScreen.js
 import React, { useState, useEffect } from "react";
 import {
   View,
@@ -13,14 +14,18 @@ import { Card } from "react-native-paper";
 import Icon from "react-native-vector-icons/MaterialCommunityIcons";
 import moment from "moment";
 import "moment-hijri";
+import axios from "axios";
 import Navbar from "./Navbar";
+import MenuModal from "./MenuModal";
 
 
 const screenWidth = Dimensions.get("window").width;
 const screenHeight = Dimensions.get("window").height;
+
 const HomeScreen = ({ navigation }) => {
   const [currentTime, setCurrentTime] = useState(moment());
-
+  const [arabicDate, setArabicDate] = useState("");
+  const [menuVisible, setMenuVisible] = useState(false);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -29,12 +34,31 @@ const HomeScreen = ({ navigation }) => {
 
     return () => clearInterval(interval);
   }, []);
+
+  useEffect(() => {
+    fetchArabicDate();
+  }, []);
+
+  const fetchArabicDate = async () => {
+    try {
+      const formattedDate = currentTime.format("MM-DD-YYYY");
+      const response = await axios.get(
+        `http://api.aladhan.com/v1/gToH/${formattedDate}`
+      );
+      const hijriDate = response.data.data.hijri;
+      const arabicDateStr = `${hijriDate.day} ${hijriDate.month.en} ${hijriDate.year} AH`;
+      setArabicDate(arabicDateStr);
+    } catch (error) {
+      console.error("Error fetching Arabic date:", error);
+    }
+  };
+
   const handleCardPress = (label) => {
     if (label === "Hadith") {
       navigation.navigate("Homepage");
     }
-    if(label=="99 names of Allah"){
-        navigation.navigate("NameofAllah");
+    if (label == "99 names of Allah") {
+      navigation.navigate("NameofAllah");
     }
     if (label == "Quran") {
       navigation.navigate("QuranScreen");
@@ -46,8 +70,23 @@ const HomeScreen = ({ navigation }) => {
     } else {
       console.log("Navigate to", label);
     }
-     if (label == "Dua-Zikr") {
-       navigation.navigate("DuaCatagories");
+    if (label == "Dua-Zikr") {
+      navigation.navigate("DuaCatagories");
+    } else {
+      console.log("Navigate to", label);
+    }
+    if (label == "calendar") {
+      navigation.navigate("Calendar");
+    } else {
+      console.log("Navigate to", label);
+    }
+    if (label == "Islamic-History") {
+      navigation.navigate("IslamicHistory");
+    } else {
+      console.log("Navigate to", label);
+    }
+     if (label == "Miracles of Qur'an") {
+       navigation.navigate("MiraclesQuran");
      } else {
        console.log("Navigate to", label);
      }
@@ -79,15 +118,16 @@ const HomeScreen = ({ navigation }) => {
         <View style={styles.headerContent}>
           <Icon
             name="menu"
-            size={screenWidth * 0.05}
+            size={screenWidth * 0.06}
             color="white"
             style={styles.menuIcon}
+            onPress={() => setMenuVisible(true)}
           />
           <View style={styles.timeInfo}>
             <Text style={styles.time}>{time}</Text>
             <Text style={styles.timePeriod}>{timePeriod}</Text>
             <Text style={styles.date}>{date}</Text>
-            <Text style={styles.hijriDate}>{hijriDate}</Text>
+            <Text style={styles.arabicDate}>{arabicDate}</Text>
           </View>
         </View>
       </View>
@@ -106,6 +146,11 @@ const HomeScreen = ({ navigation }) => {
         )}
       </View>
       <Navbar />
+      <MenuModal
+        visible={menuVisible}
+        onClose={() => setMenuVisible(false)}
+        navigation={navigation}
+      />
     </ScrollView>
   );
 };
@@ -163,7 +208,7 @@ const styles = StyleSheet.create({
     color: "white",
     fontSize: screenWidth * 0.035,
   },
-  hijriDate: {
+  arabicDate: {
     color: "white",
     fontSize: screenWidth * 0.035,
   },
@@ -195,7 +240,6 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "#6E7697",
   },
-  
 });
 
 export default HomeScreen;

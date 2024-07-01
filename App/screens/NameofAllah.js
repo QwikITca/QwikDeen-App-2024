@@ -1,14 +1,8 @@
 import React from "react";
-import {
-  View,
-  Text,
-  StyleSheet,
-  FlatList} from "react-native";
+import { View, Text, StyleSheet, FlatList, SafeAreaView } from "react-native";
 import asmaAlHusna from "../../asmaAlHusna.json";
 import Navbar from "./Navbar";
-
-
-
+import MenuModal from "./MenuModal";
 
 const NameofAllah = () => {
   const renderNameItem = ({ item }) => (
@@ -23,7 +17,7 @@ const NameofAllah = () => {
   );
 
   return (
-    <View style={styles.container}>
+    <SafeAreaView style={styles.container}>
       <Text style={styles.title}>99 Names of Allah</Text>
 
       <FlatList
@@ -33,8 +27,10 @@ const NameofAllah = () => {
         numColumns={2}
         columnWrapperStyle={styles.row}
       />
+
       <Navbar />
-    </View>
+     
+    </SafeAreaView>
   );
 };
 
@@ -49,6 +45,8 @@ const styles = StyleSheet.create({
     fontFamily: "Poppins_400Regular",
     color: "white",
     marginBottom: 16,
+    marginTop: 16, // Adjust this value as needed
+    alignSelf: "center",
   },
   row: {
     justifyContent: "space-between",

@@ -4,10 +4,10 @@
     "slug": "Qwikdeen-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": ".App/assets/star.jpg",
+    "icon": "./assets/star.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": ".App/assets/study.jpg",
+      "image": "./assets/study.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

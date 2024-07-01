@@ -1,26 +1,36 @@
 import React from "react";
-import { View, Image, StyleSheet, Dimensions } from "react-native";
+import {
+  View,
+  Image,
+  StyleSheet,
+  Dimensions,
+  TouchableOpacity,
+} from "react-native";
+import { useNavigation } from "@react-navigation/native";
 
 const screenWidth = Dimensions.get("window").width;
 const screenHeight = Dimensions.get("window").height;
 
 const Navbar = () => {
+  const navigation = useNavigation();
+
   return (
     <View style={styles.bottomNav}>
-      <Image
-        source={require("../assets/Favourite.png")}
-        style={styles.navIcon}
-      />
-      <Image source={require("../assets/Quran.png")} style={styles.navIcon} />
-      <Image source={require("../assets/Home.png")} style={styles.navIcon} />
-      <Image
-        source={require("../assets/Hadith.png")} // Replace with your own icon
-        style={styles.navIcon}
-      />
-      <Image
-        source={require("../assets/Settings.png")} // Replace with your own icon
-        style={styles.navIcon}
-      />
+  
+      
+      <TouchableOpacity onPress={() => navigation.navigate("QuranScreen")}>
+        <Image source={require("../assets/Quran.png")} style={styles.navIcon} />
+      </TouchableOpacity>
+      <TouchableOpacity onPress={() => navigation.navigate("HomeScreen")}>
+        <Image source={require("../assets/Home.png")} style={styles.navIcon} />
+      </TouchableOpacity>
+      <TouchableOpacity onPress={() => navigation.navigate("homepage")}>
+        <Image
+          source={require("../assets/Hadith.png")} // Replace with your own icon
+          style={styles.navIcon}
+        />
+      </TouchableOpacity>
+      
     </View>
   );
 };
@@ -41,7 +51,7 @@ const styles = StyleSheet.create({
   },
 
   navIcon: {
-    width: screenWidth * 0.7,
+    width: screenWidth * 0.2,
     height: screenWidth * 0.1,
     resizeMode: "contain",
   },

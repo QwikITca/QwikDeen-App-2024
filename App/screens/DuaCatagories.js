@@ -8,6 +8,7 @@ import {
   Image,
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+import Navbar from "./Navbar";
 
 const DuaCatagories = () => {
   const navigation = useNavigation();
@@ -52,6 +53,7 @@ const DuaCatagories = () => {
         keyExtractor={(item) => item.name}
         numColumns={1} // Set to 1 to arrange items vertically
       />
+      <Navbar/>
     </View>
   );
 };

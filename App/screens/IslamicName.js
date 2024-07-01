@@ -13,6 +13,7 @@ import Icon from "react-native-vector-icons/MaterialIcons";
 
 import muslim_boy_names from "../../Muslim names/muslim_boy_names.json";
 import muslim_girl_names from "../../Muslim names/muslim_girl_names.json";
+import Navbar from "./Navbar";
 
 const IslamicName = () => {
   const [gender, setGender] = useState("boy");
@@ -41,8 +42,8 @@ const IslamicName = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
-        <Icon name="menu" size={24} color="white" />
-        <Text style={styles.title}>Islamic Baby Names</Text>
+        
+        <Text style={styles.title}>                          Islamic Baby Names</Text>
       </View>
 
       <View style={styles.genderToggle}>
@@ -144,6 +145,7 @@ const IslamicName = () => {
         <Icon name="chat" size={24} color="#888" />
         <Icon name="settings" size={24} color="#888" />
       </View>
+      <Navbar/>
     </SafeAreaView>
   );
 };
@@ -159,15 +161,17 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   title: {
-    fontSize: 20,
-    fontWeight: "bold",
+    fontSize: 16,
+    fontFamily: "Poppins_400Regular",
     color: "white",
-    marginLeft: 10,
+    marginBottom: 13,
+    marginTop: 40,
+    alignSelf: "center",
   },
   genderToggle: {
     flexDirection: "row",
     justifyContent: "center",
-    marginVertical: 10,
+    marginVertical: 12,
   },
   genderButton: {
     paddingHorizontal: 20,
@@ -247,7 +251,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     alignItems: "center",
     marginBottom: 20,
-    
   },
   selectedNameText: {
     fontSize: 18,
