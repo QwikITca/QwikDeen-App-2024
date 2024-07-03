@@ -1,0 +1,441 @@
+[
+    {
+     "UnicId": "1693484435-1",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "1",
+     "bookname_english": "The Book on Purification",
+     "bookname_arabic": "كتاب الطهارة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1",
+     "hadith_serial_end": "148"
+    },
+    {
+     "UnicId": "1693484435-2",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "2",
+     "bookname_english": "The Book on Salat (Prayer)",
+     "bookname_arabic": "كتاب الصلاة",
+     "hadith_serial_start": "149",
+     "hadith_serial_end": "451"
+    },
+    {
+     "UnicId": "1693484435-3",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "3",
+     "bookname_english": "The Book on Al-Witr",
+     "bookname_arabic": "أَبْوَابُ الْوِتْرِ",
+     "hadith_serial_start": "452",
+     "hadith_serial_end": "487"
+    },
+    {
+     "UnicId": "1693484435-4",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "4",
+     "bookname_english": "The Book on the Day of Friday",
+     "bookname_arabic": "كِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+     "hadith_serial_start": "488",
+     "hadith_serial_end": "529"
+    },
+    {
+     "UnicId": "1693484435-5",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "5",
+     "bookname_english": "The Book on the Two Eids",
+     "bookname_arabic": "أَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+     "hadith_serial_start": "530",
+     "hadith_serial_end": "543"
+    },
+    {
+     "UnicId": "1693484435-6",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "6",
+     "bookname_english": "The Book on Traveling",
+     "bookname_arabic": "أَبْوَابُ السَّفَرِ",
+     "hadith_serial_start": "544",
+     "hadith_serial_end": "616"
+    },
+    {
+     "UnicId": "1693484435-7",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "7",
+     "bookname_english": "The Book on Zakat",
+     "bookname_arabic": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "617",
+     "hadith_serial_end": "681"
+    },
+    {
+     "UnicId": "1693484435-8",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "8",
+     "bookname_english": "The Book on Fasting",
+     "bookname_arabic": "كتاب الصوم عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "682",
+     "hadith_serial_end": "808"
+    },
+    {
+     "UnicId": "1693484435-9",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "9",
+     "bookname_english": "The Book on Hajj",
+     "bookname_arabic": "كتاب الحج عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "809",
+     "hadith_serial_end": "964"
+    },
+    {
+     "UnicId": "1693484435-10",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "10",
+     "bookname_english": "The Book on Jana''iz (Funerals)",
+     "bookname_arabic": "كتاب الجنائز عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "965",
+     "hadith_serial_end": "1079"
+    },
+    {
+     "UnicId": "1693484435-11",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "11",
+     "bookname_english": "The Book on Marriage",
+     "bookname_arabic": "كتاب النكاح عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1080",
+     "hadith_serial_end": "1145"
+    },
+    {
+     "UnicId": "1693484435-12",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "12",
+     "bookname_english": "The Book on Suckling",
+     "bookname_arabic": "كتاب الرضاع",
+     "hadith_serial_start": "1146",
+     "hadith_serial_end": "1174"
+    },
+    {
+     "UnicId": "1693484435-13",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "13",
+     "bookname_english": "The Book on Divorce and Li'an",
+     "bookname_arabic": "كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1175",
+     "hadith_serial_end": "1204"
+    },
+    {
+     "UnicId": "1693484435-14",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "14",
+     "bookname_english": "The Book on Business",
+     "bookname_arabic": "كتاب البيوع عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1205",
+     "hadith_serial_end": "1321"
+    },
+    {
+     "UnicId": "1693484435-15",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "15",
+     "bookname_english": "The Chapters On Judgements From The Messenger of Allah",
+     "bookname_arabic": "كتاب الأحكام عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1322",
+     "hadith_serial_end": "1385"
+    },
+    {
+     "UnicId": "1693484435-16",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "16",
+     "bookname_english": "The Book on Blood Money",
+     "bookname_arabic": "كتاب الديات عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1386",
+     "hadith_serial_end": "1422"
+    },
+    {
+     "UnicId": "1693484435-17",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "17",
+     "bookname_english": "The Book on Legal Punishments (Al-Hudud)",
+     "bookname_arabic": "كتاب الحدود عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1423",
+     "hadith_serial_end": "1463"
+    },
+    {
+     "UnicId": "1693484435-18",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "18",
+     "bookname_english": "The Book on Hunting",
+     "bookname_arabic": "كتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1464",
+     "hadith_serial_end": "1492"
+    },
+    {
+     "UnicId": "1693484435-19",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "19",
+     "bookname_english": "The Book on Sacrifices",
+     "bookname_arabic": "كتاب الأضاحى عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1493",
+     "hadith_serial_end": "1523"
+    },
+    {
+     "UnicId": "1693484435-20",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "20",
+     "bookname_english": "The Book on Vows and Oaths",
+     "bookname_arabic": "كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1524",
+     "hadith_serial_end": "1547"
+    },
+    {
+     "UnicId": "1693484435-21",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "21",
+     "bookname_english": "The Book on Military Expeditions",
+     "bookname_arabic": "كتاب السير عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1548",
+     "hadith_serial_end": "1618"
+    },
+    {
+     "UnicId": "1693484435-22",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "22",
+     "bookname_english": "The Book on Virtues of Jihad",
+     "bookname_arabic": "كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1619",
+     "hadith_serial_end": "1669"
+    },
+    {
+     "UnicId": "1693484435-23",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "23",
+     "bookname_english": "The Book on Jihad",
+     "bookname_arabic": "كتاب الجهاد عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1670",
+     "hadith_serial_end": "1719"
+    },
+    {
+     "UnicId": "1693484435-24",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "24",
+     "bookname_english": "The Book on Clothing",
+     "bookname_arabic": "كتاب اللباس",
+     "hadith_serial_start": "1720",
+     "hadith_serial_end": "1787"
+    },
+    {
+     "UnicId": "1693484435-25",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "25",
+     "bookname_english": "The Book on Food",
+     "bookname_arabic": "كتاب الأطعمة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1788",
+     "hadith_serial_end": "1860"
+    },
+    {
+     "UnicId": "1693484435-26",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "26",
+     "bookname_english": "The Book on Drinks",
+     "bookname_arabic": "كتاب الأشربة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1861",
+     "hadith_serial_end": "1896"
+    },
+    {
+     "UnicId": "1693484435-27",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "27",
+     "bookname_english": "Chapters on Righteousness And Maintaining Good Relations With Relatives",
+     "bookname_arabic": "كتاب البر والصلة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "1897",
+     "hadith_serial_end": "2035"
+    },
+    {
+     "UnicId": "1693484435-28",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "28",
+     "bookname_english": "Chapters on Medicine",
+     "bookname_arabic": "كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم",
+     "hadith_serial_start": "2036",
+     "hadith_serial_end": "2088"
+    },
+    {
+     "UnicId": "1693484435-29",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "29",
+     "bookname_english": "Chapters On Inheritance",
+     "bookname_arabic": "كتاب الفرائض عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2090",
+     "hadith_serial_end": "2115"
+    },
+    {
+     "UnicId": "1693484435-30",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "30",
+     "bookname_english": "Chapters On Wasaya (Wills and Testament)",
+     "bookname_arabic": "كتاب الوصايا عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2116",
+     "hadith_serial_end": "2124"
+    },
+    {
+     "UnicId": "1693484435-31",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "31",
+     "bookname_english": "Chapters On Wala' And Gifts",
+     "bookname_arabic": "كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2125",
+     "hadith_serial_end": "2132"
+    },
+    {
+     "UnicId": "1693484435-32",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "32",
+     "bookname_english": "Chapters On Al-Qadar",
+     "bookname_arabic": "كتاب القدر عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2133",
+     "hadith_serial_end": "2157"
+    },
+    {
+     "UnicId": "1693484435-33",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "33",
+     "bookname_english": "Chapters On Al-Fitan",
+     "bookname_arabic": "كتاب الفتن عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2158",
+     "hadith_serial_end": "2269"
+    },
+    {
+     "UnicId": "1693484435-34",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "34",
+     "bookname_english": "Chapters On Dreams",
+     "bookname_arabic": "كتاب الرؤيا عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2270",
+     "hadith_serial_end": "2294"
+    },
+    {
+     "UnicId": "1693484435-35",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "35",
+     "bookname_english": "Chapters On Witnesses",
+     "bookname_arabic": "كتاب الشهادات عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2295",
+     "hadith_serial_end": "2303"
+    },
+    {
+     "UnicId": "1693484435-36",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "36",
+     "bookname_english": "Chapters On Zuhd",
+     "bookname_arabic": "كتاب الزهد عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2304",
+     "hadith_serial_end": "2414"
+    },
+    {
+     "UnicId": "1693484435-37",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "37",
+     "bookname_english": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",
+     "bookname_arabic": "كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله",
+     "hadith_serial_start": "2523",
+     "hadith_serial_end": "2735"
+    },
+    {
+     "UnicId": "1693484435-38",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "38",
+     "bookname_english": "Chapters on the description of Paradise",
+     "bookname_arabic": "كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2573",
+     "hadith_serial_end": "2605"
+    },
+    {
+     "UnicId": "1693484435-39",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "39",
+     "bookname_english": "The Book on the Description of Hellfire",
+     "bookname_arabic": "كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2606",
+     "hadith_serial_end": "2644"
+    },
+    {
+     "UnicId": "1693484435-40",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "40",
+     "bookname_english": "The Book on Faith",
+     "bookname_arabic": "كتاب الإيمان عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2645",
+     "hadith_serial_end": "2687"
+    },
+    {
+     "UnicId": "1693484435-41",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "41",
+     "bookname_english": "Chapters on Knowledge",
+     "bookname_arabic": "كتاب العلم عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2688",
+     "hadith_serial_end": "2735"
+    },
+    {
+     "UnicId": "1693484435-42",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "42",
+     "bookname_english": "Chapters on Seeking Permission",
+     "bookname_arabic": "كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2736",
+     "hadith_serial_end": "3093"
+    },
+    {
+     "UnicId": "1693484435-43",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "43",
+     "bookname_english": "Chapters on Manners",
+     "bookname_arabic": "كتاب الأدب عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2859",
+     "hadith_serial_end": "2874"
+    },
+    {
+     "UnicId": "1693484435-44",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "44",
+     "bookname_english": "Chapters on Parables",
+     "bookname_arabic": "كتاب الأمثال عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2875",
+     "hadith_serial_end": "2926"
+    },
+    {
+     "UnicId": "1693484435-45",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "45",
+     "bookname_english": "Chapters on The Virtues of the Qur'an",
+     "bookname_arabic": "كتاب ثواب القرآن عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2927",
+     "hadith_serial_end": "2949"
+    },
+    {
+     "UnicId": "1693484435-46",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "46",
+     "bookname_english": "Chapters on Recitation",
+     "bookname_arabic": "كتاب القراءات عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "2950",
+     "hadith_serial_end": "3723"
+    },
+    {
+     "UnicId": "1693484435-47",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "47",
+     "bookname_english": "Chapters on Tafsir",
+     "bookname_arabic": "كتاب تفسير القرآن عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "3370",
+     "hadith_serial_end": "3604"
+    },
+    {
+     "UnicId": "1693484435-48",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "48",
+     "bookname_english": "Chapters on Supplication",
+     "bookname_arabic": "كتاب الدعوات عن رسول الله صلى الله عليه وسلم",
+     "hadith_serial_start": "3605",
+     "hadith_serial_end": "3956"
+    },
+    {
+     "UnicId": "1693484435-49",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/tirmidhi",
+     "serial_no": "49",
+     "bookname_english": "Chapters on Virtues",
+     "bookname_arabic": "كتاب المناقب عن رسول الله صلى الله عليه وسلم"
+    }
+   ]

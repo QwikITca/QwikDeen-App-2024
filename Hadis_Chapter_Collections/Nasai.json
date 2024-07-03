@@ -1,0 +1,468 @@
+[
+    {
+     "UnicId": "1693484333-1",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 1,
+     "bookname_english": "The Book of Purification",
+     "bookname_arabic": "كتاب الطهارة",
+     "hadith_serial_start": 1,
+     "hadith_serial_end": 324
+    },
+    {
+     "UnicId": "1693484333-2",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 2,
+     "bookname_english": "The Book of Water",
+     "bookname_arabic": "كتاب المياه",
+     "hadith_serial_start": 325,
+     "hadith_serial_end": 347
+    },
+    {
+     "UnicId": "1693484333-3",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 3,
+     "bookname_english": "The Book of Menstruation and Istihadah",
+     "bookname_arabic": "كتاب الحيض والاستحاضة",
+     "hadith_serial_start": 348,
+     "hadith_serial_end": 395
+    },
+    {
+     "UnicId": "1693484333-4",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 4,
+     "bookname_english": "The Book of Ghusl and Tayammum",
+     "bookname_arabic": "كتاب الغسل والتيمم",
+     "hadith_serial_start": 396,
+     "hadith_serial_end": 447
+    },
+    {
+     "UnicId": "1693484333-5",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 5,
+     "bookname_english": "The Book of Salah",
+     "bookname_arabic": "كتاب الصلاة",
+     "hadith_serial_start": 448,
+     "hadith_serial_end": 493
+    },
+    {
+     "UnicId": "1693484333-6",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 6,
+     "bookname_english": "The Book of the Times (of Prayer)",
+     "bookname_arabic": "كتاب المواقيت",
+     "hadith_serial_start": 626,
+     "hadith_serial_end": 687
+    },
+    {
+     "UnicId": "1693484333-7",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 7,
+     "bookname_english": "The Book of the Adhan (The Call to Prayer)",
+     "bookname_arabic": "كتاب الأذان",
+     "hadith_serial_start": 688,
+     "hadith_serial_end": 741
+    },
+    {
+     "UnicId": "1693484333-8",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 8,
+     "bookname_english": "The Book of the Masjids",
+     "bookname_arabic": "كتاب المساجد",
+     "hadith_serial_start": 742,
+     "hadith_serial_end": 776
+    },
+    {
+     "UnicId": "1693484333-9",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 9,
+     "bookname_english": "The Book of the Qiblah",
+     "bookname_arabic": "كتاب القبلة",
+     "hadith_serial_start": 777,
+     "hadith_serial_end": 875
+    },
+    {
+     "UnicId": "1693484333-10",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 10,
+     "bookname_english": "The Book of Leading the Prayer (Al-Imamah)",
+     "bookname_arabic": "كتاب الإمامة",
+     "hadith_serial_start": 876,
+     "hadith_serial_end": 1028
+    },
+    {
+     "UnicId": "1693484333-11",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 11,
+     "bookname_english": "The Book of the Commencement of the Prayer",
+     "bookname_arabic": "كتاب الافتتاح",
+     "hadith_serial_start": 1029,
+     "hadith_serial_end": 1178
+    },
+    {
+     "UnicId": "1693484333-12",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 12,
+     "bookname_english": "The Book of The At-Tatbiq (Clasping One's Hands Together)",
+     "bookname_arabic": "كتاب التطبيق",
+     "hadith_serial_start": 1179,
+     "hadith_serial_end": 1366
+    },
+    {
+     "UnicId": "1693484333-13",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 13,
+     "bookname_english": "The Book of Forgetfulness (In Prayer)",
+     "bookname_arabic": "كتاب السهو",
+     "hadith_serial_start": 1367,
+     "hadith_serial_end": 1432
+    },
+    {
+     "UnicId": "1693484333-14",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 14,
+     "bookname_english": "The Book of Jumu'ah (Friday Prayer)",
+     "bookname_arabic": "كتاب الجمعة",
+     "hadith_serial_start": 1433,
+     "hadith_serial_end": 1458
+    },
+    {
+     "UnicId": "1693484333-15",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 15,
+     "bookname_english": "The Book of Shortening the Prayer When Traveling",
+     "bookname_arabic": "كتاب تقصير الصلاة فى السفر",
+     "hadith_serial_start": 1459,
+     "hadith_serial_end": 1503
+    },
+    {
+     "UnicId": "1693484333-16",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 16,
+     "bookname_english": "The Book of Eclipses",
+     "bookname_arabic": "كتاب الكسوف",
+     "hadith_serial_start": 1504,
+     "hadith_serial_end": 1528
+    },
+    {
+     "UnicId": "1693484333-17",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 17,
+     "bookname_english": "The Book of Praying for Rain (Al-Istisqa')",
+     "bookname_arabic": "كتاب الاستسقاء",
+     "hadith_serial_start": 1529,
+     "hadith_serial_end": 1555
+    },
+    {
+     "UnicId": "1693484333-18",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 18,
+     "bookname_english": "The Book of the Fear Prayer",
+     "bookname_arabic": "كتاب صلاة الخوف",
+     "hadith_serial_start": 1556,
+     "hadith_serial_end": 1597
+    },
+    {
+     "UnicId": "1693484333-19",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 19,
+     "bookname_english": "The Book of the Prayer for the Two 'Eids",
+     "bookname_arabic": "كتاب صلاة العيدين",
+     "hadith_serial_start": 1598,
+     "hadith_serial_end": 1817
+    },
+    {
+     "UnicId": "1693484333-20",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 20,
+     "bookname_english": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+     "bookname_arabic": "كتاب قيام الليل وتطوع النهار",
+     "hadith_serial_start": 1818,
+     "hadith_serial_end": 2089
+    },
+    {
+     "UnicId": "1693484333-21",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 21,
+     "bookname_english": "The Book of Funerals",
+     "bookname_arabic": "كتاب الجنائز",
+     "hadith_serial_start": 2090,
+     "hadith_serial_end": 2434
+    },
+    {
+     "UnicId": "1693484333-22",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 22,
+     "bookname_english": "The Book of Fasting",
+     "bookname_arabic": "كتاب الصيام",
+     "hadith_serial_start": 2435,
+     "hadith_serial_end": 2618
+    },
+    {
+     "UnicId": "1693484333-23",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 23,
+     "bookname_english": "The Book of Zakah",
+     "bookname_arabic": "كتاب الزكاة",
+     "hadith_serial_start": 2619,
+     "hadith_serial_end": 3084
+    },
+    {
+     "UnicId": "1693484333-24",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 24,
+     "bookname_english": "The Book of Hajj",
+     "bookname_arabic": "كتاب مناسك الحج",
+     "hadith_serial_start": 3085,
+     "hadith_serial_end": 3195
+    },
+    {
+     "UnicId": "1693484333-25",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 25,
+     "bookname_english": "The Book of Jihad",
+     "bookname_arabic": "كتاب الجهاد",
+     "hadith_serial_start": 3196,
+     "hadith_serial_end": 3388
+    },
+    {
+     "UnicId": "1693484333-26",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 26,
+     "bookname_english": "The Book of Marriage",
+     "bookname_arabic": "كتاب النكاح",
+     "hadith_serial_start": 3389,
+     "hadith_serial_end": 3560
+    },
+    {
+     "UnicId": "1693484333-27",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 27,
+     "bookname_english": "The Book of Divorce",
+     "bookname_arabic": "كتاب الطلاق",
+     "hadith_serial_start": 3561,
+     "hadith_serial_end": 3593
+    },
+    {
+     "UnicId": "1693484333-28",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 28,
+     "bookname_english": "The Book of Horses, Races and Shooting",
+     "bookname_arabic": "كتاب الخيل",
+     "hadith_serial_start": 3594,
+     "hadith_serial_end": 3610
+    },
+    {
+     "UnicId": "1693484333-29",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 29,
+     "bookname_english": "The Book of Endowments",
+     "bookname_arabic": "كتاب الإحباس",
+     "hadith_serial_start": 3611,
+     "hadith_serial_end": 3671
+    },
+    {
+     "UnicId": "1693484333-30",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 30,
+     "bookname_english": "The Book of Wills",
+     "bookname_arabic": "كتاب الوصايا",
+     "hadith_serial_start": 3672,
+     "hadith_serial_end": 3687
+    },
+    {
+     "UnicId": "1693484333-31",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 31,
+     "bookname_english": "The Book of Presents",
+     "bookname_arabic": "كتاب النحل",
+     "hadith_serial_start": 3688,
+     "hadith_serial_end": 3705
+    },
+    {
+     "UnicId": "1693484333-32",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 32,
+     "bookname_english": "The Book of Gifts",
+     "bookname_arabic": "كتاب الهبة",
+     "hadith_serial_start": 3706,
+     "hadith_serial_end": 3719
+    },
+    {
+     "UnicId": "1693484333-33",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 33,
+     "bookname_english": "The Book of ar-Ruqba",
+     "bookname_arabic": "كتاب الرقبى",
+     "hadith_serial_start": 3720,
+     "hadith_serial_end": 3760
+    },
+    {
+     "UnicId": "1693484333-34",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 34,
+     "bookname_english": "The Book of 'Umra",
+     "bookname_arabic": "كتاب العمرى",
+     "hadith_serial_start": 3761,
+     "hadith_serial_end": 3856
+    },
+    {
+     "UnicId": "1693484333-35",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 35,
+     "bookname_english": "The Book of Oaths and Vows",
+     "bookname_arabic": "كتاب الأيمان والنذور",
+     "hadith_serial_start": 3857,
+     "hadith_serial_end": 3938
+    },
+    {
+     "UnicId": "1693484333-36",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": "35b",
+     "bookname_english": "The Book of Agriculture",
+     "bookname_arabic": "كتاب المزارعة",
+     "hadith_serial_start": 3939,
+     "hadith_serial_end": 3965
+    },
+    {
+     "UnicId": "1693484333-37",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 36,
+     "bookname_english": "The Book of the Kind Treatment of Women",
+     "bookname_arabic": "كتاب عشرة النساء",
+     "hadith_serial_start": 3966,
+     "hadith_serial_end": 4132
+    },
+    {
+     "UnicId": "1693484333-38",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 37,
+     "bookname_english": "The Book of Fighting [The Prohibition of Bloodshed]",
+     "bookname_arabic": "كتاب تحريم الدم",
+     "hadith_serial_start": 4133,
+     "hadith_serial_end": 4148
+    },
+    {
+     "UnicId": "1693484333-39",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 38,
+     "bookname_english": "The Book of Distribution of Al-Fay'",
+     "bookname_arabic": "كتاب قسم الفىء",
+     "hadith_serial_start": 4149,
+     "hadith_serial_end": 4211
+    },
+    {
+     "UnicId": "1693484333-40",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 39,
+     "bookname_english": "The Book of al-Bay'ah",
+     "bookname_arabic": "كتاب البيعة",
+     "hadith_serial_start": 4212,
+     "hadith_serial_end": 4221
+    },
+    {
+     "UnicId": "1693484333-41",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 40,
+     "bookname_english": "The Book of al-'Aqiqah",
+     "bookname_arabic": "كتاب العقيقة",
+     "hadith_serial_start": 4222,
+     "hadith_serial_end": 4262
+    },
+    {
+     "UnicId": "1693484333-42",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 41,
+     "bookname_english": "The Book of al-Fara' and al-'Atirah",
+     "bookname_arabic": "كتاب الفرع والعتيرة",
+     "hadith_serial_start": 4263,
+     "hadith_serial_end": 4360
+    },
+    {
+     "UnicId": "1693484333-43",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 42,
+     "bookname_english": "The Book of Hunting and Slaughtering",
+     "bookname_arabic": "كتاب الصيد والذبائح",
+     "hadith_serial_start": 4361,
+     "hadith_serial_end": 4448
+    },
+    {
+     "UnicId": "1693484333-44",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 43,
+     "bookname_english": "The Book of ad-Dahaya (Sacrifices)",
+     "bookname_arabic": "كتاب الضحايا",
+     "hadith_serial_start": 4449,
+     "hadith_serial_end": 4705
+    },
+    {
+     "UnicId": "1693484333-45",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 44,
+     "bookname_english": "The Book of Financial Transactions",
+     "bookname_arabic": "كتاب البيوع",
+     "hadith_serial_start": 4706,
+     "hadith_serial_end": 4869
+    },
+    {
+     "UnicId": "1693484333-46",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 45,
+     "bookname_english": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+     "bookname_arabic": "كتاب القسامة",
+     "hadith_serial_start": 4870,
+     "hadith_serial_end": 4984
+    },
+    {
+     "UnicId": "1693484333-47",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 46,
+     "bookname_english": "The Book of Cutting off the Hand of the Thief",
+     "bookname_arabic": "كتاب قطع السارق",
+     "hadith_serial_start": 4985,
+     "hadith_serial_end": 5039
+    },
+    {
+     "UnicId": "1693484333-48",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 47,
+     "bookname_english": "The Book Of Faith and its Signs",
+     "bookname_arabic": "كتاب الإيمان وشرائعه",
+     "hadith_serial_start": 5040,
+     "hadith_serial_end": 5378
+    },
+    {
+     "UnicId": "1693484333-49",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 48,
+     "bookname_english": "The Book of Adornment",
+     "bookname_arabic": "كتاب الزينة من السنن",
+     "hadith_serial_start": 5379,
+     "hadith_serial_end": 5427
+    },
+    {
+     "UnicId": "1693484333-50",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 49,
+     "bookname_english": "The Book of the Etiquette of Judges",
+     "bookname_arabic": "كتاب آداب القضاة",
+     "hadith_serial_start": 5428,
+     "hadith_serial_end": 5539
+    },
+    {
+     "UnicId": "1693484333-51",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 50,
+     "bookname_english": "The Book of Seeking Refuge with Allah",
+     "bookname_arabic": "كتاب الاستعاذة",
+     "hadith_serial_start": 5540,
+     "hadith_serial_end": 5758
+    },
+    {
+     "UnicId": "1693484333-52",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/nasai",
+     "serial_no": 51,
+     "bookname_english": "The Book of Drinks",
+     "bookname_arabic": "كتاب الأشربة"
+    }
+   ]

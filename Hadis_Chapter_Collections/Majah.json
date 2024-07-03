@@ -1,0 +1,344 @@
+[
+    {
+     "UnicId": "1693484488-1",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "bookname_english": "The Book of the Sunnah",
+     "bookname_arabic": "كتاب المقدمة",
+     "hadith_serial_start": "1",
+     "hadith_serial_end": "266"
+    },
+    {
+     "UnicId": "1693484488-2",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "1",
+     "bookname_english": "The Book of Purification and its Sunnah",
+     "bookname_arabic": "كتاب الطهارة وسننها",
+     "hadith_serial_start": "267",
+     "hadith_serial_end": "666"
+    },
+    {
+     "UnicId": "1693484488-3",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "2",
+     "bookname_english": "The Book of the Prayer",
+     "bookname_arabic": "كتاب الصلاة",
+     "hadith_serial_start": "667",
+     "hadith_serial_end": "705"
+    },
+    {
+     "UnicId": "1693484488-4",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "3",
+     "bookname_english": "The Book of the Adhan and the Sunnah Regarding It",
+     "bookname_arabic": "كتاب الأذان والسنة فيها",
+     "hadith_serial_start": "706",
+     "hadith_serial_end": "734"
+    },
+    {
+     "UnicId": "1693484488-5",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "4",
+     "bookname_english": "The Book On The Mosques And The Congregations",
+     "bookname_arabic": "كتاب المساجد والجماعات",
+     "hadith_serial_start": "735",
+     "hadith_serial_end": "802"
+    },
+    {
+     "UnicId": "1693484488-6",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "5",
+     "bookname_english": "Establishing the Prayer and the Sunnah Regarding Them",
+     "bookname_arabic": "كتاب إقامة الصلاة والسنة فيها",
+     "hadith_serial_start": "803",
+     "hadith_serial_end": "1432"
+    },
+    {
+     "UnicId": "1693484488-7",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "6",
+     "bookname_english": "Chapters Regarding Funerals",
+     "bookname_arabic": "كتاب الجنائز",
+     "hadith_serial_start": "1433",
+     "hadith_serial_end": "1637"
+    },
+    {
+     "UnicId": "1693484488-8",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "7",
+     "bookname_english": "Fasting",
+     "bookname_arabic": "كتاب الصيام",
+     "hadith_serial_start": "1638",
+     "hadith_serial_end": "1782"
+    },
+    {
+     "UnicId": "1693484488-9",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "8",
+     "bookname_english": "The Chapters Regarding Zakat",
+     "bookname_arabic": "كتاب الزكاة",
+     "hadith_serial_start": "1783",
+     "hadith_serial_end": "1844"
+    },
+    {
+     "UnicId": "1693484488-10",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "9",
+     "bookname_english": "The Chapters on Marriage",
+     "bookname_arabic": "كتاب النكاح",
+     "hadith_serial_start": "1845",
+     "hadith_serial_end": "2015"
+    },
+    {
+     "UnicId": "1693484488-11",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "10",
+     "bookname_english": "The Chapters on Divorce",
+     "bookname_arabic": "كتاب الطلاق",
+     "hadith_serial_start": "2016",
+     "hadith_serial_end": "2477"
+    },
+    {
+     "UnicId": "1693484488-12",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "11",
+     "bookname_english": "The Chapters on Expiation",
+     "bookname_arabic": "كتاب الكفارات",
+     "hadith_serial_start": "2090",
+     "hadith_serial_end": "2136"
+    },
+    {
+     "UnicId": "1693484488-13",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "12",
+     "bookname_english": "The Chapters on Business Transactions",
+     "bookname_arabic": "كتاب التجارات",
+     "hadith_serial_start": "2137",
+     "hadith_serial_end": "2307"
+    },
+    {
+     "UnicId": "1693484488-14",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "13",
+     "bookname_english": "The Chapters on Rulings",
+     "bookname_arabic": "كتاب الأحكام",
+     "hadith_serial_start": "2308",
+     "hadith_serial_end": "2374"
+    },
+    {
+     "UnicId": "1693484488-15",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "14",
+     "bookname_english": "The Chapters on Gifts",
+     "bookname_arabic": "كتاب الهبات",
+     "hadith_serial_start": "2375",
+     "hadith_serial_end": "2389"
+    },
+    {
+     "UnicId": "1693484488-16",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "15",
+     "bookname_english": "The Chapters on Charity",
+     "bookname_arabic": "كتاب الصدقات",
+     "hadith_serial_start": "2390",
+     "hadith_serial_end": "2528"
+    },
+    {
+     "UnicId": "1693484488-17",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "16",
+     "bookname_english": "The Chapters on Pawning",
+     "bookname_arabic": "كتاب الرهون",
+     "hadith_serial_start": "2436",
+     "hadith_serial_end": "2491"
+    },
+    {
+     "UnicId": "1693484488-18",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "17",
+     "bookname_english": "The Chapters on Pre-emption",
+     "bookname_arabic": "كتاب الشفعة",
+     "hadith_serial_start": "2492",
+     "hadith_serial_end": "2501"
+    },
+    {
+     "UnicId": "1693484488-19",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "18",
+     "bookname_english": "The Chapters on Lost Property",
+     "bookname_arabic": "كتاب اللقطة",
+     "hadith_serial_start": "2502",
+     "hadith_serial_end": "2511"
+    },
+    {
+     "UnicId": "1693484488-20",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "19",
+     "bookname_english": "The Chapters on Manumission (of Slaves)",
+     "bookname_arabic": "كتاب العتق",
+     "hadith_serial_start": "2512",
+     "hadith_serial_end": "2532"
+    },
+    {
+     "UnicId": "1693484488-21",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "20",
+     "bookname_english": "The Chapters on Legal Punishments",
+     "bookname_arabic": "كتاب الحدود",
+     "hadith_serial_start": "2533",
+     "hadith_serial_end": "2614"
+    },
+    {
+     "UnicId": "1693484488-22",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "21",
+     "bookname_english": "The Chapters on Blood Money",
+     "bookname_arabic": "كتاب الديات",
+     "hadith_serial_start": "2615",
+     "hadith_serial_end": "2694"
+    },
+    {
+     "UnicId": "1693484488-23",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "22",
+     "bookname_english": "The Chapters on Wills",
+     "bookname_arabic": "كتاب الوصايا",
+     "hadith_serial_start": "2695",
+     "hadith_serial_end": "2718"
+    },
+    {
+     "UnicId": "1693484488-24",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "23",
+     "bookname_english": "Chapters on Shares of Inheritance",
+     "bookname_arabic": "كتاب الفرائض",
+     "hadith_serial_start": "2719",
+     "hadith_serial_end": "2752"
+    },
+    {
+     "UnicId": "1693484488-25",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "24",
+     "bookname_english": "The Chapters on Jihad",
+     "bookname_arabic": "كتاب الجهاد",
+     "hadith_serial_start": "2753",
+     "hadith_serial_end": "2881"
+    },
+    {
+     "UnicId": "1693484488-26",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "25",
+     "bookname_english": "Chapters on Hajj Rituals",
+     "bookname_arabic": "كتاب المناسك",
+     "hadith_serial_start": "2882",
+     "hadith_serial_end": "3119"
+    },
+    {
+     "UnicId": "1693484488-27",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "26",
+     "bookname_english": "Chapters on Sacrifices",
+     "bookname_arabic": "كتاب الأضاحي",
+     "hadith_serial_start": "3120",
+     "hadith_serial_end": "3161"
+    },
+    {
+     "UnicId": "1693484488-28",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "27",
+     "bookname_english": "Chapters on Slaughtering",
+     "bookname_arabic": "كتاب الذبائح",
+     "hadith_serial_start": "3162",
+     "hadith_serial_end": "3199"
+    },
+    {
+     "UnicId": "1693484488-29",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "28",
+     "bookname_english": "Chapters on Hunting",
+     "bookname_arabic": "كتاب الصيد",
+     "hadith_serial_start": "3200",
+     "hadith_serial_end": "3250"
+    },
+    {
+     "UnicId": "1693484488-30",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "29",
+     "bookname_english": "Chapters on Food",
+     "bookname_arabic": "كتاب الأطعمة",
+     "hadith_serial_start": "3251",
+     "hadith_serial_end": "3370"
+    },
+    {
+     "UnicId": "1693484488-31",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "30",
+     "bookname_english": "Chapters on Drinks",
+     "bookname_arabic": "كتاب الأشربة",
+     "hadith_serial_start": "3371",
+     "hadith_serial_end": "3435"
+    },
+    {
+     "UnicId": "1693484488-32",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "31",
+     "bookname_english": "Chapters on Medicine",
+     "bookname_arabic": "كتاب الطب",
+     "hadith_serial_start": "3436",
+     "hadith_serial_end": "3549"
+    },
+    {
+     "UnicId": "1693484488-33",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "32",
+     "bookname_english": "Chapters on Dress",
+     "bookname_arabic": "كتاب اللباس",
+     "hadith_serial_start": "3550",
+     "hadith_serial_end": "3656"
+    },
+    {
+     "UnicId": "1693484488-34",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "33",
+     "bookname_english": "Etiquette",
+     "bookname_arabic": "كتاب الأدب",
+     "hadith_serial_start": "3657",
+     "hadith_serial_end": "3826"
+    },
+    {
+     "UnicId": "1693484488-35",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "34",
+     "bookname_english": "Supplication",
+     "bookname_arabic": "كتاب الدعاء",
+     "hadith_serial_start": "3827",
+     "hadith_serial_end": "3892"
+    },
+    {
+     "UnicId": "1693484488-36",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "35",
+     "bookname_english": "Interpretation of Dreams",
+     "bookname_arabic": "كتاب تعبير الرؤيا",
+     "hadith_serial_start": "3893",
+     "hadith_serial_end": "3926"
+    },
+    {
+     "UnicId": "1693484488-37",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "36",
+     "bookname_english": "Tribulations",
+     "bookname_arabic": "كتاب الفتن",
+     "hadith_serial_start": "3927",
+     "hadith_serial_end": "4099"
+    },
+    {
+     "UnicId": "1693484488-38",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/ibnmajah",
+     "serial_no": "37",
+     "bookname_english": "Zuhd",
+     "bookname_arabic": "كتاب الزهد",
+     "hadith_serial_start": "4100",
+     "hadith_serial_end": "4341"
+    }
+   
+   ]

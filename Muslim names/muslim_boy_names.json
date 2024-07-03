@@ -1,0 +1,6269 @@
+{
+    "A": [
+        {
+            "name": "Aaban",
+            "meaning": "Name of the Angel"
+        },
+        {
+            "name": "Aabid",
+            "meaning": "Worshiper"
+        },
+        {
+            "name": "Aadil",
+            "meaning": "Just, Upright"
+        },
+        {
+            "name": "Aahil",
+            "meaning": "Prince"
+        },
+        {
+            "name": "Aalam",
+            "meaning": "World"
+        },
+        {
+            "name": "Aalee",
+            "meaning": "Sublime, high"
+        },
+        {
+            "name": "Aalim",
+            "meaning": "Religious Scholar"
+        },
+        {
+            "name": "Aamil",
+            "meaning": "Doer, Work man"
+        },
+        {
+            "name": "Aamir",
+            "meaning": "Civilised"
+        },
+        {
+            "name": "Aaqib",
+            "meaning": "Follower"
+        },
+        {
+            "name": "Aaqil",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Aarif",
+            "meaning": "Knowing, aware"
+        },
+        {
+            "name": "Aariz",
+            "meaning": "Respectable man"
+        },
+        {
+            "name": "Aaryan",
+            "meaning": "Of Utmost strength"
+        },
+        {
+            "name": "Aashif",
+            "meaning": "Bold, courageous"
+        },
+        {
+            "name": "Aashir",
+            "meaning": "Living"
+        },
+        {
+            "name": "Aasif",
+            "meaning": "An able minister"
+        },
+        {
+            "name": "Aasim",
+            "meaning": "Person who keeps away from sins"
+        },
+        {
+            "name": "Aatif",
+            "meaning": "Kind Affectionate"
+        },
+        {
+            "name": "Aaus",
+            "meaning": "Name of a tree"
+        },
+        {
+            "name": "Aayan",
+            "meaning": "God's gift"
+        },
+        {
+            "name": "Aazim",
+            "meaning": "Determined"
+        },
+        {
+            "name": "Abaan",
+            "meaning": "Old Arabic name"
+        },
+        {
+            "name": "Abbas",
+            "meaning": "Gloomy look"
+        },
+        {
+            "name": "Abd",
+            "meaning": "Al-Ala Slave of the High"
+        },
+        {
+            "name": "Abdul",
+            "meaning": "Aalee Servant of the Most High"
+        },
+        
+        {
+            "name": "Abdul",
+            "meaning": "Wasi Slave of the All Embracing"
+        },
+        {
+            "name": "Abdul-Aalee",
+            "meaning": "Servant of the Most High"
+        },
+        {
+            "name": "Abdul-Adheem",
+            "meaning": "Servant of the Most Great"
+        },
+        {
+            "name": "Abdul-Aleem",
+            "meaning": "Servant of the All-Knowing"
+        },
+        {
+            "name": "Abdul-Baaqi",
+            "meaning": "Servant of the Everlasting"
+        },
+        {
+            "name": "Abdul-Baari",
+            "meaning": "Servant of the Evolver"
+        },
+        {
+            "name": "Abdul-Baasit",
+            "meaning": "Servant of the Expander"
+        },
+        {
+            "name": "Abdul-Barr",
+            "meaning": "Servant of the source of Goodness"
+        },
+        {
+            "name": "Abdul-Dhahir",
+            "meaning": "Servant of the Manifest"
+        },
+        {
+            "name": "Abdul-Ghaffar",
+            "meaning": "Servant of the forgiver"
+        },
+        {
+            "name": "Abdul-Ghafur",
+            "meaning": "Servant of the All-Forgiving"
+        },
+        {
+            "name": "Abdul-Ghani",
+            "meaning": "Servant of the Self-Sufficient"
+        },
+        {
+            "name": "Abdul-Hadi",
+            "meaning": "Servant of the Guide"
+        },
+        {
+            "name": "Abdul-Hafeedh",
+            "meaning": "Servant of the Preserver"
+        },
+        {
+            "name": "Abdul-Hakeem",
+            "meaning": "Servant of the Wise"
+        },
+        {
+            "name": "Abdul-Haleem",
+            "meaning": "Servant of the Forbearing One"
+        },
+        {
+            "name": "Abdul-Hameed",
+            "meaning": "Servant of the Praiseworthy"
+        },
+        {
+            "name": "Abdul-Haqq",
+            "meaning": "Servant of the Truth"
+        },
+        {
+            "name": "Abdul-Haseeb",
+            "meaning": "Servant of the Reckoner"
+        },
+        {
+            "name": "Abdul-Jabbar",
+            "meaning": "Servant of the Compeller"
+        },
+        {
+            "name": "Abdul-Jaleel",
+            "meaning": "Servant of the Sublime One"
+        },
+        {
+            "name": "Abdul-Kareem",
+            "meaning": "Servant of the Most Generous"
+        },
+        {
+            "name": "Abdul-Khaliq",
+            "meaning": "Servant of the Creator"
+        },
+        {
+            "name": "Abdul-Lateef",
+            "meaning": "Servant of the Subtle One"
+        },
+        {
+            "name": "Abdul-Majeed",
+            "meaning": "Servant of the Most Glorious"
+        },
+        {
+            "name": "Abdul-Majid",
+            "meaning": "Servant of the Noble"
+        },
+        {
+            "name": "Abdul-Malik",
+            "meaning": "Servant of the Sovereign Lord"
+        },
+        {
+            "name": "Abdul-Mu'eid",
+            "meaning": "Servant of the Restorer"
+        },
+        {
+            "name": "Abdul-Mu'izz",
+            "meaning": "Servant of the Honourer"
+        },
+        {
+            "name": "Abdul-Mughni",
+            "meaning": "Servant of the Enricher"
+        },
+        {
+            "name": "Abdul-Mujeeb",
+            "meaning": "Servant of the Responsive"
+        },
+        {
+            "name": "Abdul-Mumin",
+            "meaning": "Servant of the Guardian of Faith"
+        },
+        {
+            "name": "Abdul-Muqtadir",
+            "meaning": "Servant of the Powerful"
+        },
+        {
+            "name": "Abdul-Muta'alee",
+            "meaning": "Servant of the Most Exalted"
+        },
+        {
+            "name": "Abdul-Nur",
+            "meaning": "Servant of the Light"
+        },
+        {
+            "name": "Abdul-Qaadir",
+            "meaning": "Servant of the Able"
+        },
+        {
+            "name": "Abdul-Qahhar",
+            "meaning": "Servant of the Subduer"
+        },
+        {
+            "name": "Abdul-Qaiyoum",
+            "meaning": "Servant of the Self-Sustaining"
+        },
+        {
+            "name": "Abdul-Quddus",
+            "meaning": "Servant of the HolyFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Abdul-Rasheed",
+            "meaning": "Servant of the rightly guided"
+        },
+        {
+            "name": "Abdul-Rashid",
+            "meaning": "Servant of the rightly guided"
+        },
+        {
+            "name": "Abdul-Waajid",
+            "meaning": "Servant of the Finder"
+        },
+        {
+            "name": "Abdul-Wadood",
+            "meaning": "Servant of the Loving"
+        },
+        {
+            "name": "Abdul-Wahhab",
+            "meaning": "Servant of the Bestower"
+        },
+        {
+            "name": "Abdul-Warith",
+            "meaning": "Servant of the Supreme Inheritor"
+        },
+        {
+            "name": "Abdullah",
+            "meaning": "Servant of Allah"
+        },
+        {
+            "name": "Abdur",
+            "meaning": "Rahman Slave of Allah"
+        },
+        {
+            "name": "Abdur",
+            "meaning": "Rashid Slave of the Guide"
+        },
+        {
+            "name": "Abdur",
+            "meaning": "Razzaq Slave of the provider;"
+        },
+        {
+            "name": "Abdur-Raheem",
+            "meaning": "Servant of the Most Merciful"
+        },
+        {
+            "name": "Abdur-Rahman",
+            "meaning": "Servant of the Most Gracious"
+        },
+        {
+            "name": "Abdur-Raqeeb",
+            "meaning": "Servant of the Watchful"
+        },
+        {
+            "name": "Abdur-Rasheed",
+            "meaning": "Servant of the Guide to Right Path"
+        },
+        {
+            "name": "Abdur-Rauf",
+            "meaning": "Servant of the Compassionate"
+        },
+        {
+            "name": "Abdur-Razzaq",
+            "meaning": "Servant of the Provider"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Name of the narrator of one of the hadith"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Sabur Slave of the Forbearing"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Salaam Slave of the Giver of Peace"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Samad Slave of the Eternal, The Independent"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Sami Slave of the All Hearing"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Sattar Slave of the one who conceals faults"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Shafi Slave of the Healer"
+        },
+        {
+            "name": "Abdus",
+            "meaning": "Subbooh Slave of the Extremely pure"
+        },
+        {
+            "name": "Abdus-Sabour",
+            "meaning": "Servant of the Patient"
+        },
+        {
+            "name": "Abdus-Salaam",
+            "meaning": "Servant of the Source of Peace"
+        },
+        {
+            "name": "Abdus-Samad",
+            "meaning": "Servant of the Eternal"
+        },
+        {
+            "name": "Abdus-Sameei",
+            "meaning": "Servant of the All-Hearing"
+        },
+        {
+            "name": "Abdus-Shaheed",
+            "meaning": "Servant of the Witness"
+        },
+        {
+            "name": "Abdus-Shakur",
+            "meaning": "Servant of the Appreciative"
+        },
+        {
+            "name": "Abdush",
+            "meaning": "Shahid Slave of the Witness"
+        },
+        {
+            "name": "Abid",
+            "meaning": "Worshipper"
+        },
+        {
+            "name": "Abisali",
+            "meaning": "Warrior in Islam"
+        },
+        {
+            "name": "Abrad",
+            "meaning": "Hail, Mail"
+        },
+        {
+            "name": "Abrar",
+            "meaning": "Piety"
+        },
+        {
+            "name": "Abrash",
+            "meaning": "Spotted, Speckled"
+        },
+        {
+            "name": "Absi",
+            "meaning": "Probably from ABASA to frown; this was the name of Abdullah ibnMusa, a scholar and reciter of the Quran, died 828/829"
+        },
+        {
+            "name": "Abt'hi",
+            "meaning": "One who lives in Abtah, a place near Makkah"
+        },
+        {
+            "name": "Abul-Hassan",
+            "meaning": "The Son Of Ali"
+        },
+        {
+            "name": "Abyad",
+            "meaning": "A narrator of hadith was so named"
+        },
+        {
+            "name": "Abyan",
+            "meaning": "Eloquent"
+        },
+        {
+            "name": "Abzari",
+            "meaning": "Seeds, spice, seedsman, one who sows; the Persian scribe and"
+        },
+        {
+            "name": "Adam",
+            "meaning": "A Prophet's Name"
+        },
+        {
+            "name": "Adawi",
+            "meaning": "Grandson of Sayyindina Umer"
+        },
+        {
+            "name": "Adbul-Qawi",
+            "meaning": "Servant of the Most Powerful"
+        },
+        {
+            "name": "Adeeb",
+            "meaning": "A literary Person"
+        },
+        {
+            "name": "Adeel",
+            "meaning": "Just"
+        },
+        {
+            "name": "Adeem",
+            "meaning": "Rare"
+        },
+        {
+            "name": "Adel",
+            "meaning": "Honourable Judge, One who jugdes Fairly"
+        },
+        {
+            "name": "Adham",
+            "meaning": "BlackFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Adheem",
+            "meaning": "The most great"
+        },
+        {
+            "name": "Adib",
+            "meaning": "Cultured"
+        },
+        {
+            "name": "Adil",
+            "meaning": "Just, Honest"
+        },
+        {
+            "name": "Adiy",
+            "meaning": "A companion of the Prophet; also the name of the son of Hatim"
+        },
+        {
+            "name": "Adl",
+            "meaning": "Justice"
+        },
+        {
+            "name": "Adnan",
+            "meaning": "A tribal ancestor of the Quraysh, the Prophet (S.A.W) was from"
+        },
+        {
+            "name": "Aduz",
+            "meaning": "Zahir Slave of the Manifest"
+        },
+        {
+            "name": "Adyan",
+            "meaning": "A nabee was named by this name"
+        },
+        {
+            "name": "Afaaq",
+            "meaning": "The place where Earth & Sky meet"
+        },
+        {
+            "name": "Afeef",
+            "meaning": "Pure, Chaste, Pious"
+        },
+        {
+            "name": "Affan",
+            "meaning": "Forgiving person"
+        },
+        {
+            "name": "Afham",
+            "meaning": "Loving"
+        },
+        {
+            "name": "Afif",
+            "meaning": "Chaste, Modest"
+        },
+        {
+            "name": "Afiq",
+            "meaning": "Honest"
+        },
+        {
+            "name": "Aflah",
+            "meaning": "Gaining success-but the Prophet (S.A.W) has discouraged us from"
+        },
+        {
+            "name": "Afraz",
+            "meaning": "Standing tall like a mountain, ability to withstand all that is"
+        },
+        {
+            "name": "Afruz",
+            "meaning": "Standing tall like a mountain, ability to withstand all that is"
+        },
+        {
+            "name": "Aftaab",
+            "meaning": "Bright, prosperous, the sun"
+        },
+        {
+            "name": "Aftab",
+            "meaning": "Sun"
+        },
+        {
+            "name": "Afzal",
+            "meaning": "Best, top most"
+        },
+        {
+            "name": "Agharr",
+            "meaning": "Handsome, beautiful, distinguished illustrious, noble,"
+        },
+        {
+            "name": "Ahab",
+            "meaning": "Strong"
+        },
+        {
+            "name": "Ahad",
+            "meaning": "The one"
+        },
+        {
+            "name": "Ahmad",
+            "meaning": "Most highly adored"
+        },
+        {
+            "name": "Ahmar",
+            "meaning": "Red Coloured"
+        },
+        {
+            "name": "Ahnaf",
+            "meaning": "Name of one of the narrators of hadith"
+        },
+        {
+            "name": "Ahsan",
+            "meaning": "The best of all"
+        },
+        {
+            "name": "Ahwas",
+            "meaning": "Having narrow, contracted or squinting eyes"
+        },
+        {
+            "name": "Ahyan",
+            "meaning": "Gift of God"
+        },
+        {
+            "name": "Ahzab",
+            "meaning": "Name of one of the narrators of Hadith"
+        },
+        {
+            "name": "Aidan",
+            "meaning": "Help, intelligent"
+        },
+        {
+            "name": "Aidh",
+            "meaning": "Name of a reciter of the Holy Quran"
+        },
+        {
+            "name": "Aijaz",
+            "meaning": "Blessing"
+        },
+        {
+            "name": "Aiman",
+            "meaning": "Fearless"
+        },
+        {
+            "name": "Aizat",
+            "meaning": "Sweetness"
+        },
+        {
+            "name": "Ajer",
+            "meaning": "Reward"
+        },
+        {
+            "name": "Ajlah",
+            "meaning": "A narrator of hadith had this name"
+        },
+        {
+            "name": "Ajmal",
+            "meaning": "Beautiful"
+        },
+        {
+            "name": "Akbar",
+            "meaning": "Great"
+        },
+        {
+            "name": "Akdas",
+            "meaning": "Most holy book"
+        },
+        {
+            "name": "Akeem",
+            "meaning": "Wise"
+        },
+        {
+            "name": "Akhas",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Akhdan",
+            "meaning": "Best Friend"
+        },
+        {
+            "name": "Akhfash",
+            "meaning": "There have been several men of this name; there wereFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Akhlaq",
+            "meaning": "Behaving"
+        },
+        {
+            "name": "Akhtar",
+            "meaning": "A Star, good man"
+        },
+        {
+            "name": "Akif",
+            "meaning": "Attached, Intent"
+        },
+        {
+            "name": "Akmal",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Akram",
+            "meaning": "More Generous"
+        },
+        {
+            "name": "Al",
+            "meaning": "hakeem The Wise"
+        },
+        {
+            "name": "Al-Kareem",
+            "meaning": "Educator, teacher"
+        },
+        {
+            "name": "Ala'",
+            "meaning": "Nobility"
+        },
+        {
+            "name": "Ali",
+            "meaning": "Noble, sublime, fourth Caliph of Islam"
+        },
+        {
+            "name": "Alman",
+            "meaning": "Kind, willing and wise man"
+        },
+        {
+            "name": "Almir",
+            "meaning": "Prince"
+        },
+        {
+            "name": "Altamash",
+            "meaning": "Name of a famous king"
+        },
+        {
+            "name": "Amaan",
+            "meaning": "The most loveable"
+        },
+        {
+            "name": "Amaar",
+            "meaning": "One who prays 5 times and fasts"
+        },
+        {
+            "name": "Amam",
+            "meaning": "Safety, Protection"
+        },
+        {
+            "name": "Amayr",
+            "meaning": "Crown"
+        },
+        {
+            "name": "Ameer",
+            "meaning": "Commander, Prince, Khalifah"
+        },
+        {
+            "name": "Amer",
+            "meaning": "Rich"
+        },
+        {
+            "name": "Amin",
+            "meaning": "Faithful, trustworthy, custodian"
+        },
+        {
+            "name": "Amir",
+            "meaning": "Prosperous"
+        },
+        {
+            "name": "Amjad",
+            "meaning": "More glorious, more illustrious"
+        },
+        {
+            "name": "Ammaar",
+            "meaning": "One with strong Imaan. Also a Sahabi , one of the early muslims,"
+        },
+        {
+            "name": "Ammar",
+            "meaning": "Long of age"
+        },
+        {
+            "name": "Amr",
+            "meaning": "\"By my life\""
+        },
+        {
+            "name": "Anas",
+            "meaning": "Love, affection"
+        },
+        {
+            "name": "Anasah",
+            "meaning": "The freed slave of the Prophet had this name"
+        },
+        {
+            "name": "Aneeq",
+            "meaning": "Valuable"
+        },
+        {
+            "name": "Anees",
+            "meaning": "Intimate, friendly"
+        },
+        {
+            "name": "Aniq",
+            "meaning": "Elegant"
+        },
+        {
+            "name": "Anis",
+            "meaning": "Close friend, companion"
+        },
+        {
+            "name": "Anjam",
+            "meaning": "Stars"
+        },
+        {
+            "name": "Ansar",
+            "meaning": "The first people who converted to the religion of Islam were the"
+        },
+        {
+            "name": "Antarah",
+            "meaning": "This was the name of the freed slave of Sulaym"
+        },
+        {
+            "name": "Anwaar",
+            "meaning": "Light, glow, gleam"
+        },
+        {
+            "name": "Anwar",
+            "meaning": "More radiant"
+        },
+        {
+            "name": "Anzar",
+            "meaning": "Angel of paradise"
+        },
+        {
+            "name": "Aqdas",
+            "meaning": "Holy, pure"
+        },
+        {
+            "name": "Aqeel",
+            "meaning": "Wise, Intelligent"
+        },
+        {
+            "name": "Aqeil",
+            "meaning": "Knowledgeable"
+        },
+        {
+            "name": "Arbaaz",
+            "meaning": "Eagle"
+        },
+        {
+            "name": "Arbab",
+            "meaning": "Who looks after someone or takes care"
+        },
+        {
+            "name": "Areeb",
+            "meaning": "Skilful, Adroit"
+        },
+        {
+            "name": "Areez",
+            "meaning": "Friend"
+        },
+        {
+            "name": "Arfan",
+            "meaning": "Gratefulness"
+        },
+        {
+            "name": "Arham",
+            "meaning": "Merciful"
+        },
+        {
+            "name": "Arif",
+            "meaning": "Acquainted, knowledgeable"
+        },
+        {
+            "name": "Arish",
+            "meaning": "A brave soldier"
+        },
+        {
+            "name": "Armaan",
+            "meaning": "Desire, hope"
+        },
+        {
+            "name": "Arman",
+            "meaning": "Army manFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Arqam",
+            "meaning": "Pen, Speckled snake;"
+        },
+        {
+            "name": "Arsal",
+            "meaning": "The one who was sent"
+        },
+        {
+            "name": "Arsalaan",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Arsh",
+            "meaning": "Dominion , Crown"
+        },
+        {
+            "name": "Arshad",
+            "meaning": "Better guided, honest"
+        },
+        {
+            "name": "Arshaq",
+            "meaning": "Handsome, well proportioned"
+        },
+        {
+            "name": "Arslan",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Artah",
+            "meaning": "A narrator of the hadith"
+        },
+        {
+            "name": "Aryan",
+            "meaning": "Of utmost strength"
+        },
+        {
+            "name": "As'ad",
+            "meaning": "Happier"
+        },
+        {
+            "name": "Asad",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Asar",
+            "meaning": "Fourth Prayer of the day"
+        },
+        {
+            "name": "Asbagh",
+            "meaning": "Coloured animal, huge flood, dyer"
+        },
+        {
+            "name": "Asbat",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Aseed",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Asfar",
+            "meaning": "The morning's light"
+        },
+        {
+            "name": "Asgar",
+            "meaning": "Devoted"
+        },
+        {
+            "name": "Asghar",
+            "meaning": "Shorter, Smaller, Junior"
+        },
+        {
+            "name": "Asha'ath",
+            "meaning": "Scattered, Spread about, humble"
+        },
+        {
+            "name": "Ashar",
+            "meaning": "One who has wisdom"
+        },
+        {
+            "name": "Ashaz",
+            "meaning": "One in a million, name of a sahabi during the time of prophet"
+        },
+        {
+            "name": "Asher",
+            "meaning": "Wise, knowledgeable"
+        },
+        {
+            "name": "Ashfaq",
+            "meaning": "Compassionate friend"
+        },
+        {
+            "name": "Ashik",
+            "meaning": "Lover, Love"
+        },
+        {
+            "name": "Ashim",
+            "meaning": "Generous"
+        },
+        {
+            "name": "Ashmaan",
+            "meaning": "Heaven"
+        },
+        {
+            "name": "Ashmath",
+            "meaning": "Correct path, Straight path"
+        },
+        {
+            "name": "Ashraf",
+            "meaning": "Honourable"
+        },
+        {
+            "name": "Asim",
+            "meaning": "Protector"
+        },
+        {
+            "name": "Aslam",
+            "meaning": "Peace"
+        },
+        {
+            "name": "Asrar",
+            "meaning": "Secret/Sacred relating to Islam"
+        },
+        {
+            "name": "Ata",
+            "meaning": "Gift, Present"
+        },
+        {
+            "name": "Ataubaq",
+            "meaning": "Handsome, beautiful, helpful, generous and got a lot of love to"
+        },
+        {
+            "name": "Ateeb",
+            "meaning": "Very pious"
+        },
+        {
+            "name": "Athar",
+            "meaning": "Neat, Clean"
+        },
+        {
+            "name": "Athazaz",
+            "meaning": "Unknown, Mystery, Maze"
+        },
+        {
+            "name": "Athier",
+            "meaning": "Lion hearted"
+        },
+        {
+            "name": "Atif",
+            "meaning": "United, Joined, Together"
+        },
+        {
+            "name": "Atik",
+            "meaning": "The black cloth of the Qaaba"
+        },
+        {
+            "name": "Atiq",
+            "meaning": "Ancient, Noble"
+        },
+        {
+            "name": "Attiq",
+            "meaning": "Old"
+        },
+        {
+            "name": "Awad",
+            "meaning": "Reward, Compensation"
+        },
+        {
+            "name": "Awf",
+            "meaning": "Guest, fragrance, lion;"
+        },
+        {
+            "name": "Awn",
+            "meaning": "To help, assist"
+        },
+        {
+            "name": "Aws",
+            "meaning": "To give"
+        },
+        {
+            "name": "Ayaan",
+            "meaning": "God's gift"
+        },
+        {
+            "name": "Ayaaz",
+            "meaning": "Slave"
+        },
+        {
+            "name": "Ayaz",
+            "meaning": "A sincere slave of Mahmoud the king once upon a time"
+        },
+        {
+            "name": "Aybak",
+            "meaning": "Ibn-Aybak was a leading historian"
+        },
+        {
+            "name": "Aydin",
+            "meaning": "Brilliant, Enlightened, Intelligent, Light of the moon"
+        },
+        {
+            "name": "Aymaan",
+            "meaning": "LuckyFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Ayman",
+            "meaning": "Right Hand"
+        },
+        {
+            "name": "Ayub",
+            "meaning": "A prophet of Allah (swt)"
+        },
+        {
+            "name": "Ayyash",
+            "meaning": "Bread seller"
+        },
+        {
+            "name": "Ayyub",
+            "meaning": "Ayyub was a Prophet of Allah known for his patience in the face of"
+        },
+        {
+            "name": "Azaan",
+            "meaning": "Call for the prayer"
+        },
+        {
+            "name": "Azad",
+            "meaning": "Freedom"
+        },
+        {
+            "name": "Azeem",
+            "meaning": "Great, greater"
+        },
+        {
+            "name": "Azfer",
+            "meaning": "Leader"
+        },
+        {
+            "name": "Azhar",
+            "meaning": "Famous"
+        },
+        {
+            "name": "Azim",
+            "meaning": "Greatest"
+        },
+        {
+            "name": "Azlan",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Azmat",
+            "meaning": "Respect, honour"
+        },
+        {
+            "name": "Azraq",
+            "meaning": "Blue, name of a companion of the Prophet"
+        },
+        {
+            "name": "Azraqi",
+            "meaning": "He was an authority on the history and geography of Makkah"
+        },
+        {
+            "name": "Azzam",
+            "meaning": "Determined, resolved"
+        }
+    ],
+    "B": [
+        {
+            "name": "Baahir",
+            "meaning": "Dazzling, Brilliant"
+        },
+        {
+            "name": "Baasim",
+            "meaning": "Smiling"
+        },
+        {
+            "name": "Babar",
+            "meaning": "Literal Meaning: Lion. Contextual meaning: King of Jungle; Lion"
+        },
+        {
+            "name": "Baber",
+            "meaning": "Courageous, Lion"
+        },
+        {
+            "name": "Baqar",
+            "meaning": "Inevitable, lion, powerful"
+        },
+        {
+            "name": "Baqir",
+            "meaning": "Beloved one, Close to heart"
+        },
+        {
+            "name": "Barkat",
+            "meaning": "Growth"
+        },
+        {
+            "name": "Barr",
+            "meaning": "Just, Pious"
+        },
+        {
+            "name": "Barraq",
+            "meaning": "Shining"
+        },
+        {
+            "name": "Basel",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Basem",
+            "meaning": "Smiling"
+        },
+        {
+            "name": "Bashaar",
+            "meaning": "Bringer of glad tidings"
+        },
+        {
+            "name": "Bashar",
+            "meaning": "Bringer of glad tidings"
+        },
+        {
+            "name": "Basharat",
+            "meaning": "Good news"
+        },
+        {
+            "name": "Basil",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Basim",
+            "meaning": "Smiling, Happy"
+        },
+        {
+            "name": "Basir",
+            "meaning": "Bringer of glad tidings"
+        },
+        {
+            "name": "Bassam",
+            "meaning": "Smiling"
+        },
+        {
+            "name": "Batal",
+            "meaning": "Champion"
+        },
+        {
+            "name": "Bazaan",
+            "meaning": "The old emperor of Yaman"
+        },
+        {
+            "name": "Bazam",
+            "meaning": "It was the name of the Tabiee, Abu Salih"
+        },
+        {
+            "name": "Behzad",
+            "meaning": "Honest and caring"
+        },
+        {
+            "name": "Bilal",
+            "meaning": "Name of the Prophet's Muezzin"
+        },
+        {
+            "name": "Bishr",
+            "meaning": "Joy, solved"
+        },
+        {
+            "name": "Bulhut",
+            "meaning": "A narrator of hadith had this name"
+        },
+        {
+            "name": "Burak",
+            "meaning": "Horse like animal that carried the Prophet (PBUH) during mehraj"
+        },
+        {
+            "name": "Burayd",
+            "meaning": "Cold, Mind"
+        },
+        {
+            "name": "Burhaan",
+            "meaning": "Proof"
+        },
+        {
+            "name": "Burhan",
+            "meaning": "Proof"
+        }
+    ],
+    "D": [
+        {
+            "name": "Da'wud",
+            "meaning": "A Prophet's Name"
+        },
+        {
+            "name": "Daamin",
+            "meaning": "Guarantor, Surety"
+        },
+        {
+            "name": "Daanish",
+            "meaning": "Wisdom, Learning, Science"
+        },
+        {
+            "name": "Dabbah",
+            "meaning": "Latch, door lock"
+        },
+        {
+            "name": "Dabir",
+            "meaning": "Judge"
+        },
+        {
+            "name": "Daghfal",
+            "meaning": "Name of first Islamic geologist"
+        },
+        {
+            "name": "Dakhil",
+            "meaning": "Foreigner, stranger"
+        },
+        {
+            "name": "Dameer",
+            "meaning": "Heart, Conscience"
+        },
+        {
+            "name": "Damurah",
+            "meaning": "Sparkle of light, fire"
+        },
+        {
+            "name": "Daniel",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Danish",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Daniyal",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Darim",
+            "meaning": "Name of a narrator of hadith"
+        },
+        {
+            "name": "Dawid",
+            "meaning": "Prince"
+        },
+        {
+            "name": "Dawlah",
+            "meaning": "Riches, happiness"
+        },
+        {
+            "name": "Dawoud",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Dayyan",
+            "meaning": "A mighty Ruler"
+        },
+        {
+            "name": "Dean",
+            "meaning": "Religion"
+        },
+        {
+            "name": "Deen",
+            "meaning": "Religion"
+        },
+        {
+            "name": "Dhiya",
+            "meaning": "Light, splendour"
+        },
+        {
+            "name": "Dhul",
+            "meaning": "Fiqar Name of the Prophet's sword"
+        },
+        {
+            "name": "Dilawar",
+            "meaning": "Brave, Courageous"
+        },
+        {
+            "name": "Dildar",
+            "meaning": "Charming, beloved"
+        },
+        {
+            "name": "Dinar",
+            "meaning": "Name of the grandfather of Abu Bin Thabit"
+        },
+        {
+            "name": "Diya",
+            "meaning": "Light (Also pronounced Ziya)"
+        },
+        {
+            "name": "Diyari",
+            "meaning": "A gift, or a present"
+        },
+        {
+            "name": "Dizhwar",
+            "meaning": "Mean, strong"
+        },
+        {
+            "name": "Duha",
+            "meaning": "Fore noon"
+        }
+    ],
+    "E": [
+        {
+            "name": "Ehan",
+            "meaning": "Full moon"
+        },
+        {
+            "name": "Ehsaas",
+            "meaning": "Feel"
+        },
+        {
+            "name": "Ehsan",
+            "meaning": "Powerful"
+        },
+        {
+            "name": "Eijaz",
+            "meaning": "Miracle"
+        },
+        {
+            "name": "Ejaz",
+            "meaning": "To do something which others cannot do; a miracle; inimitability"
+        },
+        {
+            "name": "El-Amin",
+            "meaning": "Trustworthy"
+        },
+        {
+            "name": "Emran",
+            "meaning": "Progress, Achievement"
+        },
+        {
+            "name": "Eshan",
+            "meaning": "In God Grace, Worthy"
+        }
+    ],
+    "F": [
+        {
+            "name": "Faaiz",
+            "meaning": "Successful, Prosperous, Victories"
+        },
+        {
+            "name": "Faakhir",
+            "meaning": "Proud, Excellent"
+        },
+        {
+            "name": "Faaris",
+            "meaning": "Horseman, Knight"
+        },
+        {
+            "name": "Faaz",
+            "meaning": "Victorious, successful"
+        },
+        {
+            "name": "Fadi",
+            "meaning": "Redeemer"
+        },
+        {
+            "name": "Fadil",
+            "meaning": "Honourable, outstanding"
+        },
+        {
+            "name": "Fadl",
+            "meaning": "Reward, favour"
+        },
+        {
+            "name": "Faeq",
+            "meaning": "Surpassing, excellent"
+        },
+        {
+            "name": "Fahad",
+            "meaning": "Lynx, wild cat"
+        },
+        {
+            "name": "Fahd",
+            "meaning": "Lynx"
+        },
+        {
+            "name": "Faheem",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Fahim",
+            "meaning": "Understanding, clever, wise"
+        },
+        {
+            "name": "Fahmi",
+            "meaning": "Understanding"
+        },
+        {
+            "name": "Fahyim",
+            "meaning": "Very CleverFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Faik",
+            "meaning": "Surpassing, excellent, leader"
+        },
+        {
+            "name": "Faiq",
+            "meaning": "Superior, Ascendant, Outstanding"
+        },
+        {
+            "name": "Faisal",
+            "meaning": "Strong, handsome"
+        },
+        {
+            "name": "Faiyaz",
+            "meaning": "Artistic"
+        },
+        {
+            "name": "Faiz",
+            "meaning": "Grace, favour"
+        },
+        {
+            "name": "Faizaan",
+            "meaning": "Grace, Favour"
+        },
+        {
+            "name": "Faizan",
+            "meaning": "Ruler"
+        },
+        {
+            "name": "Fajaruddin",
+            "meaning": "The First"
+        },
+        {
+            "name": "Fajer",
+            "meaning": "Morning"
+        },
+        {
+            "name": "Fakeeh",
+            "meaning": "Cheerful"
+        },
+        {
+            "name": "Fakhr",
+            "meaning": "Pride, Something to feel proud about"
+        },
+        {
+            "name": "Fakhri",
+            "meaning": "Honorary, glorious, proud"
+        },
+        {
+            "name": "Fakhrul",
+            "meaning": "Proud"
+        },
+        {
+            "name": "Fakih",
+            "meaning": "Humorous"
+        },
+        {
+            "name": "Falah",
+            "meaning": "Success"
+        },
+        {
+            "name": "Faqeeh",
+            "meaning": "Jurist, Scholar of religious laws"
+        },
+        {
+            "name": "Farafisa",
+            "meaning": "Name of a companion, bin Umayr al-Hanafi"
+        },
+        {
+            "name": "Faraj",
+            "meaning": "There have been men with this name"
+        },
+        {
+            "name": "Farasat",
+            "meaning": "Perception, sagacity"
+        },
+        {
+            "name": "Faraz",
+            "meaning": "Ascent, height"
+        },
+        {
+            "name": "Fardeen",
+            "meaning": "Radiant"
+        },
+        {
+            "name": "Fareed",
+            "meaning": "Unique, incomparable"
+        },
+        {
+            "name": "Farees",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Farhan",
+            "meaning": "Glad, happy, joyful"
+        },
+        {
+            "name": "Farid",
+            "meaning": "Unique"
+        },
+        {
+            "name": "Faris",
+            "meaning": "Horseman, rider, knight"
+        },
+        {
+            "name": "Farooq",
+            "meaning": "Comely, One who distinguishes truth from falsehood"
+        },
+        {
+            "name": "Farouk",
+            "meaning": "Knowing right from wrong"
+        },
+        {
+            "name": "Farrukh",
+            "meaning": "Happy, Auspicious"
+        },
+        {
+            "name": "Faruq",
+            "meaning": "One who distinguishes truth from falsehood"
+        },
+        {
+            "name": "Fasahat",
+            "meaning": "Eloquence"
+        },
+        {
+            "name": "Faseeh",
+            "meaning": "Eloquent (Suggested name FASEEUDDIN)"
+        },
+        {
+            "name": "Fateen",
+            "meaning": "Clever, Smart"
+        },
+        {
+            "name": "Fateh",
+            "meaning": "Victory"
+        },
+        {
+            "name": "Fatih",
+            "meaning": "Victor, conqueror, the \"opener\" (eg: surah al-Fath)"
+        },
+        {
+            "name": "Fatik",
+            "meaning": "Deadly, Lethal"
+        },
+        {
+            "name": "Fattah",
+            "meaning": "One who attains victory"
+        },
+        {
+            "name": "Fawad",
+            "meaning": "Heart"
+        },
+        {
+            "name": "Fawwaz",
+            "meaning": "Successful"
+        },
+        {
+            "name": "Fawz",
+            "meaning": "Success, Salvation"
+        },
+        {
+            "name": "Fawzan",
+            "meaning": "Successful, Salvation"
+        },
+        {
+            "name": "Fawzi",
+            "meaning": "Successful"
+        },
+        {
+            "name": "Fayaaz",
+            "meaning": "Kind & Generous; Gracious"
+        },
+        {
+            "name": "Fayd",
+            "meaning": "Abundance"
+        },
+        {
+            "name": "Fayek",
+            "meaning": "Surpassing, excellent, superior, outstanding"
+        },
+        {
+            "name": "Faysal",
+            "meaning": "Decisive"
+        },
+        {
+            "name": "Fayzan",
+            "meaning": "Beneficence"
+        },
+        {
+            "name": "Fazal",
+            "meaning": "Grace"
+        },
+        {
+            "name": "Fazan",
+            "meaning": "Ruler"
+        },
+        {
+            "name": "Feroz",
+            "meaning": "Shinning"
+        },
+        {
+            "name": "Fiddah",
+            "meaning": "Silver"
+        },
+        {
+            "name": "Fidyan",
+            "meaning": "Person who makes sacrificeFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Firas",
+            "meaning": "Perspicacious"
+        },
+        {
+            "name": "Firoz",
+            "meaning": "Gift"
+        },
+        {
+            "name": "Fizan",
+            "meaning": "Breeze"
+        },
+        {
+            "name": "Fuad",
+            "meaning": "Heart"
+        },
+        {
+            "name": "Fudail",
+            "meaning": "Excellent in character"
+        },
+        {
+            "name": "Fujai",
+            "meaning": "Name of Prophets (S.A.W) companion"
+        },
+        {
+            "name": "Furozh",
+            "meaning": "Light"
+        },
+        {
+            "name": "Fuwad",
+            "meaning": "Heart"
+        },
+        {
+            "name": "Fuzail",
+            "meaning": "An accomplished person"
+        }
+    ],
+    "G": [
+        {
+            "name": "Ghaith",
+            "meaning": "Rain"
+        },
+        {
+            "name": "Ghalib",
+            "meaning": "Victor"
+        },
+        {
+            "name": "Ghanem",
+            "meaning": "Successful"
+        },
+        {
+            "name": "Ghannam",
+            "meaning": "Shepherd"
+        },
+        {
+            "name": "Ghasaan",
+            "meaning": "Old Arabic name"
+        },
+        {
+            "name": "Ghauth",
+            "meaning": "Helper, Defender"
+        },
+        {
+            "name": "Ghawth",
+            "meaning": "Help, succour"
+        },
+        {
+            "name": "Ghayoor",
+            "meaning": "Self-respecting"
+        },
+        {
+            "name": "Ghazalan",
+            "meaning": "Spinner"
+        },
+        {
+            "name": "Ghazanfar",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Ghazawan",
+            "meaning": "Warrior, companion of Prophet (S.A.W)"
+        },
+        {
+            "name": "Ghazi",
+            "meaning": "Conqueror, warrior"
+        },
+        {
+            "name": "Ghazzal",
+            "meaning": "Name of a reciter of Quran"
+        },
+        {
+            "name": "Ghiyath",
+            "meaning": "Aid, Succourer"
+        },
+        {
+            "name": "Ghufran",
+            "meaning": "Forgiving, to conceal"
+        },
+        {
+            "name": "Ghulam",
+            "meaning": "Slave, Servant"
+        },
+        {
+            "name": "Ghunayn",
+            "meaning": "One who collects booty"
+        },
+        {
+            "name": "Ghusharib",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Ghusun",
+            "meaning": "Branches of tree"
+        },
+        {
+            "name": "Ghutayf",
+            "meaning": "Affluent"
+        },
+        {
+            "name": "Gohar",
+            "meaning": "Diamond, precious stone"
+        },
+        {
+            "name": "Gulab",
+            "meaning": "Rose"
+        },
+        {
+            "name": "Gulfam",
+            "meaning": "Rose faced"
+        },
+        {
+            "name": "Gulshan",
+            "meaning": "A flower Garden"
+        },
+        {
+            "name": "Gulzar",
+            "meaning": "A Garden, an inhabited town"
+        }
+    ],
+    "H": [
+        {
+            "name": "Haadee",
+            "meaning": "The guide"
+        },
+        {
+            "name": "Haaris",
+            "meaning": "Friend"
+        },
+        {
+            "name": "Haashir",
+            "meaning": "Gatherer"
+        },
+        {
+            "name": "Haaziq",
+            "meaning": "Intelligent, Skilful"
+        },
+        {
+            "name": "Habeebullah",
+            "meaning": "Beloved of Allah"
+        },
+        {
+            "name": "Habib",
+            "meaning": "Beloved"
+        },
+        {
+            "name": "Habis",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Hadee",
+            "meaning": "Director, guide"
+        },
+        {
+            "name": "Hadi",
+            "meaning": "Guide"
+        },
+        {
+            "name": "Hadid",
+            "meaning": "Strong"
+        },
+        {
+            "name": "Hafid",
+            "meaning": "The wise one"
+        },
+        {
+            "name": "Hafiz",
+            "meaning": "Protector, guardian"
+        },
+        {
+            "name": "Hafs",
+            "meaning": "Lion, Young of Lion"
+        },
+        {
+            "name": "Haider",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Haikal",
+            "meaning": "Tale"
+        },
+        {
+            "name": "Haitham",
+            "meaning": "EagleFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Haji",
+            "meaning": "Pilgrim"
+        },
+        {
+            "name": "Hajib",
+            "meaning": "Doorman, janitor, bailiff, eyebrow, edge, covering"
+        },
+        {
+            "name": "Hajjaj",
+            "meaning": "Orbit, eye socket, Argument, debate"
+        },
+        {
+            "name": "Hakim",
+            "meaning": "Brother"
+        },
+        {
+            "name": "Haleef",
+            "meaning": "Ally, confederate"
+        },
+        {
+            "name": "Haleem",
+            "meaning": "Patient"
+        },
+        {
+            "name": "Hallaj",
+            "meaning": "Cotton ginner"
+        },
+        {
+            "name": "Halwani",
+            "meaning": "Confectioner"
+        },
+        {
+            "name": "Hamd",
+            "meaning": "Praise, lauding"
+        },
+        {
+            "name": "Hamdan",
+            "meaning": "The one who lauds, extols"
+        },
+        {
+            "name": "Hamdhy",
+            "meaning": "Sympathy, blessing"
+        },
+        {
+            "name": "Hamdi",
+            "meaning": "Of praise, commendable"
+        },
+        {
+            "name": "Hameem",
+            "meaning": "Friend"
+        },
+        {
+            "name": "Hami",
+            "meaning": "Protector, Patron, Supporter, defender"
+        },
+        {
+            "name": "Hamid",
+            "meaning": "Praising, Allah, commendable"
+        },
+        {
+            "name": "Hamiz",
+            "meaning": "Brave, strong"
+        },
+        {
+            "name": "Hammad",
+            "meaning": "Praising (Allah)"
+        },
+        {
+            "name": "Hammam",
+            "meaning": "A great man, a chief, a hero"
+        },
+        {
+            "name": "Hamood",
+            "meaning": "One who praises Allah"
+        },
+        {
+            "name": "Hamza",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Hamzah",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Hanash",
+            "meaning": "A hadith was narrated by a man with the same name"
+        },
+        {
+            "name": "Haneef",
+            "meaning": "Upright, true"
+        },
+        {
+            "name": "Hani",
+            "meaning": "Delighted, content"
+        },
+        {
+            "name": "Hanif",
+            "meaning": "True believer"
+        },
+        {
+            "name": "Hanifah",
+            "meaning": "Upright"
+        },
+        {
+            "name": "Haq",
+            "meaning": "Power"
+        },
+        {
+            "name": "Haris",
+            "meaning": "Vigilant guardian"
+        },
+        {
+            "name": "Harisah",
+            "meaning": "Guardian, protector"
+        },
+        {
+            "name": "Harith",
+            "meaning": "Ploughman, cultivator"
+        },
+        {
+            "name": "Haroon",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Hasan",
+            "meaning": "Handsome, good"
+        },
+        {
+            "name": "Haseeb",
+            "meaning": "Respected, esteemed"
+        },
+        {
+            "name": "Haseen",
+            "meaning": "Beautiful, Smart"
+        },
+        {
+            "name": "Hasham",
+            "meaning": "Servant"
+        },
+        {
+            "name": "Hashid",
+            "meaning": "One who rallies people, crowded, gathered"
+        },
+        {
+            "name": "Hashim",
+            "meaning": "Generous (Great grandfather of the Prophet)"
+        },
+        {
+            "name": "Hashir",
+            "meaning": "One who assembles"
+        },
+        {
+            "name": "Hashmat",
+            "meaning": "Dignity, Glory"
+        },
+        {
+            "name": "Hasib",
+            "meaning": "The reckoner"
+        },
+        {
+            "name": "Hasnain",
+            "meaning": "Combination of Hassan and Hussain (see Hassan and Hussain for"
+        },
+        {
+            "name": "Hassan",
+            "meaning": "Really beautiful or one who beautifies"
+        },
+        {
+            "name": "Hatib",
+            "meaning": "A wood collector"
+        },
+        {
+            "name": "Hatim",
+            "meaning": "Judge"
+        },
+        {
+            "name": "Hawshab",
+            "meaning": "A son of Iama Muslim had this name"
+        },
+        {
+            "name": "Hayaat",
+            "meaning": "Life"
+        },
+        {
+            "name": "Hayder",
+            "meaning": "Means \"lion\" in Arabic. This was another name of Ali, the husband"
+        },
+        {
+            "name": "Haytham",
+            "meaning": "Young hawk"
+        },
+        {
+            "name": "Hayyam",
+            "meaning": "Loving"
+        },
+        {
+            "name": "Hazim",
+            "meaning": "Discreet, prudentFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Haziq",
+            "meaning": "Intelligent, skilful"
+        },
+        {
+            "name": "Hesam",
+            "meaning": "A sharp sword"
+        },
+        {
+            "name": "Hibah",
+            "meaning": "Grant, donation"
+        },
+        {
+            "name": "Hibbaan",
+            "meaning": "Fleshy"
+        },
+        {
+            "name": "Hidayat",
+            "meaning": "Instruction"
+        },
+        {
+            "name": "Hilal",
+            "meaning": "Crescent"
+        },
+        {
+            "name": "Himayat",
+            "meaning": "Protection, Support"
+        },
+        {
+            "name": "Hisham",
+            "meaning": "Generosity"
+        },
+        {
+            "name": "Hissan",
+            "meaning": "Generous"
+        },
+        {
+            "name": "Hooman",
+            "meaning": "Good soul, good natured"
+        },
+        {
+            "name": "Hosaam",
+            "meaning": "Sword"
+        },
+        {
+            "name": "Houda",
+            "meaning": "Guided"
+        },
+        {
+            "name": "Hubaab",
+            "meaning": "Bubble of Water"
+        },
+        {
+            "name": "Hud",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Hujayyah",
+            "meaning": "The father of Ajlah bin Abdullah was so called"
+        },
+        {
+            "name": "Hujjat",
+            "meaning": "Argument, reasoning, proof"
+        },
+        {
+            "name": "Humaid",
+            "meaning": "Praised"
+        },
+        {
+            "name": "Humair",
+            "meaning": "Red"
+        },
+        {
+            "name": "Humam",
+            "meaning": "Courageous, generous"
+        },
+        {
+            "name": "Humayl",
+            "meaning": "A companion of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Humayun",
+            "meaning": "Blessed, sacred, royal, imperial"
+        },
+        {
+            "name": "Humd",
+            "meaning": "Praise of Allah"
+        },
+        {
+            "name": "Humza",
+            "meaning": "The name Humza is one of the Arabic alphabets"
+        },
+        {
+            "name": "Hurairah",
+            "meaning": "Narrator of Hadith, a close companion to Prophet Mohammed"
+        },
+        {
+            "name": "Hurayth",
+            "meaning": "A small cultivator"
+        },
+        {
+            "name": "Hurmat",
+            "meaning": "Chastity, sacred"
+        },
+        {
+            "name": "Hurrah",
+            "meaning": "Liberal, free"
+        },
+        {
+            "name": "Husam",
+            "meaning": "Sword"
+        },
+        {
+            "name": "Husni",
+            "meaning": "Good, handsome"
+        },
+        {
+            "name": "Hussain",
+            "meaning": "Handsome, beautiful"
+        },
+        {
+            "name": "Hussein",
+            "meaning": "Handsome, Beautiful"
+        },
+        {
+            "name": "Huthayfa",
+            "meaning": "Old Arabic name"
+        },
+        {
+            "name": "Huzaifah",
+            "meaning": "Curtailed, shortened"
+        },
+        {
+            "name": "Huzayfah",
+            "meaning": "Curtailing, shortening, curtailed, short"
+        },
+        {
+            "name": "Huzayl",
+            "meaning": "Bin Shurah bil had this name"
+        }
+    ],
+    "I": [
+        {
+            "name": "Ibaad",
+            "meaning": "A worshipper"
+        },
+        {
+            "name": "Ibn",
+            "meaning": "Son of"
+        },
+        {
+            "name": "Ibrahim",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Idris",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Iftikhar",
+            "meaning": "Proud"
+        },
+        {
+            "name": "Ihab",
+            "meaning": "Leather"
+        },
+        {
+            "name": "Ihsan",
+            "meaning": "Beneficence"
+        },
+        {
+            "name": "Ihtesham",
+            "meaning": "Respectable, honourable, present personality"
+        },
+        {
+            "name": "Ihtiram",
+            "meaning": "Honour, hold in honour"
+        },
+        {
+            "name": "Ihtsham",
+            "meaning": "Strength"
+        },
+        {
+            "name": "Ijaz",
+            "meaning": "Miracle"
+        },
+        {
+            "name": "Ijli",
+            "meaning": "This was the name of the makes of astrolabes"
+        },
+        {
+            "name": "Ikrimah",
+            "meaning": "A companions name"
+        },
+        {
+            "name": "Ilan",
+            "meaning": "Good person"
+        },
+        {
+            "name": "Ilifat",
+            "meaning": "Friendship, kindness, obligationFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Ilyas",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Imaad",
+            "meaning": "Pillar of strength, confident"
+        },
+        {
+            "name": "Imaan",
+            "meaning": "Faith"
+        },
+        {
+            "name": "Imad",
+            "meaning": "Support, pillar, confidence"
+        },
+        {
+            "name": "Imran",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Imtiaz",
+            "meaning": "Different, antique"
+        },
+        {
+            "name": "Imtiyaz",
+            "meaning": "Distinct"
+        },
+        {
+            "name": "Inaam",
+            "meaning": "Reward, favour, Prize"
+        },
+        {
+            "name": "Inayat",
+            "meaning": "Bounty, Kindness, favour"
+        },
+        {
+            "name": "Iniat",
+            "meaning": "Blessing"
+        },
+        {
+            "name": "Insaf",
+            "meaning": "To Judge with Justice"
+        },
+        {
+            "name": "Intaj",
+            "meaning": "King, magnificent"
+        },
+        {
+            "name": "Intikhab",
+            "meaning": "Selection, choice"
+        },
+        {
+            "name": "Intizar",
+            "meaning": "Wait"
+        },
+        {
+            "name": "Iqbal",
+            "meaning": "Responsiveness"
+        },
+        {
+            "name": "Iqraam",
+            "meaning": "To be of assistance, respect"
+        },
+        {
+            "name": "Iqrit",
+            "meaning": "A man of early Islam about whom amusing tales are told"
+        },
+        {
+            "name": "Iqtidar",
+            "meaning": "Power, Office, Authority"
+        },
+        {
+            "name": "Irfan",
+            "meaning": "Gratefulness"
+        },
+        {
+            "name": "Isa",
+            "meaning": "A Prophet's name. (Jesus (A.S))"
+        },
+        {
+            "name": "Isam",
+            "meaning": "Protector"
+        },
+        {
+            "name": "Ishaq",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Ishrat",
+            "meaning": "Society, Familiar and pleasant talk, happiness"
+        },
+        {
+            "name": "Ishtiyaq",
+            "meaning": "Longing, craving"
+        },
+        {
+            "name": "Iskandar",
+            "meaning": "SEE SIKANDAR"
+        },
+        {
+            "name": "Islam",
+            "meaning": "Submission to Allah"
+        },
+        {
+            "name": "Isma'il",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Ismah",
+            "meaning": "Preservation, infallibility"
+        },
+        {
+            "name": "Ismail",
+            "meaning": "A prophets name"
+        },
+        {
+            "name": "Israr",
+            "meaning": "Insist, never gives up"
+        },
+        {
+            "name": "Issar",
+            "meaning": "Sacrifice"
+        },
+        {
+            "name": "Istakhri",
+            "meaning": "A shafaee jurist"
+        },
+        {
+            "name": "Ithaar",
+            "meaning": "Selflessness"
+        },
+        {
+            "name": "Itimad",
+            "meaning": "Trust, faith"
+        },
+        {
+            "name": "Iyaad",
+            "meaning": "Generous"
+        },
+        {
+            "name": "Iyaas",
+            "meaning": "Compensation"
+        },
+        {
+            "name": "Izaan",
+            "meaning": "Obedience"
+        },
+        {
+            "name": "Izyan",
+            "meaning": "Intelligent, wise"
+        },
+        {
+            "name": "Izz",
+            "meaning": "Glory, honour, Prestige, High Standing"
+        },
+        {
+            "name": "Izzat",
+            "meaning": "High rank, honour"
+        }
+    ],
+    "J": [
+        {
+            "name": "Jaan",
+            "meaning": "Life, Soul"
+        },
+        {
+            "name": "Jabir",
+            "meaning": "Consoler, Comforter, restorer"
+        },
+        {
+            "name": "Jabr",
+            "meaning": "Compulsion name of a companion"
+        },
+        {
+            "name": "Jad",
+            "meaning": "Curly, Frizzled"
+        },
+        {
+            "name": "Jafar",
+            "meaning": "Rivulet, stream"
+        },
+        {
+            "name": "Jaffer",
+            "meaning": "Flowing water"
+        },
+        {
+            "name": "Jahangir",
+            "meaning": "A moghul emperor had this name"
+        },
+        {
+            "name": "Jahanzeb",
+            "meaning": "Beautiful"
+        },
+        {
+            "name": "Jahdami",
+            "meaning": "An authority for hadith had this name"
+        },
+        {
+            "name": "Jahdari",
+            "meaning": "An authority of Quran had this name"
+        },
+        {
+            "name": "Jahiz",
+            "meaning": "Ogle-eyedFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Jahm",
+            "meaning": "Sullen"
+        },
+        {
+            "name": "Jalal",
+            "meaning": "Glory, grandeur"
+        },
+        {
+            "name": "Jalees",
+            "meaning": "Companion, friend, person with whom one sits"
+        },
+        {
+            "name": "Jalil",
+            "meaning": "Great, revered"
+        },
+        {
+            "name": "Jamal",
+            "meaning": "Beauty"
+        },
+        {
+            "name": "Jamesha",
+            "meaning": "Beautiful leader"
+        },
+        {
+            "name": "Jamil",
+            "meaning": "Beautiful, lovely"
+        },
+        {
+            "name": "Jan",
+            "meaning": "Life, heart"
+        },
+        {
+            "name": "Jaraah",
+            "meaning": "Surgeon; name of tabaree"
+        },
+        {
+            "name": "Jareer",
+            "meaning": "Corpulent"
+        },
+        {
+            "name": "Jari",
+            "meaning": "Powerful, brave"
+        },
+        {
+            "name": "Jariyah",
+            "meaning": "Name of a Ashb-as-Suffa"
+        },
+        {
+            "name": "Jarood",
+            "meaning": "Name of a companion of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Jarrar",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Jasim",
+            "meaning": "Healthy, Strong, Powerful"
+        },
+        {
+            "name": "Jasmir",
+            "meaning": "Strong"
+        },
+        {
+            "name": "Jauhar",
+            "meaning": "Gem, jewel"
+        },
+        {
+            "name": "Javed",
+            "meaning": "Bright"
+        },
+        {
+            "name": "Javeed",
+            "meaning": "Forever"
+        },
+        {
+            "name": "Javier",
+            "meaning": "Month of January"
+        },
+        {
+            "name": "Jawad",
+            "meaning": "Liberal, generous"
+        },
+        {
+            "name": "Jawdan",
+            "meaning": "Goodness"
+        },
+        {
+            "name": "Jawhar",
+            "meaning": "Jewel, gem"
+        },
+        {
+            "name": "Jazib",
+            "meaning": "Beautiful, Handsome"
+        },
+        {
+            "name": "Jazlaan",
+            "meaning": "Happiness"
+        },
+        {
+            "name": "Jeelan",
+            "meaning": "It is a city in Iran"
+        },
+        {
+            "name": "Jibran",
+            "meaning": "Reward"
+        },
+        {
+            "name": "Jibril",
+            "meaning": "Archangel of Allah (Gabriel)"
+        },
+        {
+            "name": "Jihad",
+            "meaning": "Struggle, Islamically sanctioned war"
+        },
+        {
+            "name": "Jiyad",
+            "meaning": "Very good"
+        },
+        {
+            "name": "Juayl",
+            "meaning": "Quarrdsome"
+        },
+        {
+            "name": "Jubair",
+            "meaning": "Counsels or brings together"
+        },
+        {
+            "name": "Juhaym",
+            "meaning": "Sullen"
+        },
+        {
+            "name": "Juma'",
+            "meaning": "Friday"
+        },
+        {
+            "name": "Jumanah",
+            "meaning": "Pearl; name of a companion"
+        },
+        {
+            "name": "Jummal",
+            "meaning": "Unit of army"
+        },
+        {
+            "name": "Junaid",
+            "meaning": "Fighter, worrier whose strength is equal to a small army"
+        },
+        {
+            "name": "Junayd",
+            "meaning": "Fighter, warrior"
+        },
+        {
+            "name": "Jundub",
+            "meaning": "Grasshopper (name of a companion)"
+        },
+        {
+            "name": "Juthamah",
+            "meaning": "Nightmare (name of companion)"
+        }
+    ],
+    "K": [
+        {
+            "name": "Kaamil",
+            "meaning": "Perfect, accomplished"
+        },
+        {
+            "name": "Kaashif",
+            "meaning": "Uncoverer, pioneer, discoverer"
+        },
+        {
+            "name": "Kabeer",
+            "meaning": "Great"
+        },
+        {
+            "name": "Kabir",
+            "meaning": "Big, great"
+        },
+        {
+            "name": "Kafeel",
+            "meaning": "Responsible, Surety, Sponsor"
+        },
+        {
+            "name": "Kaiser",
+            "meaning": "Emperor, King"
+        },
+        {
+            "name": "Kajji",
+            "meaning": "An authority of hadith at Baghdad"
+        },
+        {
+            "name": "Kalbi",
+            "meaning": "An authority on genealogy and the Quran"
+        },
+        {
+            "name": "Kaleem",
+            "meaning": "Speaker, talker"
+        },
+        {
+            "name": "Kaleema",
+            "meaning": "Public speaker, singer"
+        },
+        {
+            "name": "Kamal",
+            "meaning": "Perfection, completenessFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Kamil",
+            "meaning": "Perfect, complete"
+        },
+        {
+            "name": "Kamran",
+            "meaning": "Safety and helpful"
+        },
+        {
+            "name": "Kareem",
+            "meaning": "Noble, generous"
+        },
+        {
+            "name": "Karim",
+            "meaning": "Giver"
+        },
+        {
+            "name": "Kasam",
+            "meaning": "The king"
+        },
+        {
+            "name": "Kashan",
+            "meaning": "Place of rulers"
+        },
+        {
+            "name": "Kashif",
+            "meaning": "Uncoverer"
+        },
+        {
+            "name": "Kasim",
+            "meaning": "Lovely"
+        },
+        {
+            "name": "Kawkab",
+            "meaning": "Star"
+        },
+        {
+            "name": "Kawthar",
+            "meaning": "Much, Abundant, Copious. (Name of a river in paradise)"
+        },
+        {
+            "name": "Kaysan",
+            "meaning": "Wise"
+        },
+        {
+            "name": "Kazi",
+            "meaning": "Judge"
+        },
+        {
+            "name": "Kazim",
+            "meaning": "Restrainer of anger"
+        },
+        {
+            "name": "Keyaan",
+            "meaning": "Crown, King"
+        },
+        {
+            "name": "Khadim",
+            "meaning": "Servant, attendant"
+        },
+        {
+            "name": "Khafid",
+            "meaning": "Easy, comfortable, smooth"
+        },
+        {
+            "name": "Khalaf",
+            "meaning": "Successor, Descendants"
+        },
+        {
+            "name": "Khalam",
+            "meaning": "Servant to Allah"
+        },
+        {
+            "name": "Khaldun",
+            "meaning": "Implies eternity"
+        },
+        {
+            "name": "Khaleed",
+            "meaning": "Abiding"
+        },
+        {
+            "name": "Khaleel",
+            "meaning": "Goo Friend"
+        },
+        {
+            "name": "Khaleeq",
+            "meaning": "Suitable (for), Worthy, Deserving, Polite, Affable, Well-disposed"
+        },
+        {
+            "name": "Khalid",
+            "meaning": "Eternal, glorious"
+        },
+        {
+            "name": "Khalifah",
+            "meaning": "Successor, Caliph"
+        },
+        {
+            "name": "Khalis",
+            "meaning": "Pure, Clean"
+        },
+        {
+            "name": "Khallad",
+            "meaning": "Old, Aged. (also name of Prophets (S.A.W) companion"
+        },
+        {
+            "name": "Kharijah",
+            "meaning": "Outside, external"
+        },
+        {
+            "name": "Khasib",
+            "meaning": "Fertile, Productive, Profuse"
+        },
+        {
+            "name": "Khateeb",
+            "meaning": "Orator, Preacher"
+        },
+        {
+            "name": "Khawar",
+            "meaning": "From east to west"
+        },
+        {
+            "name": "Khayaam",
+            "meaning": "Iranian Poet, Tent"
+        },
+        {
+            "name": "Khayr",
+            "meaning": "Goodness, health, Safe"
+        },
+        {
+            "name": "Khayri",
+            "meaning": "Charitable"
+        },
+        {
+            "name": "Khayyat",
+            "meaning": "Tailor"
+        },
+        {
+            "name": "Khazin",
+            "meaning": "Treasurer"
+        },
+        {
+            "name": "Khidash",
+            "meaning": "Name of Prophet (S.A.W)'s companion"
+        },
+        {
+            "name": "Khidr",
+            "meaning": "Green"
+        },
+        {
+            "name": "Khirash",
+            "meaning": "Scratching, Scraping, (name of a companion)"
+        },
+        {
+            "name": "Khubaib",
+            "meaning": "Shinning"
+        },
+        {
+            "name": "Khubayb",
+            "meaning": "A fast walker, (name of companion)"
+        },
+        {
+            "name": "Khulayd",
+            "meaning": "Abiding, (name of companion)"
+        },
+        {
+            "name": "Khunays",
+            "meaning": "Hidden (name of companion)"
+        },
+        {
+            "name": "Khuram",
+            "meaning": "Tiger"
+        },
+        {
+            "name": "Khuraymah",
+            "meaning": "(name of companion)"
+        },
+        {
+            "name": "Khurram",
+            "meaning": "Cheerful, Happy"
+        },
+        {
+            "name": "Khursheed",
+            "meaning": "The sun"
+        },
+        {
+            "name": "Khurshid",
+            "meaning": "Sun"
+        },
+        {
+            "name": "Khush",
+            "meaning": "Bakht Fortunate, of good fortune"
+        },
+        {
+            "name": "Khushtar",
+            "meaning": "Surrounded by happiness"
+        },
+        {
+            "name": "Kifayat",
+            "meaning": "Enough, sufficient"
+        },
+        {
+            "name": "Kinza",
+            "meaning": "Hidden Treasure"
+        },
+        {
+            "name": "Kishwar",
+            "meaning": "A country, regionFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Kurayb",
+            "meaning": "Ibn Abi Muslim al-Hashami had this name"
+        }
+    ],
+    "L": [
+        {
+            "name": "Labeeb",
+            "meaning": "Understanding, Sensible, Intelligent"
+        },
+        {
+            "name": "Labib",
+            "meaning": "Sensible, intelligent"
+        },
+        {
+            "name": "Lahi'ah",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Laiq",
+            "meaning": "Deserving"
+        },
+        {
+            "name": "Laith",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Lajlaj",
+            "meaning": "One of prophet's (S.A.W) companions"
+        },
+        {
+            "name": "Laqeet",
+            "meaning": "Well known companion of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Lateef",
+            "meaning": "Kind"
+        },
+        {
+            "name": "Latif",
+            "meaning": "Fine, gentle, refined"
+        },
+        {
+            "name": "Layth",
+            "meaning": "A famous jurist had this name"
+        },
+        {
+            "name": "Liban",
+            "meaning": "Successful, charmed"
+        },
+        {
+            "name": "Limazah",
+            "meaning": "He was a narrator of hadith"
+        },
+        {
+            "name": "Liyaqat",
+            "meaning": "Worth, deserving, merit"
+        },
+        {
+            "name": "Lu'ay",
+            "meaning": "Shield"
+        },
+        {
+            "name": "Luqman",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Lut",
+            "meaning": "Name of a Prophet"
+        },
+        {
+            "name": "Lutf",
+            "meaning": "Bounty, enjoyment"
+        },
+        {
+            "name": "Lutfi",
+            "meaning": "Kind and friendly, gentle"
+        }
+    ],
+    "M": [
+        {
+            "name": "Ma'mun",
+            "meaning": "Trustworthy, reliable"
+        },
+        {
+            "name": "Ma'n",
+            "meaning": "Assistance"
+        },
+        {
+            "name": "Maaz",
+            "meaning": "Brave Man"
+        },
+        {
+            "name": "Mabad",
+            "meaning": "A place of worship"
+        },
+        {
+            "name": "Madani",
+            "meaning": "Civilised"
+        },
+        {
+            "name": "Madiyan",
+            "meaning": "Name of place in Saudi Arabia"
+        },
+        {
+            "name": "Madyan",
+            "meaning": "Name of a holy place in Saudi Arabia where the Prophet (PBUH)"
+        },
+        {
+            "name": "Mahad",
+            "meaning": "Great, nice"
+        },
+        {
+            "name": "Mahaz",
+            "meaning": "The place of war"
+        },
+        {
+            "name": "Mahbeer",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Mahbub",
+            "meaning": "Dear, Darling, Sweetheart"
+        },
+        {
+            "name": "Mahd",
+            "meaning": "The guided one"
+        },
+        {
+            "name": "Mahdi",
+            "meaning": "Rightly Guided"
+        },
+        {
+            "name": "Maher",
+            "meaning": "Skilled"
+        },
+        {
+            "name": "Mahfuj",
+            "meaning": "The Protected One, The Protector"
+        },
+        {
+            "name": "Mahfuz",
+            "meaning": "Preserved, safe"
+        },
+        {
+            "name": "Mahja",
+            "meaning": "Place to sleep, quarters, lodgings"
+        },
+        {
+            "name": "Mahmud",
+            "meaning": "The praised one, commendable"
+        },
+        {
+            "name": "Majd",
+            "meaning": "Glory, nobility"
+        },
+        {
+            "name": "Majdi",
+            "meaning": "Glorious, praiseworthy"
+        },
+        {
+            "name": "Makhdoom",
+            "meaning": "One who is served"
+        },
+        {
+            "name": "Makki",
+            "meaning": "Pertaining to Makkah"
+        },
+        {
+            "name": "Malih",
+            "meaning": "A reciter of Quran was so called"
+        },
+        {
+            "name": "Malik",
+            "meaning": "Master"
+        },
+        {
+            "name": "Mamduh",
+            "meaning": "Person commended, praised"
+        },
+        {
+            "name": "Mamoon",
+            "meaning": "Secure, fearless"
+        },
+        {
+            "name": "Mansoor",
+            "meaning": "Victorious"
+        },
+        {
+            "name": "Mansur",
+            "meaning": "Divinely aided, victorious"
+        },
+        {
+            "name": "Manzar",
+            "meaning": "View, Sight"
+        },
+        {
+            "name": "Manzoor",
+            "meaning": "Approve(d), Accept(ed)Free e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Maqbool",
+            "meaning": "Popular"
+        },
+        {
+            "name": "Maqil",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Marghoob",
+            "meaning": "Desirable, coveted, agreeable"
+        },
+        {
+            "name": "Maru'deen.",
+            "meaning": "Strong believer of the religion"
+        },
+        {
+            "name": "Maruf",
+            "meaning": "Known, accepted"
+        },
+        {
+            "name": "Marwan",
+            "meaning": "Solid"
+        },
+        {
+            "name": "Marzuq",
+            "meaning": "Blessed, fortunate"
+        },
+        {
+            "name": "Masarrat",
+            "meaning": "Happiness, delight, joy"
+        },
+        {
+            "name": "Mash'al",
+            "meaning": "Torch"
+        },
+        {
+            "name": "Mashhood",
+            "meaning": "Witness"
+        },
+        {
+            "name": "Mashhud",
+            "meaning": "Clear, Manifest, Witnessed"
+        },
+        {
+            "name": "Mashkoor",
+            "meaning": "One who is worthy of thanks, deserving, commendable"
+        },
+        {
+            "name": "Masood",
+            "meaning": "Blissful, fortunate, auspicious"
+        },
+        {
+            "name": "Masoud",
+            "meaning": "Lucky"
+        },
+        {
+            "name": "Masroor",
+            "meaning": "Happy person, joyful"
+        },
+        {
+            "name": "Masrur",
+            "meaning": "Happy, glad"
+        },
+        {
+            "name": "Masud",
+            "meaning": "Fortunate, happy, lucky"
+        },
+        {
+            "name": "Masum",
+            "meaning": "Innocent, infallible"
+        },
+        {
+            "name": "Mateen",
+            "meaning": "Solid, constant, tough, substantive"
+        },
+        {
+            "name": "Matloob",
+            "meaning": "Objective, goal"
+        },
+        {
+            "name": "Mawsil",
+            "meaning": "Name of Hanafi Jurist of Iraq"
+        },
+        {
+            "name": "Maymun",
+            "meaning": "Fortunate, blessed"
+        },
+        {
+            "name": "Maysarah",
+            "meaning": "Ease, comfort"
+        },
+        {
+            "name": "Mazin",
+            "meaning": "Cloud that carries rain"
+        },
+        {
+            "name": "Mehboob",
+            "meaning": "Loveable"
+        },
+        {
+            "name": "Mehtab",
+            "meaning": "The Moon"
+        },
+        {
+            "name": "Mekka",
+            "meaning": "Name of Holy city"
+        },
+        {
+            "name": "Mensur",
+            "meaning": "Winner"
+        },
+        {
+            "name": "Miftah",
+            "meaning": "Key"
+        },
+        {
+            "name": "Mika",
+            "meaning": "Cool, sweet, intelligent"
+        },
+        {
+            "name": "Mika'il",
+            "meaning": "One of Allah's angel"
+        },
+        {
+            "name": "Mimar",
+            "meaning": "Mason, architect"
+        },
+        {
+            "name": "Minhaj",
+            "meaning": "Road, Path"
+        },
+        {
+            "name": "Miraj",
+            "meaning": "Ascension (to heaven)"
+        },
+        {
+            "name": "Mirsab",
+            "meaning": "The sword of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Misbah",
+            "meaning": "Light, lamp"
+        },
+        {
+            "name": "Miskeen",
+            "meaning": "Poor"
+        },
+        {
+            "name": "Mistah",
+            "meaning": "Instrument to level something"
+        },
+        {
+            "name": "Mo'tasim",
+            "meaning": "Handsome"
+        },
+        {
+            "name": "Moazzam",
+            "meaning": "Respectable"
+        },
+        {
+            "name": "Mobeen",
+            "meaning": "Sensitive"
+        },
+        {
+            "name": "Moeen",
+            "meaning": "ud din Helper in the religion"
+        },
+        {
+            "name": "Moeez",
+            "meaning": "Respectful"
+        },
+        {
+            "name": "Moemen",
+            "meaning": "Believer and faithful to Allah"
+        },
+        {
+            "name": "Mohammed",
+            "meaning": "Name of final prophet (PBUH)"
+        },
+        {
+            "name": "Mohid",
+            "meaning": "The one who believes in oneness of Allah Almighty"
+        },
+        {
+            "name": "Mohsin",
+            "meaning": "Helper, attractive"
+        },
+        {
+            "name": "Mokbul",
+            "meaning": "Accept"
+        },
+        {
+            "name": "Mostafa",
+            "meaning": "Chosen one"
+        },
+        {
+            "name": "Motaz",
+            "meaning": "Proud"
+        },
+        {
+            "name": "Mounir",
+            "meaning": "Light, sunlight"
+        },
+        {
+            "name": "Mourad",
+            "meaning": "DesireFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Mu'adh",
+            "meaning": "Protected"
+        },
+        {
+            "name": "Mu'afa",
+            "meaning": "Name of a man who travelled extensively to find Hadith"
+        },
+        {
+            "name": "Mu'alla",
+            "meaning": "A judge and follower"
+        },
+        {
+            "name": "Mu'allim",
+            "meaning": "Teacher"
+        },
+        {
+            "name": "Mu'awiyah",
+            "meaning": "First Ummayad Caliph"
+        },
+        {
+            "name": "Mu'awwiz",
+            "meaning": "Companion who participated in the Battle of Badr"
+        },
+        {
+            "name": "Mu'ayyad",
+            "meaning": "Supported"
+        },
+        {
+            "name": "Mu'inuddeen",
+            "meaning": "The Helper of the religion"
+        },
+        {
+            "name": "Muammar",
+            "meaning": "Senior"
+        },
+        {
+            "name": "Muammer",
+            "meaning": "Senior"
+        },
+        {
+            "name": "Muballigh",
+            "meaning": "Preacher, one who preaches and propagates Islam"
+        },
+        {
+            "name": "Mubarak",
+            "meaning": "Blessed, fortunate, auspicious"
+        },
+        {
+            "name": "Mubaraq",
+            "meaning": "Blessing"
+        },
+        {
+            "name": "Mubashir",
+            "meaning": "Spreader of good news"
+        },
+        {
+            "name": "Mubassir",
+            "meaning": "Observer"
+        },
+        {
+            "name": "Mubeen",
+            "meaning": "Clear"
+        },
+        {
+            "name": "Mubid",
+            "meaning": "Intellectual"
+        },
+        {
+            "name": "Mudabbir",
+            "meaning": "One who plans"
+        },
+        {
+            "name": "Mudasir",
+            "meaning": "Handsome"
+        },
+        {
+            "name": "Mudasser",
+            "meaning": "A word in the Qur'an"
+        },
+        {
+            "name": "Mueen",
+            "meaning": "One who helps"
+        },
+        {
+            "name": "Mueez",
+            "meaning": "One who gives protection"
+        },
+        {
+            "name": "Mufaddal",
+            "meaning": "One who is preferred"
+        },
+        {
+            "name": "Mufakkir",
+            "meaning": "Thinker, one who meditates"
+        },
+        {
+            "name": "Mufallah",
+            "meaning": "One who prospers"
+        },
+        {
+            "name": "Mufeed",
+            "meaning": "(from the verb fada to overflow)"
+        },
+        {
+            "name": "Mufid",
+            "meaning": "Useful"
+        },
+        {
+            "name": "Muflih",
+            "meaning": "One who prospers"
+        },
+        {
+            "name": "Mufti",
+            "meaning": "Jurist"
+        },
+        {
+            "name": "Mughith",
+            "meaning": "Helper, succourer"
+        },
+        {
+            "name": "Muhafiz",
+            "meaning": "One who protects"
+        },
+        {
+            "name": "Muhaimin",
+            "meaning": "Supervising, guardian, protector"
+        },
+        {
+            "name": "Muhajir",
+            "meaning": "Immigrant"
+        },
+        {
+            "name": "Muhammad",
+            "meaning": "Praiseworthy - name of the LAST Prophet (A.S)"
+        },
+        {
+            "name": "Muhannad",
+            "meaning": "Sword"
+        },
+        {
+            "name": "Muharrem",
+            "meaning": "1st month of Islamic year"
+        },
+        {
+            "name": "Muhdee",
+            "meaning": "One who presents"
+        },
+        {
+            "name": "Muheet",
+            "meaning": "That which embraces all round"
+        },
+        {
+            "name": "Muhib",
+            "meaning": "One who loves, friend"
+        },
+        {
+            "name": "Muhriz",
+            "meaning": "Obtainer, winner, earner"
+        },
+        {
+            "name": "Muhsin",
+            "meaning": "Beneficent, charitable"
+        },
+        {
+            "name": "Muhtadi",
+            "meaning": "Right guided"
+        },
+        {
+            "name": "Muhtashim",
+            "meaning": "One has many followers"
+        },
+        {
+            "name": "Muiz",
+            "meaning": "The giver of might and glory"
+        },
+        {
+            "name": "Mujaddid",
+            "meaning": "One who renews or renovates or refreshes"
+        },
+        {
+            "name": "Mujahid",
+            "meaning": "A warrior"
+        },
+        {
+            "name": "Mujazziz",
+            "meaning": "Name of a companion"
+        },
+        {
+            "name": "Mujeeb",
+            "meaning": "Responder"
+        },
+        {
+            "name": "Mujibur",
+            "meaning": "Responsive"
+        },
+        {
+            "name": "Mujtaba",
+            "meaning": "The chosen one"
+        },
+        {
+            "name": "Mukarram",
+            "meaning": "Respected, honoured"
+        },
+        {
+            "name": "Mukhlis",
+            "meaning": "Sincere, pure-heartedFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Mukhtar",
+            "meaning": "Selected, authorised"
+        },
+        {
+            "name": "Mukthadir",
+            "meaning": "Strong, health"
+        },
+        {
+            "name": "Mulayl",
+            "meaning": "A companion was so named"
+        },
+        {
+            "name": "Mumin",
+            "meaning": "One who believes"
+        },
+        {
+            "name": "Mumtaz",
+            "meaning": "One who is distinguished"
+        },
+        {
+            "name": "Munaf",
+            "meaning": "Exalted, inconsistent with contradictory to"
+        },
+        {
+            "name": "Munawwar",
+            "meaning": "Enlightened, lighted"
+        },
+        {
+            "name": "Muneeb",
+            "meaning": "One who turns in repentance"
+        },
+        {
+            "name": "Muneer",
+            "meaning": "Shining"
+        },
+        {
+            "name": "Munir",
+            "meaning": "Moon's Light, Lamp"
+        },
+        {
+            "name": "Munis",
+            "meaning": "Name of a previous chief army guard"
+        },
+        {
+            "name": "Munkadir",
+            "meaning": "Name of an authority and ascetic of Hadith"
+        },
+        {
+            "name": "Munqad",
+            "meaning": "One who is led, conducted, obedient"
+        },
+        {
+            "name": "Muntasir",
+            "meaning": "One of the Abbasid Khalifah was known as such"
+        },
+        {
+            "name": "Muntazir",
+            "meaning": "The awaiting"
+        },
+        {
+            "name": "Munzir",
+            "meaning": "Warner"
+        },
+        {
+            "name": "Muqaddas",
+            "meaning": "Sacred"
+        },
+        {
+            "name": "Muqatadir",
+            "meaning": "Name of an Abbasid Khalifah"
+        },
+        {
+            "name": "Muqbil",
+            "meaning": "Following, next"
+        },
+        {
+            "name": "Muqtasid",
+            "meaning": "One who is economical, thrifty"
+        },
+        {
+            "name": "Murabbi",
+            "meaning": "Patron, Superior, guardian"
+        },
+        {
+            "name": "Murad",
+            "meaning": "Desire"
+        },
+        {
+            "name": "Mursal",
+            "meaning": "Messenger, Prophet, Ambassador"
+        },
+        {
+            "name": "Murshid",
+            "meaning": "Spiritual guide, instructor, mentor"
+        },
+        {
+            "name": "Murtaad",
+            "meaning": "Ascetical"
+        },
+        {
+            "name": "Murtadaa",
+            "meaning": "Chosen one"
+        },
+        {
+            "name": "Murtaza",
+            "meaning": "The generous, The giving"
+        },
+        {
+            "name": "Musa",
+            "meaning": "A Prophets name"
+        },
+        {
+            "name": "Musaddiq",
+            "meaning": "One who confirms or verifies another"
+        },
+        {
+            "name": "Musaid",
+            "meaning": "Helper"
+        },
+        {
+            "name": "Museeb",
+            "meaning": "Apple in Persian. Also means great warrior"
+        },
+        {
+            "name": "Musharraf",
+            "meaning": "One who is honoured, exalted"
+        },
+        {
+            "name": "Musheer",
+            "meaning": "Advisor"
+        },
+        {
+            "name": "Mushfiq",
+            "meaning": "Friend, considerate"
+        },
+        {
+            "name": "Mushir",
+            "meaning": "\"The one of highest rank\" was used mostly in military in the past,"
+        },
+        {
+            "name": "Mushtaq",
+            "meaning": "Ardent, Longing"
+        },
+        {
+            "name": "Muslih",
+            "meaning": "Reformer"
+        },
+        {
+            "name": "Muslim",
+            "meaning": "One who submits to Allah"
+        },
+        {
+            "name": "Mussarrat",
+            "meaning": "Joyful, always happy"
+        },
+        {
+            "name": "Mustaeen",
+            "meaning": "The chosen one"
+        },
+        {
+            "name": "Mustafa",
+            "meaning": "The chosen one, also one of the Prophets names"
+        },
+        {
+            "name": "Mustafeed",
+            "meaning": "Profiting, gainful"
+        },
+        {
+            "name": "Mustahsan",
+            "meaning": "Commendable"
+        },
+        {
+            "name": "Mustajab",
+            "meaning": "One who is heard"
+        },
+        {
+            "name": "Mustakim",
+            "meaning": "Straight road"
+        },
+        {
+            "name": "Mustaneer",
+            "meaning": "Brilliant"
+        },
+        {
+            "name": "Mustaqeem",
+            "meaning": "Straight"
+        },
+        {
+            "name": "Mustatab",
+            "meaning": "Good, Delectable"
+        },
+        {
+            "name": "Mutahhir",
+            "meaning": "What Purifies"
+        },
+        {
+            "name": "Mutashim",
+            "meaning": "Decent, honest and modest"
+        },
+        {
+            "name": "Mutasim",
+            "meaning": "Kept away from sin; name of KhalifahFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Mutawassit",
+            "meaning": "Moderate, average"
+        },
+        {
+            "name": "Mutayyib",
+            "meaning": "Fragrant"
+        },
+        {
+            "name": "Muttaqi",
+            "meaning": "Righteous, one who fears Allah"
+        },
+        {
+            "name": "Muttee",
+            "meaning": "Obedient"
+        },
+        {
+            "name": "Muzaffar",
+            "meaning": "Victorious"
+        },
+        {
+            "name": "Muzakkir",
+            "meaning": "Reminder"
+        },
+        {
+            "name": "Muzammil",
+            "meaning": "The wrapped one"
+        },
+        {
+            "name": "Muzhir",
+            "meaning": "Witnessed, name of companion"
+        },
+        {
+            "name": "Muzzammil",
+            "meaning": "Wrapped"
+        }
+    ],
+    "N": [
+        {
+            "name": "Na'il",
+            "meaning": "Acquirer, earner"
+        },
+        {
+            "name": "Naadir",
+            "meaning": "Dear, Rare, Precious"
+        },
+        {
+            "name": "Nabeel",
+            "meaning": "Noble Man"
+        },
+        {
+            "name": "Nabhan",
+            "meaning": "Alert"
+        },
+        {
+            "name": "Nabigh",
+            "meaning": "Genius"
+        },
+        {
+            "name": "Nabih",
+            "meaning": "Alert"
+        },
+        {
+            "name": "Nabil",
+            "meaning": "Noble, generous"
+        },
+        {
+            "name": "Nadeem",
+            "meaning": "Companion, Friend"
+        },
+        {
+            "name": "Nadhir",
+            "meaning": "Warner"
+        },
+        {
+            "name": "Nadim",
+            "meaning": "Friend, companion"
+        },
+        {
+            "name": "Nadir",
+            "meaning": "Dear, rare, precious"
+        },
+        {
+            "name": "Nadr",
+            "meaning": "Flourishing"
+        },
+        {
+            "name": "Naeem",
+            "meaning": "Blessing, Ease"
+        },
+        {
+            "name": "Nafasat",
+            "meaning": "Refinement"
+        },
+        {
+            "name": "Nafees",
+            "meaning": "Pureness, Pure"
+        },
+        {
+            "name": "Nafis",
+            "meaning": "Precious"
+        },
+        {
+            "name": "Naib",
+            "meaning": "Deputy, Second in Command"
+        },
+        {
+            "name": "Naim",
+            "meaning": "Comfort, tranquillity"
+        },
+        {
+            "name": "Najair",
+            "meaning": "Little Star"
+        },
+        {
+            "name": "Najam",
+            "meaning": "Star"
+        },
+        {
+            "name": "Najeeb",
+            "meaning": "Of noble birth"
+        },
+        {
+            "name": "Najeed",
+            "meaning": "Highland"
+        },
+        {
+            "name": "Naji",
+            "meaning": "Safe"
+        },
+        {
+            "name": "Najib",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Najid",
+            "meaning": "One who helps, supports"
+        },
+        {
+            "name": "Najih",
+            "meaning": "Successful"
+        },
+        {
+            "name": "Najm",
+            "meaning": "Star, celestial body"
+        },
+        {
+            "name": "Nameer",
+            "meaning": "Pure"
+        },
+        {
+            "name": "Namik",
+            "meaning": "Writer/Author"
+        },
+        {
+            "name": "Naqeeb",
+            "meaning": "Leader"
+        },
+        {
+            "name": "Naqi",
+            "meaning": "Pure"
+        },
+        {
+            "name": "Naqid",
+            "meaning": "Fault-finder"
+        },
+        {
+            "name": "Naqqaash",
+            "meaning": "Painter, artist"
+        },
+        {
+            "name": "Naseef",
+            "meaning": "The just one"
+        },
+        {
+            "name": "Naseem",
+            "meaning": "Breeze"
+        },
+        {
+            "name": "Naseer",
+            "meaning": "One who helps"
+        },
+        {
+            "name": "Nashat",
+            "meaning": "Joy, Cheer"
+        },
+        {
+            "name": "Nashit",
+            "meaning": "Energetic, active"
+        },
+        {
+            "name": "Nasif",
+            "meaning": "Most just, equitable"
+        },
+        {
+            "name": "Nasih",
+            "meaning": "Advisor, well-wisher"
+        },
+        {
+            "name": "Nasim",
+            "meaning": "Breath of Fresh air, breeze"
+        },
+        {
+            "name": "Nasir",
+            "meaning": "Protector, supporterFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Nasmi",
+            "meaning": "Breeze"
+        },
+        {
+            "name": "Nasr",
+            "meaning": "Help, victory"
+        },
+        {
+            "name": "Nasser",
+            "meaning": "Protector"
+        },
+        {
+            "name": "Natiq",
+            "meaning": "Categorical (decision), talker, speaker, rational"
+        },
+        {
+            "name": "Naushad",
+            "meaning": "Happy"
+        },
+        {
+            "name": "Naveed",
+            "meaning": "Glad tidings"
+        },
+        {
+            "name": "Navid",
+            "meaning": "See Naveed"
+        },
+        {
+            "name": "Nawaz",
+            "meaning": "Prince, kind, loving and generous"
+        },
+        {
+            "name": "Nawfal",
+            "meaning": "Generous, old Arabic word for the Sea"
+        },
+        {
+            "name": "Nayab",
+            "meaning": "Rare, Precious"
+        },
+        {
+            "name": "Nazakat",
+            "meaning": "Delicacy"
+        },
+        {
+            "name": "Nazar",
+            "meaning": "The one who gives"
+        },
+        {
+            "name": "Nazeef",
+            "meaning": "Clean, neat"
+        },
+        {
+            "name": "Nazeer",
+            "meaning": "One who warns"
+        },
+        {
+            "name": "Nazih",
+            "meaning": "Pure, chaste"
+        },
+        {
+            "name": "Nazim",
+            "meaning": "Intelligence , Power"
+        },
+        {
+            "name": "Nazir",
+            "meaning": "Observer, supervisor"
+        },
+        {
+            "name": "Nehan",
+            "meaning": "Beautiful"
+        },
+        {
+            "name": "Nidal",
+            "meaning": "Fight, defence"
+        },
+        {
+            "name": "Nihal",
+            "meaning": "Happy, Prosperous"
+        },
+        {
+            "name": "Nishaaj",
+            "meaning": "Explorer"
+        },
+        {
+            "name": "Nithar",
+            "meaning": "Sacrifice"
+        },
+        {
+            "name": "Niyaz",
+            "meaning": "Dedication, Offering"
+        },
+        {
+            "name": "Nizam",
+            "meaning": "Administration"
+        },
+        {
+            "name": "Nizzar",
+            "meaning": "Keen-eyed"
+        },
+        {
+            "name": "Noman",
+            "meaning": "Men with all blessings of Allah"
+        },
+        {
+            "name": "Nooh",
+            "meaning": "Name of Prophet"
+        },
+        {
+            "name": "Noor",
+            "meaning": "Attribute of Allah"
+        },
+        {
+            "name": "Noorali",
+            "meaning": "Light of Ali"
+        },
+        {
+            "name": "Noraiz",
+            "meaning": "The first ray of sunlight which came to earth"
+        },
+        {
+            "name": "Nour",
+            "meaning": "Light"
+        },
+        {
+            "name": "Noureddine",
+            "meaning": "Light of faith"
+        },
+        {
+            "name": "Nu'man",
+            "meaning": "Blood"
+        },
+        {
+            "name": "Nuaym",
+            "meaning": "One of narrators of Hadith"
+        },
+        {
+            "name": "Nubaid",
+            "meaning": "Bringing Happiness"
+        },
+        {
+            "name": "Nuh",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Numair",
+            "meaning": "Baby Tiger"
+        },
+        {
+            "name": "Nur",
+            "meaning": "Light"
+        },
+        {
+            "name": "Nur",
+            "meaning": "Firdaus Light of the Highest Paradise"
+        },
+        {
+            "name": "Nur-ul-Qiblatayn",
+            "meaning": "Light of the two Qibla"
+        },
+        {
+            "name": "Nuraz",
+            "meaning": "The Treasure Of Noor"
+        },
+        {
+            "name": "Nurdeen",
+            "meaning": "Light of the religion"
+        },
+        {
+            "name": "Nuri",
+            "meaning": "Shining, brightness"
+        },
+        {
+            "name": "Nusayb",
+            "meaning": "Name of a black slave who fought in the early wars of Islam"
+        },
+        {
+            "name": "Nusayr",
+            "meaning": "Narrator of Hadith had this name"
+        }
+    ],
+    "O": [
+        {
+            "name": "Obaid",
+            "meaning": "Small Slave"
+        },
+        {
+            "name": "Omair",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Omar",
+            "meaning": "Long-Lived"
+        },
+        {
+            "name": "Osama",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Owais",
+            "meaning": "A companion of the Prophet (S.A.W)"
+        }
+    ],
+    "P": [
+        {
+            "name": "Parsa",
+            "meaning": "Devout or abstemious person, pious"
+        },
+        {
+            "name": "Parvez",
+            "meaning": "Success. Name of a Persian King"
+        },
+        {
+            "name": "Pervaiz",
+            "meaning": "Breeze"
+        }
+    ],
+    "Q": [
+        {
+            "name": "Qaadir",
+            "meaning": "Capable"
+        },
+        {
+            "name": "Qabeel",
+            "meaning": "Son of Sayyidina Aadam"
+        },
+        {
+            "name": "Qadar",
+            "meaning": "Divine destiny"
+        },
+        {
+            "name": "Qadeer",
+            "meaning": "Powerful, very kind hearted and honest"
+        },
+        {
+            "name": "Qadi",
+            "meaning": "Judge"
+        },
+        {
+            "name": "Qadim",
+            "meaning": "Ancient"
+        },
+        {
+            "name": "Qahtan",
+            "meaning": "Name of a tribe"
+        },
+        {
+            "name": "Qaim",
+            "meaning": "Rising, Standing, Existing, well-grounded"
+        },
+        {
+            "name": "Qais",
+            "meaning": "Lover"
+        },
+        {
+            "name": "Qamar",
+            "meaning": "Moon"
+        },
+        {
+            "name": "Qani",
+            "meaning": "Content, Satisfied"
+        },
+        {
+            "name": "Qanit",
+            "meaning": "Obedient, Submissive, Humble, God-fearing"
+        },
+        {
+            "name": "Qareeb",
+            "meaning": "Near"
+        },
+        {
+            "name": "Qaseem",
+            "meaning": "Share, Portion"
+        },
+        {
+            "name": "Qasid",
+            "meaning": "Messenger"
+        },
+        {
+            "name": "Qasif",
+            "meaning": "Discover"
+        },
+        {
+            "name": "Qasim",
+            "meaning": "Divider, distributor"
+        },
+        {
+            "name": "Qatadah",
+            "meaning": "A hardwood tree"
+        },
+        {
+            "name": "Qawee",
+            "meaning": "Strong, powerful"
+        },
+        {
+            "name": "Qays",
+            "meaning": "Firm"
+        },
+        {
+            "name": "Quadir",
+            "meaning": "Strong"
+        },
+        {
+            "name": "Qudamah",
+            "meaning": "Companion of Prophet (S.A.W)"
+        },
+        {
+            "name": "Qudoos",
+            "meaning": "Most holy"
+        },
+        {
+            "name": "Qurban",
+            "meaning": "Offering, Sacrifice"
+        },
+        {
+            "name": "Qusay",
+            "meaning": "Distant"
+        },
+        {
+            "name": "Qutaybah",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Qutb",
+            "meaning": "Celebrity, personality"
+        }
+    ],
+    "R": [
+        {
+            "name": "Ra'id",
+            "meaning": "Leader, pioneer"
+        },
+        {
+            "name": "Raahil",
+            "meaning": "Path guider"
+        },
+        {
+            "name": "Raamis",
+            "meaning": "The good looking one"
+        },
+        {
+            "name": "Raamiz",
+            "meaning": "Symbol"
+        },
+        {
+            "name": "Raashid",
+            "meaning": "Major, Adult, Orthodox, Guided, Intelligent"
+        },
+        {
+            "name": "Rabah",
+            "meaning": "Gainer"
+        },
+        {
+            "name": "Rabar",
+            "meaning": "A loving and caring person to all"
+        },
+        {
+            "name": "Rabbani",
+            "meaning": "Divine"
+        },
+        {
+            "name": "Rabee",
+            "meaning": "Spring"
+        },
+        {
+            "name": "Rabi'",
+            "meaning": "Spring, breeze"
+        },
+        {
+            "name": "Rabiah",
+            "meaning": "Greenery"
+        },
+        {
+            "name": "Rabit",
+            "meaning": "Binding, Fastening"
+        },
+        {
+            "name": "Radi",
+            "meaning": "Satisfied"
+        },
+        {
+            "name": "Raees",
+            "meaning": "Rich, Wealthy, Chief"
+        },
+        {
+            "name": "Rafan",
+            "meaning": "Beautiful, graceful"
+        },
+        {
+            "name": "Rafay",
+            "meaning": "The Exalter, To Elevate Rank"
+        },
+        {
+            "name": "Rafee",
+            "meaning": "High, High-ranking, cultured, refined"
+        },
+        {
+            "name": "Rafeek",
+            "meaning": "Friend"
+        },
+        {
+            "name": "Rafi",
+            "meaning": "High, High-ranking, cultured, refined. In the Quran, the"
+        },
+        {
+            "name": "Rafik",
+            "meaning": "Kind, friendFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Rafiq",
+            "meaning": "Kind, friend"
+        },
+        {
+            "name": "Raghib",
+            "meaning": "Desiring, willing"
+        },
+        {
+            "name": "Rahat",
+            "meaning": "Rest, Response"
+        },
+        {
+            "name": "Raheel",
+            "meaning": "One who shows the way, Fearless or Brave"
+        },
+        {
+            "name": "Raheesh",
+            "meaning": "Leader, Chief, Rich"
+        },
+        {
+            "name": "Rahil",
+            "meaning": "Path guider"
+        },
+        {
+            "name": "Rahim",
+            "meaning": "Merciful"
+        },
+        {
+            "name": "Rahmat",
+            "meaning": "Mercy"
+        },
+        {
+            "name": "Raihan",
+            "meaning": "Heavens' Flower"
+        },
+        {
+            "name": "Raiyan",
+            "meaning": "Satisfaction, contented"
+        },
+        {
+            "name": "Rajaa",
+            "meaning": "Hope"
+        },
+        {
+            "name": "Rajab",
+            "meaning": "7th Month of the Islamic Calendar"
+        },
+        {
+            "name": "Rakeem",
+            "meaning": "Writer"
+        },
+        {
+            "name": "Rakhshan",
+            "meaning": "Dazzling"
+        },
+        {
+            "name": "Ramadan",
+            "meaning": "9th Month of the Islamic Calendar"
+        },
+        {
+            "name": "Rameez",
+            "meaning": "Symbol"
+        },
+        {
+            "name": "Ramin",
+            "meaning": "Who rescues the people from hungry and pain. Brings Joy into"
+        },
+        {
+            "name": "Ramiz",
+            "meaning": "Symbol"
+        },
+        {
+            "name": "Raonar",
+            "meaning": "Lustre"
+        },
+        {
+            "name": "Raquib",
+            "meaning": "Most watchful"
+        },
+        {
+            "name": "Raseem",
+            "meaning": "One who designs"
+        },
+        {
+            "name": "Rashad",
+            "meaning": "Integrity of conduct, maturity"
+        },
+        {
+            "name": "Rashdan",
+            "meaning": "Guidance, rectitude"
+        },
+        {
+            "name": "Rasheed",
+            "meaning": "Rationale, Prutend, Intelligent, Rightly-guided"
+        },
+        {
+            "name": "Rashid",
+            "meaning": "Righteous, mature"
+        },
+        {
+            "name": "Rasool",
+            "meaning": "Name of the nabi"
+        },
+        {
+            "name": "Rauf",
+            "meaning": "Merciful, kind"
+        },
+        {
+            "name": "Rawahah",
+            "meaning": "Departure, Fragrance, ease"
+        },
+        {
+            "name": "Rawdah",
+            "meaning": "Garden Meadow, Paradise"
+        },
+        {
+            "name": "Rawh",
+            "meaning": "Refreshment, Rest"
+        },
+        {
+            "name": "Rayan",
+            "meaning": "The gate of heaven which allows fasting people in Ramadan to"
+        },
+        {
+            "name": "Rayees",
+            "meaning": "Rich"
+        },
+        {
+            "name": "Rayhaan",
+            "meaning": "Sweet basil"
+        },
+        {
+            "name": "Rayhan",
+            "meaning": "Basil, Sweet basil, Fragrance"
+        },
+        {
+            "name": "Rayn",
+            "meaning": "It is the name of a gate of the heaven"
+        },
+        {
+            "name": "Rayyan",
+            "meaning": "Full, pretty"
+        },
+        {
+            "name": "Raza",
+            "meaning": "Handsome"
+        },
+        {
+            "name": "Razam",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Razeen",
+            "meaning": "Sedate, Slemn, Grave, Sober-Minded"
+        },
+        {
+            "name": "Rehan",
+            "meaning": "King"
+        },
+        {
+            "name": "Rehma",
+            "meaning": "The loving"
+        },
+        {
+            "name": "Rehmat-ullah",
+            "meaning": "Blessings of Allah Almighty"
+        },
+        {
+            "name": "Reza",
+            "meaning": "Wish"
+        },
+        {
+            "name": "Riaz",
+            "meaning": "Garden, devotion"
+        },
+        {
+            "name": "Ridha",
+            "meaning": "Contentment"
+        },
+        {
+            "name": "Ridwan",
+            "meaning": "Keeper of the gates of heaven"
+        },
+        {
+            "name": "Rifa'ah",
+            "meaning": "Dignity"
+        },
+        {
+            "name": "Risay",
+            "meaning": "The Risk, Black Rose, Lovest One, The One"
+        },
+        {
+            "name": "Riyad",
+            "meaning": "Gardens"
+        },
+        {
+            "name": "Riyasat",
+            "meaning": "Rule, DominionFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Rizwan",
+            "meaning": "Peon of Paradise"
+        },
+        {
+            "name": "Robeel",
+            "meaning": "Flight"
+        },
+        {
+            "name": "Rohail",
+            "meaning": "Noble"
+        },
+        {
+            "name": "Roshan",
+            "meaning": "Bright, Shining"
+        },
+        {
+            "name": "Rowel",
+            "meaning": "Flower"
+        },
+        {
+            "name": "Rukanah",
+            "meaning": "Firm, Solid"
+        },
+        {
+            "name": "Rushd",
+            "meaning": "On the right path"
+        },
+        {
+            "name": "Ruwayfi",
+            "meaning": "Exalted"
+        }
+    ],
+    "S": [
+        {
+            "name": "Sa'd",
+            "meaning": "Felicity"
+        },
+        {
+            "name": "Sa'dan",
+            "meaning": "Happy, fortunate"
+        },
+        {
+            "name": "Sa'id",
+            "meaning": "Happy, fortunate"
+        },
+        {
+            "name": "Sa'im",
+            "meaning": "Fasting"
+        },
+        {
+            "name": "Sa'ir",
+            "meaning": "Walking, going on foot"
+        },
+        {
+            "name": "Sa'irah",
+            "meaning": "Walking"
+        },
+        {
+            "name": "Sa'ood",
+            "meaning": "Fortunate, Happy"
+        },
+        {
+            "name": "Saad",
+            "meaning": "A companion of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Saadat",
+            "meaning": "Blessing, Honour"
+        },
+        {
+            "name": "Saafir",
+            "meaning": "Ambassador, handsome"
+        },
+        {
+            "name": "Saahir",
+            "meaning": "Wakeful"
+        },
+        {
+            "name": "Saaiq",
+            "meaning": "He who drives on the right path"
+        },
+        {
+            "name": "Saal",
+            "meaning": "The year consisting of twelve months"
+        },
+        {
+            "name": "Saaqib",
+            "meaning": "Star"
+        },
+        {
+            "name": "Sabbir",
+            "meaning": "Patient"
+        },
+        {
+            "name": "Sabeeh",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Sabil",
+            "meaning": "Path, way"
+        },
+        {
+            "name": "Sabiq",
+            "meaning": "First, Former"
+        },
+        {
+            "name": "Sabir",
+            "meaning": "Patient"
+        },
+        {
+            "name": "Sabur",
+            "meaning": "Patient, perservent"
+        },
+        {
+            "name": "Saburah",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Sadan",
+            "meaning": "Happy, Fortunate"
+        },
+        {
+            "name": "Sadaqat",
+            "meaning": "Truth"
+        },
+        {
+            "name": "Sadeed",
+            "meaning": "Relevant, Pertinent"
+        },
+        {
+            "name": "Sadeem",
+            "meaning": "Haze, Mist"
+        },
+        {
+            "name": "Sadik",
+            "meaning": "Truthful"
+        },
+        {
+            "name": "Sadiq",
+            "meaning": "Truthful"
+        },
+        {
+            "name": "Sadit",
+            "meaning": "Hard working and strong"
+        },
+        {
+            "name": "Saeed",
+            "meaning": "Blissful, auspicious"
+        },
+        {
+            "name": "Safdar",
+            "meaning": "One who breaks the enemy's rank"
+        },
+        {
+            "name": "Safeenah",
+            "meaning": "Name of an Ahl As-Suffah"
+        },
+        {
+            "name": "Safeer",
+            "meaning": "Emissary"
+        },
+        {
+            "name": "Saffar",
+            "meaning": "An authority of Hadith"
+        },
+        {
+            "name": "Safiy-Allah",
+            "meaning": "Allah's chosen one"
+        },
+        {
+            "name": "Safiyy",
+            "meaning": "Chosen One"
+        },
+        {
+            "name": "Saful",
+            "meaning": "Islam Sword of Islam"
+        },
+        {
+            "name": "Safwan",
+            "meaning": "Rock"
+        },
+        {
+            "name": "Sagheer",
+            "meaning": "Small, short"
+        },
+        {
+            "name": "Sahab",
+            "meaning": "Cloud"
+        },
+        {
+            "name": "Sahar",
+            "meaning": "Time before day break, bewitch"
+        },
+        {
+            "name": "Saheim",
+            "meaning": "Warrior"
+        },
+        {
+            "name": "Sahib",
+            "meaning": "Companion, friend"
+        },
+        {
+            "name": "Sahil",
+            "meaning": "GuideFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Sahir",
+            "meaning": "Wakeful"
+        },
+        {
+            "name": "Sahl",
+            "meaning": "Easy, Uncomplicated"
+        },
+        {
+            "name": "Sahm",
+            "meaning": "Arrow, dart"
+        },
+        {
+            "name": "Sahmir",
+            "meaning": "Entertaining companion"
+        },
+        {
+            "name": "Saib",
+            "meaning": "Forsaken, abandoned"
+        },
+        {
+            "name": "Saif",
+            "meaning": "Sword"
+        },
+        {
+            "name": "Saifan",
+            "meaning": "Sword of Allah"
+        },
+        {
+            "name": "Saiful",
+            "meaning": "Azman Sword of dream"
+        },
+        {
+            "name": "Saji",
+            "meaning": "A scholar had this name"
+        },
+        {
+            "name": "Sajid",
+            "meaning": "Prostrating"
+        },
+        {
+            "name": "Sajjad",
+            "meaning": "One who does much prostrations"
+        },
+        {
+            "name": "Sakhawat",
+            "meaning": "Generosity, liberality, open-handiness"
+        },
+        {
+            "name": "Sakhr",
+            "meaning": "Rock"
+        },
+        {
+            "name": "Sakhrah",
+            "meaning": "Rock(s)"
+        },
+        {
+            "name": "Salaahddinn",
+            "meaning": "The righteousness of the faith"
+        },
+        {
+            "name": "Salaam",
+            "meaning": "Peace"
+        },
+        {
+            "name": "Salah",
+            "meaning": "Righteousness of the faith, goodness"
+        },
+        {
+            "name": "Salam",
+            "meaning": "Peace"
+        },
+        {
+            "name": "Salamah",
+            "meaning": "Soundness, integrity"
+        },
+        {
+            "name": "Salamat",
+            "meaning": "Safety"
+        },
+        {
+            "name": "Salar",
+            "meaning": "Leader"
+        },
+        {
+            "name": "Saleel",
+            "meaning": "Warrior of understanding, Noble hearted, container of inner"
+        },
+        {
+            "name": "Saleem",
+            "meaning": "Sound, Unimpaired, Sane, Sincere"
+        },
+        {
+            "name": "Salif",
+            "meaning": "Previous, Former"
+        },
+        {
+            "name": "Salih",
+            "meaning": "Safe, whole, flawless"
+        },
+        {
+            "name": "Salik",
+            "meaning": "Passable, unobstructed"
+        },
+        {
+            "name": "Salim",
+            "meaning": "Secure, free"
+        },
+        {
+            "name": "Salman",
+            "meaning": "Safe"
+        },
+        {
+            "name": "Salsaal",
+            "meaning": "Pure Water"
+        },
+        {
+            "name": "Salsal",
+            "meaning": "Pure Water"
+        },
+        {
+            "name": "Salt",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Sameed",
+            "meaning": "Brave, simple"
+        },
+        {
+            "name": "Sameer",
+            "meaning": "Entertainer"
+        },
+        {
+            "name": "Sameh",
+            "meaning": "Forgiver"
+        },
+        {
+            "name": "Sami",
+            "meaning": "High, lofty, exalted"
+        },
+        {
+            "name": "Samir",
+            "meaning": "Entertaining companion"
+        },
+        {
+            "name": "Samit",
+            "meaning": "Quiet"
+        },
+        {
+            "name": "Sanaullah",
+            "meaning": "Worshiper of Allah"
+        },
+        {
+            "name": "Sanawbar",
+            "meaning": "A cone-bearing tree, fir, Pine"
+        },
+        {
+            "name": "Saqer",
+            "meaning": "Falcon"
+        },
+        {
+            "name": "Saqib",
+            "meaning": "Shining Star"
+        },
+        {
+            "name": "Sarab",
+            "meaning": "Mirage"
+        },
+        {
+            "name": "Sarfaraz",
+            "meaning": "King"
+        },
+        {
+            "name": "Sarfraz",
+            "meaning": "Person sitting at a high place"
+        },
+        {
+            "name": "Sarim",
+            "meaning": "Lion, brave, big hearted"
+        },
+        {
+            "name": "Sariyah",
+            "meaning": "Travels by night"
+        },
+        {
+            "name": "Sarmad",
+            "meaning": "Eternity"
+        },
+        {
+            "name": "Sarosh",
+            "meaning": "Angel"
+        },
+        {
+            "name": "Sarwar",
+            "meaning": "Chief, leader, Joy, Delight"
+        },
+        {
+            "name": "Saud",
+            "meaning": "Felicities, good fortune"
+        },
+        {
+            "name": "Sawa",
+            "meaning": "Equal, sameFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Sawad",
+            "meaning": "Blackness, Skill"
+        },
+        {
+            "name": "Sawlat",
+            "meaning": "Influence, commanding, personality, awe"
+        },
+        {
+            "name": "Sawwaf",
+            "meaning": "Wool Stapler, Wool Dealer"
+        },
+        {
+            "name": "Sayf",
+            "meaning": "Sword"
+        },
+        {
+            "name": "Sayfiyy",
+            "meaning": "Concerning sword"
+        },
+        {
+            "name": "Sayhan",
+            "meaning": "Flowing"
+        },
+        {
+            "name": "Sayid",
+            "meaning": "Lord, Master"
+        },
+        {
+            "name": "Sayyar",
+            "meaning": "Mobile, Constantly on the move"
+        },
+        {
+            "name": "Seema",
+            "meaning": "Mien, Expression, Countenance"
+        },
+        {
+            "name": "Seif",
+            "meaning": "Sword"
+        },
+        {
+            "name": "Shaaf",
+            "meaning": "One who gives health"
+        },
+        {
+            "name": "Shaariq",
+            "meaning": "Radiance"
+        },
+        {
+            "name": "Shabaan",
+            "meaning": "Islamic Month"
+        },
+        {
+            "name": "Shabab",
+            "meaning": "Youth"
+        },
+        {
+            "name": "Shabah",
+            "meaning": "Resembling"
+        },
+        {
+            "name": "Shaban",
+            "meaning": "Name of an Islamic month"
+        },
+        {
+            "name": "Shabaz",
+            "meaning": "Beautiful, handsome, intelligent, protected by Allah, self"
+        },
+        {
+            "name": "Shabb",
+            "meaning": "Young"
+        },
+        {
+            "name": "Shabbeer",
+            "meaning": "Appellation of Imam Husain (R.A)"
+        },
+        {
+            "name": "Shabbir",
+            "meaning": "Pious, beautiful"
+        },
+        {
+            "name": "Shabeeh",
+            "meaning": "Resembling"
+        },
+        {
+            "name": "Shabib",
+            "meaning": "A scholar who wrote about Quran"
+        },
+        {
+            "name": "Shad",
+            "meaning": "Happy"
+        },
+        {
+            "name": "Shadab",
+            "meaning": "Fresh, evergreen"
+        },
+        {
+            "name": "Shadan",
+            "meaning": "Happy"
+        },
+        {
+            "name": "Shadeed",
+            "meaning": "Lover"
+        },
+        {
+            "name": "Shadhin",
+            "meaning": "Independent"
+        },
+        {
+            "name": "Shadi",
+            "meaning": "Singer"
+        },
+        {
+            "name": "Shafaat",
+            "meaning": "Recommendation"
+        },
+        {
+            "name": "Shafee",
+            "meaning": "Intercessor"
+        },
+        {
+            "name": "Shafi",
+            "meaning": "Pure"
+        },
+        {
+            "name": "Shafin",
+            "meaning": "He who cures"
+        },
+        {
+            "name": "Shafiq",
+            "meaning": "Compassionate, tender"
+        },
+        {
+            "name": "Shafiulla",
+            "meaning": "Compassionate of Allah or Purity of Allah"
+        },
+        {
+            "name": "Shafqat",
+            "meaning": "Affection"
+        },
+        {
+            "name": "Shah",
+            "meaning": "King"
+        },
+        {
+            "name": "Shahab",
+            "meaning": "Meteor"
+        },
+        {
+            "name": "Shahadat",
+            "meaning": "Witness, Evidence"
+        },
+        {
+            "name": "Shahan",
+            "meaning": "King"
+        },
+        {
+            "name": "Shaharyar",
+            "meaning": "King"
+        },
+        {
+            "name": "Shahbaz",
+            "meaning": "Falcon"
+        },
+        {
+            "name": "Shaheed",
+            "meaning": "Witness"
+        },
+        {
+            "name": "Shaheem",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Shaheen",
+            "meaning": "Falcon"
+        },
+        {
+            "name": "Shaheer",
+            "meaning": "Well-Known"
+        },
+        {
+            "name": "Shahid",
+            "meaning": "Witness"
+        },
+        {
+            "name": "Shahin",
+            "meaning": "Falcon"
+        },
+        {
+            "name": "Shahnawaz",
+            "meaning": "Brave"
+        },
+        {
+            "name": "Shahrukh",
+            "meaning": "Concerning, monarchy"
+        },
+        {
+            "name": "Shahrul",
+            "meaning": "Moon"
+        },
+        {
+            "name": "Shahzad",
+            "meaning": "King's sonFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Shahzaib",
+            "meaning": "Crown of a king, like a king"
+        },
+        {
+            "name": "Shahzor",
+            "meaning": "Extreme Power"
+        },
+        {
+            "name": "Shairyaar",
+            "meaning": "Friendship"
+        },
+        {
+            "name": "Shajee",
+            "meaning": "Bold, Courageous"
+        },
+        {
+            "name": "Shakeel",
+            "meaning": "Handsome, Comely"
+        },
+        {
+            "name": "Shakir",
+            "meaning": "Thankful"
+        },
+        {
+            "name": "Shallal",
+            "meaning": "Waterfalls"
+        },
+        {
+            "name": "Shamas",
+            "meaning": "Sun"
+        },
+        {
+            "name": "Shameel",
+            "meaning": "Complete"
+        },
+        {
+            "name": "Shameem",
+            "meaning": "Fragrance"
+        },
+        {
+            "name": "Shamel",
+            "meaning": "Comprehensive, complete"
+        },
+        {
+            "name": "Shammyn",
+            "meaning": "Sun light"
+        },
+        {
+            "name": "Shams",
+            "meaning": "Sun"
+        },
+        {
+            "name": "Shams-Ul-Haq",
+            "meaning": "Appellation given to Indian and Pakistani Scholars"
+        },
+        {
+            "name": "Shamshad",
+            "meaning": "Box-tree"
+        },
+        {
+            "name": "Shamsheer",
+            "meaning": "The sword of honours"
+        },
+        {
+            "name": "Shamsideen",
+            "meaning": "Sun of religion"
+        },
+        {
+            "name": "Shan",
+            "meaning": "Dignity, Splendour"
+        },
+        {
+            "name": "Shaqeeq",
+            "meaning": "Real brother"
+        },
+        {
+            "name": "Sharaf",
+            "meaning": "Honour"
+        },
+        {
+            "name": "Sharafat",
+            "meaning": "Nobility"
+        },
+        {
+            "name": "Sharaheel",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Shareef",
+            "meaning": "The good"
+        },
+        {
+            "name": "Shareek",
+            "meaning": "Associate"
+        },
+        {
+            "name": "Sharif",
+            "meaning": "Honest, noble, distinguished"
+        },
+        {
+            "name": "Sharifudin",
+            "meaning": "The noble religion"
+        },
+        {
+            "name": "Shariq",
+            "meaning": "Radiant, Bright"
+        },
+        {
+            "name": "Sharique",
+            "meaning": "Sunrise"
+        },
+        {
+            "name": "Sharjeel",
+            "meaning": "Fine"
+        },
+        {
+            "name": "Shaukat",
+            "meaning": "Grandeur"
+        },
+        {
+            "name": "Shawaiz",
+            "meaning": "Speak melodious"
+        },
+        {
+            "name": "Shayaan",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Shayan",
+            "meaning": "Praised"
+        },
+        {
+            "name": "Shaybah",
+            "meaning": "Grey-haired, aged"
+        },
+        {
+            "name": "Shazad",
+            "meaning": "Prince"
+        },
+        {
+            "name": "Shazeb",
+            "meaning": "Decorated king"
+        },
+        {
+            "name": "Shaziya",
+            "meaning": "Aromatic"
+        },
+        {
+            "name": "Shehran",
+            "meaning": "The ancient king of Persia"
+        },
+        {
+            "name": "Shehroze",
+            "meaning": "King of Roses"
+        },
+        {
+            "name": "Shehryaar",
+            "meaning": "Sovereign"
+        },
+        {
+            "name": "Shehyar",
+            "meaning": "Lucky one"
+        },
+        {
+            "name": "Shehzaad",
+            "meaning": "Prince"
+        },
+        {
+            "name": "Sheraz",
+            "meaning": "Loving, Caring, Daring"
+        },
+        {
+            "name": "Sheryar",
+            "meaning": "King"
+        },
+        {
+            "name": "Shibli",
+            "meaning": "Was a great Scholar and writer"
+        },
+        {
+            "name": "Shifa",
+            "meaning": "Cure"
+        },
+        {
+            "name": "Shihab",
+            "meaning": "Flame, blaze"
+        },
+        {
+            "name": "Shiraz",
+            "meaning": "Sweet"
+        },
+        {
+            "name": "Shoaib",
+            "meaning": "A Prophet's name"
+        },
+        {
+            "name": "Shu'aa",
+            "meaning": "Beams, Rays"
+        },
+        {
+            "name": "Shuayb",
+            "meaning": "A Prophets name"
+        },
+        {
+            "name": "Shuja",
+            "meaning": "Brave, bold, ValourFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Shuneal",
+            "meaning": "Traveller"
+        },
+        {
+            "name": "Shurahbeel",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Shurayh",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Shuraym",
+            "meaning": "Split, Cleavage"
+        },
+        {
+            "name": "Sifet",
+            "meaning": "Quality"
+        },
+        {
+            "name": "Sikandar",
+            "meaning": "Name of a famous Sovereign"
+        },
+        {
+            "name": "Silah",
+            "meaning": "Arms"
+        },
+        {
+            "name": "Simak",
+            "meaning": "Arcturus (Star)"
+        },
+        {
+            "name": "Sinan",
+            "meaning": "Spear head"
+        },
+        {
+            "name": "Siraj",
+            "meaning": "Lamp, light"
+        },
+        {
+            "name": "Siwar",
+            "meaning": "Bracelet, Arm-ring"
+        },
+        {
+            "name": "Sofian",
+            "meaning": "Sand storm"
+        },
+        {
+            "name": "Sohaib",
+            "meaning": "Reddish or Sandy (Hair)"
+        },
+        {
+            "name": "Sohail",
+            "meaning": "Gentle, ease; name of star"
+        },
+        {
+            "name": "Souffian",
+            "meaning": "Sand"
+        },
+        {
+            "name": "Subhan",
+            "meaning": "Holy"
+        },
+        {
+            "name": "Subhi",
+            "meaning": "Early morning"
+        },
+        {
+            "name": "Suhaan",
+            "meaning": "Very good"
+        },
+        {
+            "name": "Suhayb",
+            "meaning": "A companions name"
+        },
+        {
+            "name": "Suhayl",
+            "meaning": "Canopus (Star)"
+        },
+        {
+            "name": "Suheb",
+            "meaning": "Love"
+        },
+        {
+            "name": "Sulaiman",
+            "meaning": "A Prophets Name"
+        },
+        {
+            "name": "Sulayk",
+            "meaning": "Traveller, Walker"
+        },
+        {
+            "name": "Sulayman",
+            "meaning": "Name of a Prophet"
+        },
+        {
+            "name": "Sultaan",
+            "meaning": "Authority"
+        },
+        {
+            "name": "Sultan",
+            "meaning": "Power, authority"
+        },
+        {
+            "name": "Sumayya",
+            "meaning": "Martyr of Islam"
+        },
+        {
+            "name": "Surayj",
+            "meaning": "Name of an authority of Hadith"
+        },
+        {
+            "name": "Surur",
+            "meaning": "Joy, happiness"
+        },
+        {
+            "name": "Suwaybit",
+            "meaning": "Roof over path, alley between houses"
+        },
+        {
+            "name": "Suwayd",
+            "meaning": "Black"
+        },
+        {
+            "name": "Sydeek",
+            "meaning": "King"
+        },
+        {
+            "name": "Syed",
+            "meaning": "Always in control"
+        }
+    ],
+    "T": [
+        {
+            "name": "Taanish",
+            "meaning": "Good"
+        },
+        {
+            "name": "Taban",
+            "meaning": "Resplendent, Glittering"
+        },
+        {
+            "name": "Tabassum",
+            "meaning": "Smiling"
+        },
+        {
+            "name": "Tabish",
+            "meaning": "Heat, Brilliancy"
+        },
+        {
+            "name": "Taha",
+            "meaning": "Name of a Surah in the Quran"
+        },
+        {
+            "name": "Tahawwur",
+            "meaning": "Rashness"
+        },
+        {
+            "name": "Taheem",
+            "meaning": "Pure"
+        },
+        {
+            "name": "Tahir",
+            "meaning": "Pure, clean, chaste"
+        },
+        {
+            "name": "Tahmeed",
+            "meaning": "Allah\u00e2\u20ac\u2122s servant"
+        },
+        {
+            "name": "Tahmid",
+            "meaning": "Thanks to the graceful and merciful Allah"
+        },
+        {
+            "name": "Tahoor",
+            "meaning": "Purity"
+        },
+        {
+            "name": "Tahseen",
+            "meaning": "Acclaim, appreciation"
+        },
+        {
+            "name": "Taimur",
+            "meaning": "Iron"
+        },
+        {
+            "name": "Taj",
+            "meaning": "Crown"
+        },
+        {
+            "name": "Tajammal",
+            "meaning": "Beautiful"
+        },
+        {
+            "name": "Tajammul",
+            "meaning": "Dignity, Magnificence, Pomp"
+        },
+        {
+            "name": "Tajudinn",
+            "meaning": "Crown of religion"
+        },
+        {
+            "name": "Talal",
+            "meaning": "Nice admirableFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Talat",
+            "meaning": "Countenance"
+        },
+        {
+            "name": "Talha",
+            "meaning": "A name of Tree"
+        },
+        {
+            "name": "Talhah",
+            "meaning": "Kind of tree"
+        },
+        {
+            "name": "Tali",
+            "meaning": "Rising, Ascending, Going up"
+        },
+        {
+            "name": "Talib",
+            "meaning": "Sender (of truth), student"
+        },
+        {
+            "name": "Tameem",
+            "meaning": "Perfect, complete"
+        },
+        {
+            "name": "Tameez",
+            "meaning": "Discretion, sense, manners"
+        },
+        {
+            "name": "Tamir",
+            "meaning": "Tall"
+        },
+        {
+            "name": "Tamkeen",
+            "meaning": "Dignity, Gravity"
+        },
+        {
+            "name": "Tammam",
+            "meaning": "Generous"
+        },
+        {
+            "name": "Tanim",
+            "meaning": "Wave of the Sea, Rhythm"
+        },
+        {
+            "name": "Tanveer",
+            "meaning": "Rays of light"
+        },
+        {
+            "name": "Tanwir",
+            "meaning": "Enlightening"
+        },
+        {
+            "name": "Taqiyy",
+            "meaning": "Pious, Righteous"
+        },
+        {
+            "name": "Tarannum",
+            "meaning": "Singing"
+        },
+        {
+            "name": "Tariq",
+            "meaning": "A late visitor"
+        },
+        {
+            "name": "Tasadduq",
+            "meaning": "Giving Alms, Charity, Sacrifice"
+        },
+        {
+            "name": "Tasawwar",
+            "meaning": "Idea, conception"
+        },
+        {
+            "name": "Taseen",
+            "meaning": "A name of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Taslim",
+            "meaning": "Peaceful"
+        },
+        {
+            "name": "Tasneen",
+            "meaning": "A heavenly fountain"
+        },
+        {
+            "name": "Taufiq",
+            "meaning": "Guidance"
+        },
+        {
+            "name": "Tauqeer",
+            "meaning": "Respect"
+        },
+        {
+            "name": "Tawbah",
+            "meaning": "Repentance"
+        },
+        {
+            "name": "Tawfeeq",
+            "meaning": "Divine help or guidance, enabling, inner motivation"
+        },
+        {
+            "name": "Tawoos",
+            "meaning": "Peacock"
+        },
+        {
+            "name": "Tawseef",
+            "meaning": "Praise"
+        },
+        {
+            "name": "Taymur",
+            "meaning": "Brave strong"
+        },
+        {
+            "name": "Taysir",
+            "meaning": "Facilitation"
+        },
+        {
+            "name": "Tayyab",
+            "meaning": "Clean"
+        },
+        {
+            "name": "Tazeem",
+            "meaning": "Honour, Respect"
+        },
+        {
+            "name": "Tazneem",
+            "meaning": "A garden in paradise"
+        },
+        {
+            "name": "Tehseen",
+            "meaning": "Compliments, happiness"
+        },
+        {
+            "name": "Tha'labah",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Thabit",
+            "meaning": "Firm, established"
+        },
+        {
+            "name": "Thaman",
+            "meaning": "Price, Worth"
+        },
+        {
+            "name": "Thamar",
+            "meaning": "Fruit, Outcome"
+        },
+        {
+            "name": "Thaqaf",
+            "meaning": "To surpass in skill"
+        },
+        {
+            "name": "Thaqib",
+            "meaning": "Piercing"
+        },
+        {
+            "name": "Tharwat",
+            "meaning": "Wealth, Fortune, riches"
+        },
+        {
+            "name": "Thauban",
+            "meaning": "Two garments"
+        },
+        {
+            "name": "Thayer",
+            "meaning": "Rebel"
+        },
+        {
+            "name": "Thumamah",
+            "meaning": "Millet (Plant)"
+        },
+        {
+            "name": "Tihami",
+            "meaning": "A title of the Prophet (S.A.W)"
+        },
+        {
+            "name": "Tobias",
+            "meaning": "Born with a Star"
+        },
+        {
+            "name": "Toqeer",
+            "meaning": "Respect"
+        },
+        {
+            "name": "Tufayl",
+            "meaning": "Baby"
+        },
+        {
+            "name": "Tulayb",
+            "meaning": "Concerning a seeker, or one who covets"
+        },
+        {
+            "name": "Tunveer",
+            "meaning": "Rays of light"
+        },
+        {
+            "name": "Turhan",
+            "meaning": "Of mercy"
+        }
+    ],
+    "U": [
+        {
+            "name": "Ubadah",
+            "meaning": "WorshipFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Ubayd",
+            "meaning": "Worshipper"
+        },
+        {
+            "name": "Ubaydullah",
+            "meaning": "Servant of Allah"
+        },
+        {
+            "name": "Uhban",
+            "meaning": "Name of Prophet (S.A.W)'s name"
+        },
+        {
+            "name": "Ulfat",
+            "meaning": "Love, Affection, Familiarity, Intimacy"
+        },
+        {
+            "name": "Umair",
+            "meaning": "Intelligent"
+        },
+        {
+            "name": "Umar",
+            "meaning": "Name of the second Caliph"
+        },
+        {
+            "name": "Umarah",
+            "meaning": "Habitation"
+        },
+        {
+            "name": "Umayr",
+            "meaning": "Old Arabic name"
+        },
+        {
+            "name": "Umayyah",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Umran",
+            "meaning": "Prosperity"
+        },
+        {
+            "name": "Unais",
+            "meaning": "Love, Affection"
+        },
+        {
+            "name": "Unal",
+            "meaning": "Fighter, strong spirit"
+        },
+        {
+            "name": "Unays",
+            "meaning": "Smaller form of Anas"
+        },
+        {
+            "name": "Uqbah",
+            "meaning": "End of everything"
+        },
+        {
+            "name": "Urfee",
+            "meaning": "Name of popular Poet"
+        },
+        {
+            "name": "Urooj",
+            "meaning": "Ascension, Mounting Rising"
+        },
+        {
+            "name": "Urwah",
+            "meaning": "Hand-held, support"
+        },
+        {
+            "name": "Usamah",
+            "meaning": "Description of a lion"
+        },
+        {
+            "name": "Usayd",
+            "meaning": "Little lion"
+        },
+        {
+            "name": "Usman",
+            "meaning": "Name of the third Caliph"
+        },
+        {
+            "name": "Utbah",
+            "meaning": "Threshold"
+        },
+        {
+            "name": "Uthman",
+            "meaning": "Name of the third Caliph"
+        },
+        {
+            "name": "Uwayam",
+            "meaning": "A float, buoyant"
+        },
+        {
+            "name": "Uzair",
+            "meaning": "Name of a Prophet"
+        },
+        {
+            "name": "Uzayr",
+            "meaning": "Precious"
+        }
+    ],
+    "W": [
+        {
+            "name": "Waa'il",
+            "meaning": "One Who Returns For Shelter"
+        },
+        {
+            "name": "Wadi",
+            "meaning": "Calm, peaceful"
+        },
+        {
+            "name": "Wafa",
+            "meaning": "Faithfulness, fidelity"
+        },
+        {
+            "name": "Wafi",
+            "meaning": "Faithful, loyal"
+        },
+        {
+            "name": "Wafiq",
+            "meaning": "Successful"
+        },
+        {
+            "name": "Wahb",
+            "meaning": "Giving"
+        },
+        {
+            "name": "Wahban",
+            "meaning": "(related to Wahb)"
+        },
+        {
+            "name": "Waheed",
+            "meaning": "Unique, One of its kind"
+        },
+        {
+            "name": "Wahhaj",
+            "meaning": "Glowing, incandescent"
+        },
+        {
+            "name": "Wahib",
+            "meaning": "Liberal donor"
+        },
+        {
+            "name": "Wahid",
+            "meaning": "Singular, exclusive, unequalled"
+        },
+        {
+            "name": "Wail",
+            "meaning": "Returner"
+        },
+        {
+            "name": "Wais",
+            "meaning": "King"
+        },
+        {
+            "name": "Waiz",
+            "meaning": "Preacher, Sermoniser"
+        },
+        {
+            "name": "Wajdaan",
+            "meaning": "Thought, imagination"
+        },
+        {
+            "name": "Wajeeh",
+            "meaning": "Commanding Personality"
+        },
+        {
+            "name": "Wajid",
+            "meaning": "One who finds"
+        },
+        {
+            "name": "Wajih",
+            "meaning": "Noble, eminent"
+        },
+        {
+            "name": "Wakalat",
+            "meaning": "Advocacy, Agency"
+        },
+        {
+            "name": "Wakeel",
+            "meaning": "Agent, Representative"
+        },
+        {
+            "name": "Waleed",
+            "meaning": "New-born Child"
+        },
+        {
+            "name": "Wali",
+            "meaning": "Guardian"
+        },
+        {
+            "name": "Wali-ud-din",
+            "meaning": "Guardian of religion"
+        },
+        {
+            "name": "Walid",
+            "meaning": "New-born child"
+        },
+        {
+            "name": "Waqaar",
+            "meaning": "Self-respect"
+        },
+        {
+            "name": "Waqar",
+            "meaning": "Respect, dignityFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Waqas",
+            "meaning": "Warrior"
+        },
+        {
+            "name": "Wasay",
+            "meaning": "Unlimited, All Encompassing, Boundless"
+        },
+        {
+            "name": "Waseem",
+            "meaning": "Handsome"
+        },
+        {
+            "name": "Wasif",
+            "meaning": "Man of Qualities"
+        },
+        {
+            "name": "Wasil",
+            "meaning": "Inseparable friend"
+        },
+        {
+            "name": "Wasim",
+            "meaning": "Good looking"
+        },
+        {
+            "name": "Watheq",
+            "meaning": "Firm, reliable, confident"
+        },
+        {
+            "name": "Wazir",
+            "meaning": "Minister"
+        },
+        {
+            "name": "Wildan",
+            "meaning": "Boy in heaven"
+        },
+        {
+            "name": "Wisam",
+            "meaning": "Badge, Logo, like coat of Arms"
+        }
+    ],
+    "Y": [
+        {
+            "name": "Yafi",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Yaghnam",
+            "meaning": "A narrator of hadith"
+        },
+        {
+            "name": "Yahya",
+            "meaning": "A Prophet's Name"
+        },
+        {
+            "name": "Yaman",
+            "meaning": "Blessed"
+        },
+        {
+            "name": "Yameen",
+            "meaning": "Oath, right hand, right wing (of the army)"
+        },
+        {
+            "name": "Yaqeen",
+            "meaning": "Belief"
+        },
+        {
+            "name": "Yaqoot",
+            "meaning": "Precious stone"
+        },
+        {
+            "name": "Yaqub",
+            "meaning": "A Prophet's Name"
+        },
+        {
+            "name": "Yar",
+            "meaning": "Friend"
+        },
+        {
+            "name": "Yaseen",
+            "meaning": "YASIN, ALIF LAAM MEEM, HA MEEM AIN SEEN KAAF are all words"
+        },
+        {
+            "name": "Yasin",
+            "meaning": "Rich, Sura in Quran, Name of Prophet Muhammad (PBUH)"
+        },
+        {
+            "name": "Yasir",
+            "meaning": "Wealthy"
+        },
+        {
+            "name": "Yathrib",
+            "meaning": "Former name of the city of Madinnah"
+        },
+        {
+            "name": "Yawar",
+            "meaning": "Helping"
+        },
+        {
+            "name": "Yawer",
+            "meaning": "Helper"
+        },
+        {
+            "name": "Yuhannis",
+            "meaning": "The name of a freed salve of Zubair"
+        },
+        {
+            "name": "Yunus",
+            "meaning": "A Prophet's Name"
+        },
+        {
+            "name": "Yusr",
+            "meaning": "Ease, Convenience"
+        },
+        {
+            "name": "Yusuf",
+            "meaning": "A Prophet's Name"
+        }
+    ],
+    "Z": [
+        {
+            "name": "Zackariya",
+            "meaning": "Name of a prophet"
+        },
+        {
+            "name": "Zaeem",
+            "meaning": "The leader"
+        },
+        {
+            "name": "Zafar",
+            "meaning": "Victorious"
+        },
+        {
+            "name": "Zafir",
+            "meaning": "Victorious"
+        },
+        {
+            "name": "Zafrul",
+            "meaning": "Honest, Reliable and very ambitious"
+        },
+        {
+            "name": "Zaheer",
+            "meaning": "Bright and shining"
+        },
+        {
+            "name": "Zahi",
+            "meaning": "Bright, shining"
+        },
+        {
+            "name": "Zahir",
+            "meaning": "Bright, shining"
+        },
+        {
+            "name": "Zaid",
+            "meaning": "Growth, Increase"
+        },
+        {
+            "name": "Zaigham",
+            "meaning": "Lion"
+        },
+        {
+            "name": "Zaighum",
+            "meaning": "Lion, Powerful"
+        },
+        {
+            "name": "Zaim",
+            "meaning": "Leader or General, someone who is demanded"
+        },
+        {
+            "name": "Zain",
+            "meaning": "Friend, beloved"
+        },
+        {
+            "name": "Zair",
+            "meaning": "Pilgrim"
+        },
+        {
+            "name": "Zakar",
+            "meaning": "Handsome, Kind hearted"
+        },
+        {
+            "name": "Zakariya",
+            "meaning": "Name of a Prophet (A.S)"
+        },
+        {
+            "name": "Zakariyya",
+            "meaning": "The name of a Prophet"
+        },
+        {
+            "name": "Zaki",
+            "meaning": "Intelligent, pure, chaste"
+        },
+        {
+            "name": "Zakir",
+            "meaning": "Someone who believes in Allah, faith"
+        },
+        {
+            "name": "Zaman",
+            "meaning": "Time, destinyFree e Books :www.iqbalkalmati.blogspot.com"
+        },
+        {
+            "name": "Zameer",
+            "meaning": "Conscience"
+        },
+        {
+            "name": "Zamil",
+            "meaning": "Friend, collegue"
+        },
+        {
+            "name": "Zarar",
+            "meaning": "Brave, Courageous"
+        },
+        {
+            "name": "Zaroon",
+            "meaning": "Visitor"
+        },
+        {
+            "name": "Zarrar",
+            "meaning": "A great muslim warrior"
+        },
+        {
+            "name": "Zayan",
+            "meaning": "Bright"
+        },
+        {
+            "name": "Zayb",
+            "meaning": "Adornment"
+        },
+        {
+            "name": "Zayd",
+            "meaning": "In abundance, plentiful"
+        },
+        {
+            "name": "Zayer",
+            "meaning": "Tourist, who visits holy places"
+        },
+        {
+            "name": "Zebadiyah",
+            "meaning": "Allah's gift"
+        },
+        {
+            "name": "Zeeshan",
+            "meaning": "A high standard"
+        },
+        {
+            "name": "Zeeya",
+            "meaning": "Light"
+        },
+        {
+            "name": "Zeyad",
+            "meaning": "Prince, the honest and kind. Peace and truth"
+        },
+        {
+            "name": "Zia",
+            "meaning": "Wise"
+        },
+        {
+            "name": "Ziaud",
+            "meaning": "Splendor, light"
+        },
+        {
+            "name": "Zishan",
+            "meaning": "Peaceful"
+        },
+        {
+            "name": "Ziyad",
+            "meaning": "Abundance"
+        },
+        {
+            "name": "Zohaib",
+            "meaning": "Leader, king"
+        },
+        {
+            "name": "Zohair",
+            "meaning": "Best friend of the last prophet (S.A.W)"
+        },
+        {
+            "name": "Zoran",
+            "meaning": "Dawn"
+        },
+        {
+            "name": "Zubair",
+            "meaning": "Proper Name"
+        },
+        {
+            "name": "Zubayr",
+            "meaning": "It's a proper name, a Sahabas' name and the youngest fighter in Al"
+        },
+        {
+            "name": "Zuehb",
+            "meaning": "Clever Minded"
+        },
+        {
+            "name": "Zufar",
+            "meaning": "Name of Imam Abu Hanifah's disciple"
+        },
+        {
+            "name": "Zuhaib",
+            "meaning": "Star"
+        },
+        {
+            "name": "Zuhair",
+            "meaning": "The prophet"
+        },
+        {
+            "name": "Zuhayr",
+            "meaning": "Bright"
+        },
+        {
+            "name": "Zuhoor",
+            "meaning": "Appearance, Manifestation"
+        },
+        {
+            "name": "Zulaym",
+            "meaning": "A narrator of Hadith"
+        },
+        {
+            "name": "Zulfaqar",
+            "meaning": "Sword that the Prophet (S.A.W) gave to Sayyidina Ali"
+        },
+        {
+            "name": "Zulfiqar",
+            "meaning": "Sword name of Hazart Ali"
+        },
+        {
+            "name": "Zulqarnain",
+            "meaning": "Someone with two beautiful eyes"
+        },
+        {
+            "name": "Zunnoon",
+            "meaning": "Appellation of Prophet Yunus (A.S)"
+        },
+        {
+            "name": "Zuti",
+            "meaning": "Name of the grandfather of Imam Abu Hanifah"
+        }
+    ]
+}

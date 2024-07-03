@@ -1,0 +1,515 @@
+[
+    {
+     "UnicId": "1693484247-1",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "bookname_english": "Introduction",
+     "bookname_arabic": "المقدمة",
+     "hadith_serial_start": "1",
+     "hadith_serial_end": "7"
+    },
+    {
+     "UnicId": "1693484247-2",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "1",
+     "bookname_english": "The Book of Faith",
+     "bookname_arabic": "كتاب الإيمان",
+     "hadith_serial_start": "8",
+     "hadith_serial_end": "222"
+    },
+    {
+     "UnicId": "1693484247-3",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "2",
+     "bookname_english": "The Book of Purification",
+     "bookname_arabic": "كتاب الطهارة",
+     "hadith_serial_start": "223",
+     "hadith_serial_end": "292"
+    },
+    {
+     "UnicId": "1693484247-4",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "3",
+     "bookname_english": "The Book of Menstruation",
+     "bookname_arabic": "كتاب الحيض",
+     "hadith_serial_start": "293",
+     "hadith_serial_end": "376"
+    },
+    {
+     "UnicId": "1693484247-5",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "4",
+     "bookname_english": "The Book of Prayers",
+     "bookname_arabic": "كتاب الصلاة",
+     "hadith_serial_start": "377",
+     "hadith_serial_end": "519"
+    },
+    {
+     "UnicId": "1693484247-6",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "5",
+     "bookname_english": "The Book of Mosques and Places of Prayer",
+     "bookname_arabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلاَةِ",
+     "hadith_serial_start": "520",
+     "hadith_serial_end": "684"
+    },
+    {
+     "UnicId": "1693484247-7",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "6",
+     "bookname_english": "The Book of Prayer - Travellers",
+     "bookname_arabic": "كتاب صلاة المسافرين وقصرها",
+     "hadith_serial_start": "685",
+     "hadith_serial_end": "843"
+    },
+    {
+     "UnicId": "1693484247-8",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "7",
+     "bookname_english": "The Book of Prayer - Friday",
+     "bookname_arabic": "كتاب الجمعة",
+     "hadith_serial_start": "844",
+     "hadith_serial_end": "883"
+    },
+    {
+     "UnicId": "1693484247-9",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "8",
+     "bookname_english": "The Book of Prayer - Two Eids",
+     "bookname_arabic": "كتاب صلاة العيدين",
+     "hadith_serial_start": "884",
+     "hadith_serial_end": "893"
+    },
+    {
+     "UnicId": "1693484247-10",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "9",
+     "bookname_english": "The Book of Prayer - Rain",
+     "bookname_arabic": "كتاب صلاة الاستسقاء‏",
+     "hadith_serial_start": "894",
+     "hadith_serial_end": "900"
+    },
+    {
+     "UnicId": "1693484247-11",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "10",
+     "bookname_english": "The Book of Prayer - Eclipses",
+     "bookname_arabic": "كتاب الكسوف",
+     "hadith_serial_start": "901",
+     "hadith_serial_end": "915"
+    },
+    {
+     "UnicId": "1693484247-12",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "11",
+     "bookname_english": "The Book of Prayer - Funerals",
+     "bookname_arabic": "كتاب الجنائز",
+     "hadith_serial_start": "916",
+     "hadith_serial_end": "978"
+    },
+    {
+     "UnicId": "1693484247-13",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "12",
+     "bookname_english": "The Book of Zakat",
+     "bookname_arabic": "كتاب الزكاة",
+     "hadith_serial_start": "979",
+     "hadith_serial_end": "1078"
+    },
+    {
+     "UnicId": "1693484247-14",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "13",
+     "bookname_english": "The Book of Fasting",
+     "bookname_arabic": "كتاب الصيام",
+     "hadith_serial_start": "1079",
+     "hadith_serial_end": "1170"
+    },
+    {
+     "UnicId": "1693484247-15",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "14",
+     "bookname_english": "The Book of I'tikaf",
+     "bookname_arabic": "كتاب الاعتكاف",
+     "hadith_serial_start": "1171",
+     "hadith_serial_end": "1176"
+    },
+    {
+     "UnicId": "1693484247-16",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "15",
+     "bookname_english": "The Book of Pilgrimage",
+     "bookname_arabic": "كتاب الحج",
+     "hadith_serial_start": "1177",
+     "hadith_serial_end": "1399"
+    },
+    {
+     "UnicId": "1693484247-17",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "16",
+     "bookname_english": "The Book of Marriage",
+     "bookname_arabic": "كتاب النكاح",
+     "hadith_serial_start": "1400",
+     "hadith_serial_end": "1443"
+    },
+    {
+     "UnicId": "1693484247-18",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "17",
+     "bookname_english": "The Book of Suckling",
+     "bookname_arabic": "كتاب الرضاع",
+     "hadith_serial_start": "1444",
+     "hadith_serial_end": "1470"
+    },
+    {
+     "UnicId": "1693484247-19",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "18",
+     "bookname_english": "The Book of Divorce",
+     "bookname_arabic": "كتاب الطلاق",
+     "hadith_serial_start": "1471",
+     "hadith_serial_end": "1491"
+    },
+    {
+     "UnicId": "1693484247-20",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "19",
+     "bookname_english": "The Book of Invoking Curses",
+     "bookname_arabic": "كتاب اللعان",
+     "hadith_serial_start": "1492",
+     "hadith_serial_end": "1500"
+    },
+    {
+     "UnicId": "1693484247-21",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "20",
+     "bookname_english": "The Book of Emancipating Slaves",
+     "bookname_arabic": "كتاب العتق",
+     "hadith_serial_start": "1501",
+     "hadith_serial_end": "1510"
+    },
+    {
+     "UnicId": "1693484247-22",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "21",
+     "bookname_english": "The Book of Transactions",
+     "bookname_arabic": "كتاب البيوع",
+     "hadith_serial_start": "1511",
+     "hadith_serial_end": "1550"
+    },
+    {
+     "UnicId": "1693484247-23",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "22",
+     "bookname_english": "The Book of Musaqah",
+     "bookname_arabic": "كتاب المساقاة",
+     "hadith_serial_start": "1551",
+     "hadith_serial_end": "1613"
+    },
+    {
+     "UnicId": "1693484247-24",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "23",
+     "bookname_english": "The Book of the Rules of Inheritance",
+     "bookname_arabic": "كتاب الفرائض",
+     "hadith_serial_start": "1614",
+     "hadith_serial_end": "1619"
+    },
+    {
+     "UnicId": "1693484247-25",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "24",
+     "bookname_english": "The Book of Gifts",
+     "bookname_arabic": "كتاب الهبات",
+     "hadith_serial_start": "1620",
+     "hadith_serial_end": "1626"
+    },
+    {
+     "UnicId": "1693484247-26",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "25",
+     "bookname_english": "The Book of Wills",
+     "bookname_arabic": "كتاب الوصية",
+     "hadith_serial_start": "1627",
+     "hadith_serial_end": "1637"
+    },
+    {
+     "UnicId": "1693484247-27",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "26",
+     "bookname_english": "The Book of Vows",
+     "bookname_arabic": "كتاب النذر",
+     "hadith_serial_start": "1638",
+     "hadith_serial_end": "1645"
+    },
+    {
+     "UnicId": "1693484247-28",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "27",
+     "bookname_english": "The Book of Oaths",
+     "bookname_arabic": "كتاب الأيمان",
+     "hadith_serial_start": "1646",
+     "hadith_serial_end": "1668"
+    },
+    {
+     "UnicId": "1693484247-29",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "28",
+     "bookname_english": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+     "bookname_arabic": "كتاب القسامة والمحاربين والقصاص والديات",
+     "hadith_serial_start": "1669",
+     "hadith_serial_end": "1683"
+    },
+    {
+     "UnicId": "1693484247-30",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "29",
+     "bookname_english": "The Book of Legal Punishments",
+     "bookname_arabic": "كتاب الحدود",
+     "hadith_serial_start": "1684",
+     "hadith_serial_end": "1710"
+    },
+    {
+     "UnicId": "1693484247-31",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "30",
+     "bookname_english": "The Book of Judicial Decisions",
+     "bookname_arabic": "كتاب الأقضية",
+     "hadith_serial_start": "1711",
+     "hadith_serial_end": "1721"
+    },
+    {
+     "UnicId": "1693484247-32",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "31",
+     "bookname_english": "The Book of Lost Property",
+     "bookname_arabic": "كتاب اللقطة",
+     "hadith_serial_start": "1722",
+     "hadith_serial_end": "1729"
+    },
+    {
+     "UnicId": "1693484247-33",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "32",
+     "bookname_english": "The Book of Jihad and Expeditions",
+     "bookname_arabic": "كتاب الجهاد والسير",
+     "hadith_serial_start": "1730",
+     "hadith_serial_end": "1817"
+    },
+    {
+     "UnicId": "1693484247-34",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "33",
+     "bookname_english": "The Book on Government",
+     "bookname_arabic": "كتاب الإمارة",
+     "hadith_serial_start": "1818",
+     "hadith_serial_end": "1928"
+    },
+    {
+     "UnicId": "1693484247-35",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "34",
+     "bookname_english": "The Book of Hunting, Slaughter, and what may be Eaten",
+     "bookname_arabic": "كتاب الصيد والذبائح وما يؤكل من الحيوان",
+     "hadith_serial_start": "1929",
+     "hadith_serial_end": "1959"
+    },
+    {
+     "UnicId": "1693484247-36",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "35",
+     "bookname_english": "The Book of Sacrifices",
+     "bookname_arabic": "كتاب الأضاحى",
+     "hadith_serial_start": "1960",
+     "hadith_serial_end": "1978"
+    },
+    {
+     "UnicId": "1693484247-37",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "36",
+     "bookname_english": "The Book of Drinks",
+     "bookname_arabic": "كتاب الأشربة",
+     "hadith_serial_start": "1979",
+     "hadith_serial_end": "2064"
+    },
+    {
+     "UnicId": "1693484247-38",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "37",
+     "bookname_english": "The Book of Clothes and Adornment",
+     "bookname_arabic": "كتاب اللباس والزينة",
+     "hadith_serial_start": "2065",
+     "hadith_serial_end": "2130"
+    },
+    {
+     "UnicId": "1693484247-39",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "38",
+     "bookname_english": "The Book of Manners and Etiquette",
+     "bookname_arabic": "كتاب الآداب",
+     "hadith_serial_start": "2131",
+     "hadith_serial_end": "2159"
+    },
+    {
+     "UnicId": "1693484247-40",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "39",
+     "bookname_english": "The Book of Greetings",
+     "bookname_arabic": "كتاب السلام",
+     "hadith_serial_start": "2160",
+     "hadith_serial_end": "2245"
+    },
+    {
+     "UnicId": "1693484247-41",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "40",
+     "bookname_english": "The Book Concerning the Use of Correct Words",
+     "bookname_arabic": "كتاب الألفاظ من الأدب وغيرها",
+     "hadith_serial_start": "2246",
+     "hadith_serial_end": "2254"
+    },
+    {
+     "UnicId": "1693484247-42",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "41",
+     "bookname_english": "The Book of Poetry",
+     "bookname_arabic": "كتاب الشعر",
+     "hadith_serial_start": "2255",
+     "hadith_serial_end": "2260"
+    },
+    {
+     "UnicId": "1693484247-43",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "42",
+     "bookname_english": "The Book of Dreams",
+     "bookname_arabic": "كتاب الرؤيا",
+     "hadith_serial_start": "2261",
+     "hadith_serial_end": "2275"
+    },
+    {
+     "UnicId": "1693484247-44",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "43",
+     "bookname_english": "The Book of Virtues",
+     "bookname_arabic": "كتاب الفضائل",
+     "hadith_serial_start": "2276",
+     "hadith_serial_end": "2380"
+    },
+    {
+     "UnicId": "1693484247-45",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "44",
+     "bookname_english": "The Book of the Merits of the Companions",
+     "bookname_arabic": "كتاب فضائل الصحابة رضى الله تعالى عنهم",
+     "hadith_serial_start": "2381",
+     "hadith_serial_end": "2547"
+    },
+    {
+     "UnicId": "1693484247-46",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "45",
+     "bookname_english": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+     "bookname_arabic": "كتاب البر والصلة والآداب",
+     "hadith_serial_start": "2548",
+     "hadith_serial_end": "2642"
+    },
+    {
+     "UnicId": "1693484247-47",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "46",
+     "bookname_english": "The Book of Destiny",
+     "bookname_arabic": "كتاب القدر",
+     "hadith_serial_start": "2643",
+     "hadith_serial_end": "2664"
+    },
+    {
+     "UnicId": "1693484247-48",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "47",
+     "bookname_english": "The Book of Knowledge",
+     "bookname_arabic": "كتاب العلم",
+     "hadith_serial_start": "2665",
+     "hadith_serial_end": "2674"
+    },
+    {
+     "UnicId": "1693484247-49",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "48",
+     "bookname_english": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+     "bookname_arabic": "كتاب الذكر والدعاء والتوبة والاستغفار",
+     "hadith_serial_start": "2675",
+     "hadith_serial_end": "2735"
+    },
+    {
+     "UnicId": "1693484247-50",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "49",
+     "bookname_english": "The Book of Heart-Melting Traditions",
+     "bookname_arabic": "كتاب الرقاق",
+     "hadith_serial_start": "2736",
+     "hadith_serial_end": "2743"
+    },
+    {
+     "UnicId": "1693484247-51",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "50",
+     "bookname_english": "The Book of Repentance",
+     "bookname_arabic": "كتاب التوبة",
+     "hadith_serial_start": "2744",
+     "hadith_serial_end": "2771"
+    },
+    {
+     "UnicId": "1693484247-52",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "51",
+     "bookname_english": "Characteristics of The Hypocrites And Rulings Concerning Them",
+     "bookname_arabic": "كتاب صفات المنافقين وأحكامهم",
+     "hadith_serial_start": "2772",
+     "hadith_serial_end": "2784"
+    },
+    {
+     "UnicId": "1693484247-53",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "52",
+     "bookname_english": "Characteristics of the Day of Judgment, Paradise, and Hell",
+     "bookname_arabic": "كتاب صفة القيامة والجنة والنار",
+     "hadith_serial_start": "2785",
+     "hadith_serial_end": "2821"
+    },
+    {
+     "UnicId": "1693484247-54",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "53",
+     "bookname_english": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+     "bookname_arabic": "كتاب الجنة وصفة نعيمها وأهلها",
+     "hadith_serial_start": "2822",
+     "hadith_serial_end": "2879"
+    },
+    {
+     "UnicId": "1693484247-55",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "54",
+     "bookname_english": "The Book of Tribulations and Portents of the Last Hour",
+     "bookname_arabic": "كتاب الفتن وأشراط الساعة",
+     "hadith_serial_start": "2880",
+     "hadith_serial_end": "2955"
+    },
+    {
+     "UnicId": "1693484247-56",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "55",
+     "bookname_english": "The Book of Zuhd and Softening of Hearts",
+     "bookname_arabic": "كتاب الزهد والرقائق",
+     "hadith_serial_start": "2956",
+     "hadith_serial_end": "3014"
+    },
+    {
+     "UnicId": "1693484247-57",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/muslim",
+     "serial_no": "56",
+     "bookname_english": "The Book of Commentary on the Qur'an",
+     "bookname_arabic": "كتاب التفسير",
+     "hadith_serial_start": "3015",
+     "hadith_serial_end": "3033"
+    }
+    
+   ]

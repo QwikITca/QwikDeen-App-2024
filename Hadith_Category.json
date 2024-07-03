@@ -1,0 +1,76 @@
+ [
+      {
+        "id": 1,
+        "name": "Sahih al-Bukhari",
+        "language": "صحيح البخاري",
+        "pages": {
+          "from": 1,
+          "to": 302,
+          "total": 7563
+        },
+        "hadithCount": 7563,
+        "totalPages": 302
+      },
+      {
+        "id": 2,
+        "name": "Sahih Muslim",
+        "language": "صحيح مسلم",
+        "pages": {
+          "from": 1,
+          "to": 392,
+          "total": 7563
+        },
+        "hadithCount": 7563,
+        "totalPages": 392
+      },
+      {
+        "id": 3,
+        "name": "Sunan an-Nasa'i",
+        "language": "سنن النسائي",
+        "pages": {
+          "from": 1,
+          "to": 566,
+          "total": 5761
+        },
+        "hadithCount": 5761,
+        "totalPages": 566
+      },
+      {
+        "id": 4,
+        "name": "Sunan Abi Dawud",
+        "language": "سنن أبي داود",
+        "pages": {
+          "from": 1,
+          "to": 533,
+          "total": 5276
+        },
+        "hadithCount": 5276,
+        "totalPages": 533
+      },
+      {
+        "id": 5,
+        "name": "Jami` at-Tirmidhi",
+        "language": "جامع الترمذي",
+        "pages": {
+          "from": 1,
+          "to": 439,
+          "total": 3893
+        },
+        "hadithCount": 3893,
+        "totalPages": 439
+      },
+      {
+        "id": 6,
+        "name": "Sunan Ibn Majah",
+        "language": "سنن ابن ماجه",
+        "pages": {
+          "from": 1,
+          "to": 439,
+          "total": 4341
+        },
+        "hadithCount": 4341,
+        "totalPages": 439
+      }
+    ]
+  
+  

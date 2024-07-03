@@ -1,0 +1,389 @@
+[
+    {
+     "UnicId": "1693484381-1",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "1",
+     "bookname_english": "Purification (Kitab Al-Taharah)",
+     "bookname_arabic": "كتاب الطهارة",
+     "hadith_serial_start": "1",
+     "hadith_serial_end": "390"
+    },
+    {
+     "UnicId": "1693484381-2",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "2",
+     "bookname_english": "Prayer (Kitab Al-Salat)",
+     "bookname_arabic": "كتاب الصلاة",
+     "hadith_serial_start": "391",
+     "hadith_serial_end": "1160"
+    },
+    {
+     "UnicId": "1693484381-3",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "3",
+     "bookname_english": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+     "bookname_arabic": "كتاب الاستسقاء",
+     "hadith_serial_start": "1161",
+     "hadith_serial_end": "1197"
+    },
+    {
+     "UnicId": "1693484381-4",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "4",
+     "bookname_english": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+     "bookname_arabic": "كتاب صلاة السفر",
+     "hadith_serial_start": "1198",
+     "hadith_serial_end": "1249"
+    },
+    {
+     "UnicId": "1693484381-5",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "5",
+     "bookname_english": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+     "bookname_arabic": "كتاب التطوع",
+     "hadith_serial_start": "1250",
+     "hadith_serial_end": "1370"
+    },
+    {
+     "UnicId": "1693484381-6",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "6",
+     "bookname_english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+     "bookname_arabic": "كتاب شهر رمضان",
+     "hadith_serial_start": "1371",
+     "hadith_serial_end": "1400"
+    },
+    {
+     "UnicId": "1693484381-7",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "7",
+     "bookname_english": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+     "bookname_arabic": "كتاب سجود القرآن",
+     "hadith_serial_start": "1401",
+     "hadith_serial_end": "1415"
+    },
+    {
+     "UnicId": "1693484381-8",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "8",
+     "bookname_english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+     "bookname_arabic": "كتاب الوتر",
+     "hadith_serial_start": "1416",
+     "hadith_serial_end": "1555"
+    },
+    {
+     "UnicId": "1693484381-9",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "9",
+     "bookname_english": "Zakat (Kitab Al-Zakat)",
+     "bookname_arabic": "كتاب الزكاة",
+     "hadith_serial_start": "1556",
+     "hadith_serial_end": "1700"
+    },
+    {
+     "UnicId": "1693484381-10",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "10",
+     "bookname_english": "The Book of Lost and Found Items",
+     "bookname_arabic": "كتاب اللقطة",
+     "hadith_serial_start": "1701",
+     "hadith_serial_end": "1720"
+    },
+    {
+     "UnicId": "1693484381-11",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "11",
+     "bookname_english": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+     "bookname_arabic": "كتاب المناسك",
+     "hadith_serial_start": "1721",
+     "hadith_serial_end": "2045"
+    },
+    {
+     "UnicId": "1693484381-12",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "12",
+     "bookname_english": "Marriage (Kitab Al-Nikah)",
+     "bookname_arabic": "كتاب النكاح",
+     "hadith_serial_start": "2046",
+     "hadith_serial_end": "2174"
+    },
+    {
+     "UnicId": "1693484381-13",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "13",
+     "bookname_english": "Divorce (Kitab Al-Talaq)",
+     "bookname_arabic": "كتاب الطلاق",
+     "hadith_serial_start": "2175",
+     "hadith_serial_end": "2312"
+    },
+    {
+     "UnicId": "1693484381-14",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "14",
+     "bookname_english": "Fasting (Kitab Al-Siyam)",
+     "bookname_arabic": "كتاب الصوم",
+     "hadith_serial_start": "2313",
+     "hadith_serial_end": "2476"
+    },
+    {
+     "UnicId": "1693484381-15",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "15",
+     "bookname_english": "Jihad (Kitab Al-Jihad)",
+     "bookname_arabic": "كتاب الجهاد",
+     "hadith_serial_start": "2477",
+     "hadith_serial_end": "2787"
+    },
+    {
+     "UnicId": "1693484381-16",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "16",
+     "bookname_english": "Sacrifice (Kitab Al-Dahaya)",
+     "bookname_arabic": "كتاب الضحايا",
+     "hadith_serial_start": "2788",
+     "hadith_serial_end": "2843"
+    },
+    {
+     "UnicId": "1693484381-17",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "17",
+     "bookname_english": "Game (Kitab Al-Said)",
+     "bookname_arabic": "كتاب الصيد",
+     "hadith_serial_start": "2844",
+     "hadith_serial_end": "2861"
+    },
+    {
+     "UnicId": "1693484381-18",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "18",
+     "bookname_english": "Wills (Kitab Al-Wasaya)",
+     "bookname_arabic": "كتاب الوصايا",
+     "hadith_serial_start": "2862",
+     "hadith_serial_end": "2884"
+    },
+    {
+     "UnicId": "1693484381-19",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "19",
+     "bookname_english": "Shares of Inheritance (Kitab Al-Fara'id)",
+     "bookname_arabic": "كتاب الفرائض",
+     "hadith_serial_start": "2885",
+     "hadith_serial_end": "2927"
+    },
+    {
+     "UnicId": "1693484381-20",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "20",
+     "bookname_english": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+     "bookname_arabic": "كتاب الخراج والإمارة والفىء",
+     "hadith_serial_start": "2928",
+     "hadith_serial_end": "3088"
+    },
+    {
+     "UnicId": "1693484381-21",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "21",
+     "bookname_english": "Funerals (Kitab Al-Jana'iz)",
+     "bookname_arabic": "كتاب الجنائز",
+     "hadith_serial_start": "3089",
+     "hadith_serial_end": "3241"
+    },
+    {
+     "UnicId": "1693484381-22",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "22",
+     "bookname_english": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+     "bookname_arabic": "كتاب الأيمان والنذور",
+     "hadith_serial_start": "3242",
+     "hadith_serial_end": "3325"
+    },
+    {
+     "UnicId": "1693484381-23",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "23",
+     "bookname_english": "Commercial Transactions (Kitab Al-Buyu)",
+     "bookname_arabic": "كتاب البيوع",
+     "hadith_serial_start": "3326",
+     "hadith_serial_end": "3415"
+    },
+    {
+     "UnicId": "1693484381-24",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "24",
+     "bookname_english": "Wages (Kitab Al-Ijarah)",
+     "bookname_arabic": "كتاب الإجارة",
+     "hadith_serial_start": "3416",
+     "hadith_serial_end": "3570"
+    },
+    {
+     "UnicId": "1693484381-25",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "25",
+     "bookname_english": "The Office of the Judge (Kitab Al-Aqdiyah)",
+     "bookname_arabic": "كتاب الأقضية",
+     "hadith_serial_start": "3571",
+     "hadith_serial_end": "3640"
+    },
+    {
+     "UnicId": "1693484381-26",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "26",
+     "bookname_english": "Knowledge (Kitab Al-Ilm)",
+     "bookname_arabic": "كتاب العلم",
+     "hadith_serial_start": "3641",
+     "hadith_serial_end": "3668"
+    },
+    {
+     "UnicId": "1693484381-27",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "27",
+     "bookname_english": "Drinks (Kitab Al-Ashribah)",
+     "bookname_arabic": "كتاب الأشربة",
+     "hadith_serial_start": "3669",
+     "hadith_serial_end": "3735"
+    },
+    {
+     "UnicId": "1693484381-28",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "28",
+     "bookname_english": "Foods (Kitab Al-At'imah)",
+     "bookname_arabic": "كتاب الأطعمة",
+     "hadith_serial_start": "3736",
+     "hadith_serial_end": "3854"
+    },
+    {
+     "UnicId": "1693484381-29",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "29",
+     "bookname_english": "Medicine (Kitab Al-Tibb)",
+     "bookname_arabic": "كتاب الطب",
+     "hadith_serial_start": "3855",
+     "hadith_serial_end": "3903"
+    },
+    {
+     "UnicId": "1693484381-30",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "30",
+     "bookname_english": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+     "bookname_arabic": "كتاب الكهانة و التطير",
+     "hadith_serial_start": "3904",
+     "hadith_serial_end": "3925"
+    },
+    {
+     "UnicId": "1693484381-31",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "31",
+     "bookname_english": "The Book of Manumission of Slaves",
+     "bookname_arabic": "كتاب العتق",
+     "hadith_serial_start": "3926",
+     "hadith_serial_end": "3968"
+    },
+    {
+     "UnicId": "1693484381-32",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "32",
+     "bookname_english": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+     "bookname_arabic": "كتاب الحروف والقراءات",
+     "hadith_serial_start": "3969",
+     "hadith_serial_end": "4008"
+    },
+    {
+     "UnicId": "1693484381-33",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "33",
+     "bookname_english": "Hot Baths (Kitab Al-Hammam)",
+     "bookname_arabic": "كتاب الحمَّام",
+     "hadith_serial_start": "4009",
+     "hadith_serial_end": "4019"
+    },
+    {
+     "UnicId": "1693484381-34",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "34",
+     "bookname_english": "Clothing (Kitab Al-Libas)",
+     "bookname_arabic": "كتاب اللباس",
+     "hadith_serial_start": "4020",
+     "hadith_serial_end": "4158"
+    },
+    {
+     "UnicId": "1693484381-35",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "35",
+     "bookname_english": "Combing the Hair (Kitab Al-Tarajjul)",
+     "bookname_arabic": "كتاب الترجل",
+     "hadith_serial_start": "4159",
+     "hadith_serial_end": "4213"
+    },
+    {
+     "UnicId": "1693484381-36",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "36",
+     "bookname_english": "Signet-Rings (Kitab Al-Khatam)",
+     "bookname_arabic": "كتاب الخاتم",
+     "hadith_serial_start": "4214",
+     "hadith_serial_end": "4239"
+    },
+    {
+     "UnicId": "1693484381-37",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "37",
+     "bookname_english": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+     "bookname_arabic": "كتاب الفتن والملاحم",
+     "hadith_serial_start": "4240",
+     "hadith_serial_end": "4278"
+    },
+    {
+     "UnicId": "1693484381-38",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "38",
+     "bookname_english": "The Promised Deliverer (Kitab Al-Mahdi)",
+     "bookname_arabic": "كتاب المهدى",
+     "hadith_serial_start": "4279",
+     "hadith_serial_end": "4290"
+    },
+    {
+     "UnicId": "1693484381-39",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "39",
+     "bookname_english": "Battles (Kitab Al-Malahim)",
+     "bookname_arabic": "كتاب الملاحم",
+     "hadith_serial_start": "4291",
+     "hadith_serial_end": "4350"
+    },
+    {
+     "UnicId": "1693484381-40",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "40",
+     "bookname_english": "Prescribed Punishments (Kitab Al-Hudud)",
+     "bookname_arabic": "كتاب الحدود",
+     "hadith_serial_start": "4351",
+     "hadith_serial_end": "4493"
+    },
+    {
+     "UnicId": "1693484381-41",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "41",
+     "bookname_english": "Types of Blood-Wit (Kitab Al-Diyat)",
+     "bookname_arabic": "كتاب الديات",
+     "hadith_serial_start": "4494",
+     "hadith_serial_end": "4595"
+    },
+    {
+     "UnicId": "1693484381-42",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "42",
+     "bookname_english": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+     "bookname_arabic": "كتاب السنة",
+     "hadith_serial_start": "4596",
+     "hadith_serial_end": "4772"
+    },
+    {
+     "UnicId": "1693484381-43",
+     "web-scraper-start-url": "https:\/\/sunnah.com\/abudawud",
+     "serial_no": "43",
+     "bookname_english": "General Behavior (Kitab Al-Adab)",
+     "bookname_arabic": "كتاب الأدب",
+     "hadith_serial_start": "4773",
+     "hadith_serial_end": "5274"
+    }
+   ]
