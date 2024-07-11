@@ -6,8 +6,11 @@ import {
   StyleSheet,
   TouchableOpacity,
   Modal,
+  Platform,
   TouchableWithoutFeedback,
+  Dimensions,
 } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage"; // Import AsyncStorage
 import quran from "../../Quran/quran.json";
 import quranEn from "../../Quran/quranEn.json";
 import quranBN from "../../Quran/quranBN.json";
@@ -18,14 +21,16 @@ import Icon from "react-native-vector-icons/MaterialIcons";
 import Voice from "./Voice";
 import { Audio } from "expo-av";
 import { useNavigation } from "@react-navigation/native";
+import MenuModal from "./MenuModal";
 
+const screenWidth = Dimensions.get("window").width;
+const screenHeight = Dimensions.get("window").height;
 const SurahDetailScreen = ({ route }) => {
   const { surah } = route.params;
   const [selectedTranslation, setSelectedTranslation] = useState("en");
   const [isModalVisible, setIsModalVisible] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
   const [activeSound, setActiveSound] = useState(null);
-    
 
   const getTranslationData = () => {
     switch (selectedTranslation) {
@@ -45,6 +50,7 @@ const SurahDetailScreen = ({ route }) => {
   const surahTranslationVerses = getTranslationData().find(
     (data) => data[surah.number.toString()]
   );
+  const [menuVisible, setMenuVisible] = useState(false);
 
   if (!surahVerses || !surahTranslationVerses) {
     return (
@@ -73,10 +79,24 @@ const SurahDetailScreen = ({ route }) => {
     setSelectedTranslation(translation);
     setIsModalVisible(false); // Close the modal after selecting a translation
   };
+
   const navigation = useNavigation();
-  const handleFavoritePress = () => {
-    // Navigate to the new page with the Surah name
-    navigation.navigate("BookMark", { surahName: surah.name });
+
+  const handleFavoritePress = async () => {
+    try {
+      const bookmarkedSurahs = await AsyncStorage.getItem("bookmarkedSurahs");
+      const bookmarks = bookmarkedSurahs ? JSON.parse(bookmarkedSurahs) : [];
+      if (!bookmarks.some((s) => s.number === surah.number)) {
+        bookmarks.push(surah);
+        await AsyncStorage.setItem(
+          "bookmarkedSurahs",
+          JSON.stringify(bookmarks)
+        );
+      }
+      //navigation.navigate("BookMark"); // Navigate to BookMark page
+    } catch (error) {
+      console.error("Error saving bookmark:", error);
+    }
   };
 
   const playAudio = async (audioUrl) => {
@@ -124,7 +144,13 @@ const SurahDetailScreen = ({ route }) => {
   return (
     <View style={styles.container}>
       <View style={styles.headerContainer}>
-        <Icon name="menu" size={28} color="#FFF" />
+        <Icon
+          name="menu"
+          size={screenWidth * 0.06}
+          color="white"
+          style={styles.menuIcon}
+          onPress={() => setMenuVisible(true)}
+        />
         <Text style={styles.headerTitle}>Quran</Text>
         <View style={styles.headerIcons}>
           <TouchableOpacity onPress={() => setIsModalVisible(true)}>
@@ -190,6 +216,11 @@ const SurahDetailScreen = ({ route }) => {
         </TouchableWithoutFeedback>
       </Modal>
       <Navbar />
+      <MenuModal
+        visible={menuVisible}
+        onClose={() => setMenuVisible(false)}
+        navigation={navigation}
+      />
     </View>
   );
 };
@@ -213,6 +244,7 @@ const styles = StyleSheet.create({
     color: "#FFF",
     fontSize: 18,
     fontWeight: "bold",
+    marginLeft:50,
   },
   headerIcons: {
     flexDirection: "row",
@@ -287,6 +319,12 @@ const styles = StyleSheet.create({
   modalOption: {
     fontSize: 16,
     marginVertical: 10,
+  },
+  menuIcon: {
+    position: "absolute",
+    top: Platform.OS === "ios" ? screenHeight * 0.05 : screenHeight * 0.05,
+    left: screenWidth * 0.05,
+    alignSelf: "flex-start",
   },
 });
 

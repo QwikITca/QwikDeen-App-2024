@@ -4,16 +4,21 @@ import {
   StyleSheet,
   Text,
   TouchableOpacity,
-  FlatList,
+  FlatList,Platform,Dimensions,
 } from "react-native";
 import { TextInput, Button } from "react-native-paper";
 import Icon from "react-native-vector-icons/MaterialCommunityIcons";
 import quranlist from "../../Quran/quranlist.json"; // Replace with your Quran data
 import Navbar from "./Navbar"; // Adjust the path as needed
+import MenuModal from "./MenuModal";
+
+const screenWidth = Dimensions.get("window").width;
+const screenHeight = Dimensions.get("window").height;
 
 const QuranScreen = ({ navigation }) => {
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredQuranList, setFilteredQuranList] = useState(quranlist);
+  const [menuVisible, setMenuVisible] = useState(false);
 
   const onChangeSearch = (query) => {
     setSearchQuery(query);
@@ -67,17 +72,31 @@ const QuranScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <View style={styles.searchContainer}>
-        <TextInput
-          mode="outlined"
-          placeholder="Find Surah"
-          value={searchQuery}
-          onChangeText={onChangeSearch}
-          style={styles.input}
+      <View style={styles.header}>
+        <Icon
+          name="menu"
+          size={screenWidth * 0.06}
+          color="white"
+          style={styles.menuIcon}
+          onPress={() => setMenuVisible(true)}
         />
-        <Button mode="contained" onPress={onSearch} style={styles.button}>
-          Search
-        </Button>
+        <Text style={styles.title}>Quran</Text>
+        <View style={styles.searchBar}>
+          <TextInput
+            placeholder="Describe what you need"
+            value={searchQuery}
+            onChangeText={onChangeSearch}
+            style={styles.input}
+            placeholderTextColor="#888"
+          />
+          <Button
+            mode="contained"
+            onPress={onSearch}
+            style={styles.searchButton}
+          >
+            Search
+          </Button>
+        </View>
       </View>
 
       <FlatList
@@ -89,6 +108,11 @@ const QuranScreen = ({ navigation }) => {
         contentContainerStyle={{ paddingHorizontal: 8 }}
       />
       <Navbar />
+      <MenuModal
+        visible={menuVisible}
+        onClose={() => setMenuVisible(false)}
+        navigation={navigation}
+      />
     </View>
   );
 };
@@ -98,28 +122,55 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#117E2A",
     padding: 14,
+    paddingBottom: 2,
   },
-  searchContainer: {
-    flexDirection: "row",
-    marginBottom: 9,
+  header: {
+    backgroundColor: "#117E2A",
+    paddingHorizontal: 10,
+    paddingBottom: 10,
     alignItems: "center",
-    marginTop: 24,
+  },
+
+  title: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#FFF",
+    marginTop: 10,
+  },
+  searchBar: {
+    flexDirection: "row",
+    alignItems: "center",
+    backgroundColor: "#FFF",
+    borderRadius: 7,
+    overflow: "hidden",
+    width: "100%",
+    marginTop: 10,
+  },
+  menuIcon: {
+    position: "relative",
+    top: Platform.OS === "ios" ? screenHeight * 0.05 : screenHeight * 0.01,
+    left: screenWidth * 0.01,
+    alignSelf: "flex-start",
   },
   input: {
     flex: 1,
-    marginRight: 8,
-    padding: 4,
+    padding: 10,
+    backgroundColor: "transparent",
+    color: "#000",
   },
-  button: {
+  searchButton: {
     height: 40,
     justifyContent: "center",
+    backgroundColor: "#FFC107",
   },
   surahContainer: {
     position: "relative",
     width: "48%",
     height: "50%",
-    marginBottom: 29,
-    marginTop: 9,
+    marginBottom: 23,
+    marginTop: 6,
+    paddingBottom: 2,
+    paddingTop: 7,
   },
   numberBox: {
     position: "absolute",
@@ -134,10 +185,12 @@ const styles = StyleSheet.create({
     backgroundColor: "#FCF3DD",
     borderRadius: 8,
     padding: 18,
+    
   },
   cardContent: {
     flexDirection: "row",
     alignItems: "center",
+    
   },
   number: {
     fontSize: 8,

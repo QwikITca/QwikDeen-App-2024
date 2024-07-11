@@ -59,7 +59,7 @@ const TopNavbar =({navigation}) => {
                             <Image
                                 style={{ width: 22, height: 22,left:0,top:2}}
                                 resizeMode='contain'
-                                source={require('../assets/home.jpg')}
+                                source={require('../assets/Home.png')}
                             />
                         </Pressable>
 

@@ -2,6 +2,7 @@ import React from "react";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import { useRoute } from "@react-navigation/native";
 import dua from "../../Dua/dua.js"; 
+import Navbar from "./Navbar.js";
 
 
 const DuaList = () => {
@@ -34,6 +35,7 @@ const DuaList = () => {
         renderItem={renderDua}
         keyExtractor={(item) => item.title}
       />
+      <Navbar/>
     </View>
   );
 };

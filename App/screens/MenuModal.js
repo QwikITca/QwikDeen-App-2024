@@ -20,12 +20,7 @@ const MenuModal = ({ visible, onClose, navigation }) => {
           <TouchableOpacity style={styles.closeButton} onPress={onClose}>
             <Icon name="close" size={24} color="black" />
           </TouchableOpacity>
-          <TouchableOpacity
-            style={styles.menuItem}
-            onPress={() => handleNavigation("Homepage")}
-          >
-            <Text style={styles.menuText}>Homepage</Text>
-          </TouchableOpacity>
+
           <TouchableOpacity
             style={styles.menuItem}
             onPress={() => handleNavigation("NameofAllah")}
@@ -61,6 +56,12 @@ const MenuModal = ({ visible, onClose, navigation }) => {
             onPress={() => handleNavigation("Settings")}
           >
             <Text style={styles.menuText}>Settings</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={styles.menuItem}
+            onPress={() => handleNavigation("BookMark")}
+          >
+            <Text style={styles.menuText}>BookMark</Text>
           </TouchableOpacity>
         </View>
       </View>

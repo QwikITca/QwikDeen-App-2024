@@ -48,7 +48,7 @@ const Calendar = () => {
 
   const fetchHijriDate = async (date) => {
     try {
-      const response = await axios.get("http://api.aladhan.com/v1/gToH", {
+      const response = await axios.get("https://api.aladhan.com/v1/gToH", {
         params: {
           date: date.split("-").reverse().join("-"), // Convert YYYY-MM-DD to DD-MM-YYYY
         },
@@ -66,7 +66,7 @@ const Calendar = () => {
 
   const fetchCurrentHijriMonth = async (date) => {
     try {
-      const response = await axios.get("http://api.aladhan.com/v1/gToH", {
+      const response = await axios.get("https://api.aladhan.com/v1/gToH", {
         params: {
           date: date.split("-").reverse().join("-"), // Convert YYYY-MM-DD to DD-MM-YYYY
         },
@@ -84,7 +84,7 @@ const Calendar = () => {
 
   const fetchUpcomingEvents = async () => {
     try {
-      const response = await axios.get("http://api.aladhan.com/v1/hToG", {
+      const response = await axios.get("https://api.aladhan.com/v1/hToG", {
         params: {
           year: 1445, // Example Hijri year
           month: 12, // Example Hijri month (Dhul-Hijjah)

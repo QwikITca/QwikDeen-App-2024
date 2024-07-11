@@ -5,8 +5,11 @@ import {
   StyleSheet,
   Dimensions,
   TouchableOpacity,
+  Text,
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+
+import Icon from "react-native-vector-icons/Ionicons";
 
 const screenWidth = Dimensions.get("window").width;
 const screenHeight = Dimensions.get("window").height;
@@ -16,21 +19,18 @@ const Navbar = () => {
 
   return (
     <View style={styles.bottomNav}>
-  
-      
       <TouchableOpacity onPress={() => navigation.navigate("QuranScreen")}>
-        <Image source={require("../assets/Quran.png")} style={styles.navIcon} />
+        <Icon name="book" size={24} color="green" />
+        <Text>Quran</Text>
       </TouchableOpacity>
       <TouchableOpacity onPress={() => navigation.navigate("HomeScreen")}>
-        <Image source={require("../assets/Home.png")} style={styles.navIcon} />
+        <Icon name="home" size={25} color="green" />
+        <Text>Home</Text>
       </TouchableOpacity>
       <TouchableOpacity onPress={() => navigation.navigate("Homepage")}>
-        <Image
-          source={require("../assets/Hadith.png")} // Replace with your own icon
-          style={styles.navIcon}
-        />
+        <Icon name="newspaper" size={24} color="green" />
+        <Text>Hadith</Text>
       </TouchableOpacity>
-      
     </View>
   );
 };

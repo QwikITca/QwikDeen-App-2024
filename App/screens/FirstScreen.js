@@ -10,7 +10,7 @@ const FirstScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <Image
-        source={require("../assets/adaptive-icon-png.jpg")}
+        source={require("../../logo/adaptive-icon.png")}
         style={styles.logo}
         resizeMode="contain"
       />

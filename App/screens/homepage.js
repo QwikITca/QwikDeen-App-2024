@@ -74,7 +74,7 @@ const scrollOffsetY=useRef(new Animated.Value(0)).current;
             <View style={[styles.MainContainer]}>
                 <StatusBar
                 animated={true}
-                backgroundColor='blue'
+                backgroundColor="green"
                 />
               
         <View style={{width:'100%',justifyContent:'center',alignItems:'center'}}>

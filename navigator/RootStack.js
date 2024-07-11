@@ -4,9 +4,8 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import FirstScreen from "../App/screens/FirstScreen";
 import Homepage from "../App/screens/homepage";
 import Hadith_Chapter from "../App/screens/Hadith_Chapter";
-import Chapeter_Details from "../App/screens/Chapeter_Details";
 import BookMark from "../App/screens/Bookmark";
-import  Settings  from "../App/screens/settings";
+import Settings from "../App/screens/settings";
 import HomeScreen from "../App/screens/HomeScreen";
 import NameofAllah from "../App/screens/NameofAllah";
 import QuranScreen from "../App/screens/QuranScreen";
@@ -19,6 +18,9 @@ import IslamicHistory from "../App/screens/IslamicHistory";
 import HistoryDetails from "../App/screens/HistoryDetails";
 import MiraclesQuran from "../App/screens/MiraclesQuran";
 import MiracleDetails from "../App/screens/MiraclesDetails";
+import Chapeter_Details from "../App/screens/Chapeter_Details";
+import HalalRestaurant from "../App/screens/HalalRestaurant";
+
 const Stack = createNativeStackNavigator();
 
 const RootStack = () => {
@@ -38,13 +40,14 @@ const RootStack = () => {
         <Stack.Screen name="SurahDetailScreen" component={SurahDetailScreen} />
         <Stack.Screen name="Hadith_Chapter" component={Hadith_Chapter} />
         <Stack.Screen name="Calendar" component={Calendar} />
-        <Stack.Screen name="Chapter_Details" component={Chapeter_Details} />
         <Stack.Screen name="DuaCatagories" component={DuaCatagories} />
         <Stack.Screen name="DuaList" component={DuaList} />
+        <Stack.Screen name="Chapter_Details" component={Chapeter_Details} />
         <Stack.Screen name="IslamicHistory" component={IslamicHistory} />
         <Stack.Screen name="HistoryDetails" component={HistoryDetails} />
         <Stack.Screen name="MiraclesQuran" component={MiraclesQuran} />
         <Stack.Screen name="MiracleDetails" component={MiracleDetails} />
+        <Stack.Screen name="HalalRestaurant" component={HalalRestaurant} />
         <Stack.Screen name="BookMark" component={BookMark} />
         <Stack.Screen name="Settings" component={Settings} />
       </Stack.Navigator>
